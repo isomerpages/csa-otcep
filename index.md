@@ -8,13 +8,13 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: OTCEP 2022
-      subtitle: OT Cyber Expert Panel
+      subtitle: OT Cybersecurity Expert Panel
       background: /images/7E6C0B22-F7AA-4893-AF0B-5D44847B5573.jpeg
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Panellists
+          description: Browse through the list of renowned panellists
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
