@@ -16,11 +16,11 @@ sections:
         - title: Panellists
           description: Browse through the list of renowned panellists
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Registration
+          description: Registrations are now opened
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Programme Schedule
+          description: Click to know more
           url: /privacy/
   - infobar:
       title: Infobar title
