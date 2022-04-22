@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/98F5BD0D-6132-46E4-B759-A596242B6AC5.jpeg
@@ -20,9 +20,9 @@ sections:
           description: Click here to know more
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: OTCEP 2022
+      subtitle: REGISTER NOW
+      description: Infobar Description
       button: Button text
       url: /faq/
   - resources:
