@@ -7,10 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: OTCEP 2022
-      subtitle: OT Cybersecurity Expert Panel
-      background: /images/7E6C0B22-F7AA-4893-AF0B-5D44847B5573.jpeg
-      button: Contact Us
+      background: /images/98F5BD0D-6132-46E4-B759-A596242B6AC5.jpeg
       url: /contact-us/
       key_highlights:
         - title: Panellists
