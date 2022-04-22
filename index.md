@@ -11,13 +11,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Panellists
-          description: Browse through the list of renowned panellists
+          description: Profile
           url: https://google.com
-        - title: Registration
-          description: Registrations are now opened
+        - title: REGISTRATION
+          description: Start here
           url: https://gmail.com
-        - title: Programme Schedule
-          description: Click to know more
+        - title: Programme
+          description: Click here to know more
           url: /privacy/
   - infobar:
       title: Infobar title
