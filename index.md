@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/98F5BD0D-6132-46E4-B759-A596242B6AC5.jpeg
+      background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
         - title: Panellists
