@@ -24,7 +24,7 @@ sections:
       description: Infobar description
       button: Button Text
   - infobar:
-      title: OTCEP 2022
+      title: REGISTER NOW
       subtitle: REGISTER NOW
       description: Infobar Description
       button: Button text
