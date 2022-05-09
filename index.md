@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/220506 CSA OTCEP2022 WebBanner R00.jpg
+      background: /images/CSA_Isomer_Webinar.png
       url: /contact-us/
       key_highlights:
         - title: Panellists
