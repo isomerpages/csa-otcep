@@ -20,6 +20,10 @@ sections:
           description: ""
           url: /privacy/
   - infobar:
+      title: CSA OTCEP 2022
+      description: Infobar description
+      button: Button Text
+  - infobar:
       title: OTCEP 2022
       subtitle: REGISTER NOW
       description: Infobar Description
