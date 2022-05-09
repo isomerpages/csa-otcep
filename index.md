@@ -20,11 +20,11 @@ sections:
           description: ""
           url: /privacy/
   - infobar:
-      title: CSA OTCEP 2022
-      description: Infobar description
-      button: Button Text
-  - infobar:
       description: OPERATIONAL TECHNOLOGY CYBERSECURITY EXPERT PANEL (OTCEP) FORUM 2022
       button: REGISTER NOW
       url: /faq/
+  - infobar:
+      title: CSA OTCEP 2022
+      description: Infobar description
+      button: Button Text
 ---
