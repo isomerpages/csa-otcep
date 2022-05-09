@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Cybersecurity Singapore
+agency_name: CSA Singapore
 contacts:
   - content:
       - phone: +65 8834 5228
