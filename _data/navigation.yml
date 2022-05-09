@@ -4,9 +4,3 @@ links:
     url: /panellists/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Pages
-    url: /example-pages/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resouces
-    resource_room: true
