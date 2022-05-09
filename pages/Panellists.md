@@ -3,7 +3,7 @@ title: Panellists
 permalink: /panellists
 description: ""
 ---
-![Christophe_600](/images/Speaker%20Profile/220508%20CSA%20Speakers%20Christophe%20Blassiau_600.png)
+![Christophe_450](/images/Speaker%20Profile/220508%20CSA%20Speakers%20Christophe%20Blassiau_450.png)
 <p style="text-align:justify"><font size="3px">Christophe Blassiau is currently driving cybersecurity for Schneider Electric. In the context of IT/OT/ IOT convergence and digital transformation at speed, he addresses Schneider Electric’s cybersecurity posture for a worldwide ecosystem of customers, partners and employees. He started his career in cryptography for the French Army, and he has since been leading worldwide digital transformation programmes for over 20 years, among which the salesforce.com implementation at Schneider with 50,000 users and deploying customer digital platforms. He was also the founder and manager for 11 years of a web & digital marketing agency.</font></p>
 
 ![DalePeterson](/images/Speaker%20Profile/220508%20CSA%20Speakers%20Dale%20Peterson.png)
