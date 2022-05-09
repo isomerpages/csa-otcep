@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: CSA Singapore
+agency_name: "OTCEP 2022 Event Secretariat "
 contacts:
   - content:
       - phone: +65 8834 5228
