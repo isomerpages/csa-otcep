@@ -11,7 +11,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Panellists
-          description: Speakers  Profile
+          description: Speakers Profile
           url: /panellists/
         - title: Registration
           description: ""
