@@ -3,7 +3,7 @@ title: Panellists
 permalink: /permalink
 description: ""
 ---
-<p size="1" style="text-align:justify"><span style="font-size: 17px">
+<span style="font-size: 17px", style="text-align:justify">
 Christophe Blassiau is currently driving cybersecurity for Schneider Electric. In the context of IT/OT/ IOT convergence and digital transformation at speed, he addresses Schneider Electric’s cybersecurity posture for a worldwide ecosystem of customers, partners and employees. He started his career in cryptography for the French Army, and he has since been leading worldwide digital transformation programmes for over 20 years, among which the salesforce.com implementation at Schneider with 50,000 users and deploying customer digital platforms. He was also the founder and manager for 11 years of a web &amp; digital marketing agency.  
 </span>
 
