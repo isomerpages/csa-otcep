@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Cyber Security Singapore
+agency_name: Cybersecurity Singapore
 contacts:
   - content:
       - phone: +65 8834 5228
