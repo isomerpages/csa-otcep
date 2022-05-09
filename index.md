@@ -25,6 +25,4 @@ sections:
       url: https://gems.gevme.com/operational-technology-cybersecurity-expert-panel-otcep-forum-2022-86911165
   - infobar:
       title: CSA OTCEP 2022
-      description: Infobar description
-      button: Button Text
 ---
