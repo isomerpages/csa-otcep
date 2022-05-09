@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Panellists
           description: Profile
-          url: ""
+          url: /panellists
         - title: REGISTRATION
           description: Start here
           url: https://gmail.com
