@@ -46,7 +46,7 @@ organizations including the establishment of a first-of-its-kind ICS/SCADA cyber
 intelligence and intrusion analysis mission for the NSA.
 </font></p>
 
-![OngChenHui_1](/images/Speaker%20Profile/220508%20CSA%20Speakers%20Ong%20Chen%20Hui_1.png)
+![Zachary](/images/Speaker%20Profile/220508%20CSA%20Speakers%20Zachary%20Tudor.png)
 <p style="text-align:justify"><font size="3px">Zachary (Zach) Tudor is responsible for INL’s Nuclear Nonproliferation, Critical Infrastructure Protection and Defense Systems missions. Previously, Tudor served as a Program Director in the Computer Science Laboratory at SRI International, where he supported cyber security and critical infrastructure programs such as DHS Cyber Security Division’s Linking the Oil and Gas Industry to Improve Cybersecurity (LOGIIC) consortium, and the Industrial Control System Joint Working Group R&D working group. He has served as a member of (ISC)2’s Application Security Advisory Board and the NRC’s Nuclear Cyber Security Working Group, as well as the Vice Chair of the Institute for Information Infrastructure Protection at George Washington University. He is a Professor of Practice in the Computer Science Departments of the University of Idaho and Idaho State University, is the Chair of the Board of Directors of the International Information Systems Security Certification Consortium (ISC)2, and a member of the Commonwealth Cyber Initiative advisory board (Virginia).
 </font></p>
 
