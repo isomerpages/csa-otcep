@@ -24,13 +24,7 @@ sections:
       description: Infobar description
       button: Button Text
   - infobar:
-      title: REGISTER NOW
-      subtitle: REGISTER NOW
-      description: Infobar Description
-      button: Button text
+      description: OPERATIONAL TECHNOLOGY CYBERSECURITY EXPERT PANEL (OTCEP) FORUM 2022
+      button: REGISTER NOW
       url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
