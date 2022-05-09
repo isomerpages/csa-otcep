@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: CSA OTCEP 2022
+title: OTCEP 2022
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -26,3 +26,4 @@ sections:
   - infobar:
       title: OTCEP 2022
 ---
+
