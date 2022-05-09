@@ -11,7 +11,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Panellists
-          description: Panellists Profile
+          description: Panellists' Profile
           url: /panellists/
         - title: Registration
           description: ""
@@ -26,4 +26,3 @@ sections:
   - infobar:
       title: OTCEP 2022
 ---
-
