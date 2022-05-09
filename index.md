@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/220506 CSA OTCEP2022 WebBanner R00.jpg
       url: /contact-us/
       key_highlights:
         - title: Panellists
