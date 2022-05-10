@@ -1,4 +1,5 @@
 collections:
   panellists:
     output: true
-    order: []
+    order:
+      - Panellists.md
