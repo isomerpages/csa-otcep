@@ -3,7 +3,7 @@ links:
   - title: Overview
     collection: overview
   - title: Programme
-    url: event-programme/day1
+    url: event-programme/
     sublinks:
       - title: Day 1
         url: event-programme/day1
