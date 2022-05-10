@@ -1,5 +1,7 @@
 logo: /images/csa-logo.jpeg
 links:
+  - title: Overview
+    collection: overview
   - title: Programme
     url: /event-programme/Day1
   - title: Panellists
