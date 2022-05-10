@@ -3,7 +3,12 @@ links:
   - title: Overview
     collection: overview
   - title: Programme
-    url: /event-programme/Day1
+    url: /programme
+    sublinks:
+      - title: Day 1
+        url: event-programme/day1
+      - title: Day 2
+        url: event-programme/day2
   - title: Panellists
     url: /panellists/
   - title: Contact Us
