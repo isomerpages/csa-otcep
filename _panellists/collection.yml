@@ -2,5 +2,5 @@ collections:
   panellists:
     output: true
     order:
-      - Speakers.md
       - Panellists.md
+      - Speakers.md
