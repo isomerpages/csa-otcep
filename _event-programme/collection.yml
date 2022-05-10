@@ -1,4 +1,5 @@
 collections:
   event-programme:
     output: true
-    order: []
+    order:
+      - Day 1/.keep
