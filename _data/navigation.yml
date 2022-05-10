@@ -1,8 +1,8 @@
 logo: /images/csa-logo.jpeg
 links:
-  - title: Panellists
-    url: /panellists/
   - title: Programme
     url: /programme
+  - title: Panellists
+    url: /panellists/
   - title: Contact Us
     url: /contact-us/
