@@ -20,5 +20,3 @@ sections:
           description: View event programme
           url: /programme
 ---
-
-
