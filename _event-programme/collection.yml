@@ -2,5 +2,6 @@ collections:
   event-programme:
     output: true
     order:
+      - Event Programme.md
       - Day 1 Programme.md
       - Day 2 Programme.md
