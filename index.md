@@ -18,5 +18,5 @@ sections:
           url: https://gems.gevme.com/operational-technology-cybersecurity-expert-panel-otcep-forum-2022-86911165
         - title: Programme
           description: View event programme
-          url: /programme
+          url: event-programme/day1
 ---
