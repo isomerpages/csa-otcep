@@ -19,10 +19,4 @@ sections:
         - title: Programme
           description: View event programme
           url: /programme
-  - infobar:
-      description: OPERATIONAL TECHNOLOGY CYBERSECURITY EXPERT PANEL (OTCEP) FORUM 2022
-      button: REGISTER NOW
-      url: https://gems.gevme.com/operational-technology-cybersecurity-expert-panel-otcep-forum-2022-86911165
-  - infobar:
-      title: OTCEP 2022
 ---
