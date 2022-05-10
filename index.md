@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CSA_Isomer_Webinar.png
+      background: /images/Web-Banner02.png
       url: /contact-us/
       key_highlights:
         - title: Panellists
