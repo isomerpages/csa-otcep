@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Operational Technology Cybersecurity Expert Panel (OTCEP) 2022
+title: OTCEP 2022
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -20,3 +20,4 @@ sections:
           description: View event programme
           url: event-programme/day1
 ---
+
