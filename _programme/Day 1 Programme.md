@@ -6,5 +6,5 @@ description: ""
 | Time | Agenda                                        |
 | ------- | ---------                                        |
 | 08:30 - <br>09:00   | Onsite Registration                          |
-| 0900 - 1030    | Falling down!                                  |
+| 09:00 - <br>10:30    | Falling down!                                  |
 | 10:30     | Everything is smooth and slippery in winter! |
