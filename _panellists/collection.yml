@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Panellists.md
-      - Speakers.md
