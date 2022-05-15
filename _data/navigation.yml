@@ -6,7 +6,7 @@ links:
     collection: panellists
   - title: Programme
     collection: programme
-  - title: Contact Us
-    url: /contact-us/
   - title: Media
     collection: media
+  - title: Contact Us
+    url: /contact-us/
