@@ -2,5 +2,5 @@ collections:
   overview:
     output: true
     order:
-      - The Organiser.md
       - About OTCEP.md
+      - The Organiser.md
