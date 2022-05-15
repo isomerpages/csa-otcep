@@ -12,6 +12,3 @@ description: ""
 <p style="text-align:justify">The OTCEP augments efforts under the OT Cybersecurity Masterplan which was developed to enhance the security and resilience of Singapore’s critical sectors, improve cross-sector response to mitigate cyber threats in the OT environment and strengthen partnerships with stakeholders.</p>
 
 The event will run from 12 July to 13 July 2022*.
-
-*Do note that the physical event is for invited guests only.
-
