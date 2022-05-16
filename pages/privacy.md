@@ -20,7 +20,7 @@ c. For your convenience, we may also display to you data that you had previously
 4. Through this event, you may come into contact non-Government entities whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other entities and we encourage you to consult the privacy notices of those entities.<br>
 
 <p style="text-align:justify"><u>Contact Information</u><br>
-5. Please contact secretariat@otcep.gov.sg if you:<br>
+	5. Please contact <b>secretariat@otcep.gov.sg</b> if you:<br>
 a. have any enquires or feedback on our data protection, policies and procedures; or<br>
 b. need more information on or access to data which you have provided directly to us in the past.
 
