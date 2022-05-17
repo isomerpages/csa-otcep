@@ -3,7 +3,7 @@ title: Panellists
 permalink: /presenters/panellists
 description: ""
 ---
-## **PANELLISTS**
+## **Panellists**
 
 ![RobertMLee](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20MLee.png)
 <p style="text-align:justify"><font size="3px">
