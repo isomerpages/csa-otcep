@@ -6,8 +6,6 @@ links:
     collection: panellists
   - title: Programme
     collection: programme
-  - title: Resources
-    url: /resources
   - title: Media
     collection: media
   - title: Contact Us
