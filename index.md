@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Panellists
           description: Panellists' Profile
-          url: /panellists/
+          url: /presenters/panellists/
         - title: Registration
           description: Click here to register
           url: https://gems.gevme.com/operational-technology-cybersecurity-expert-panel-otcep-forum-2022-86911165
