@@ -3,6 +3,7 @@ show_reach: true
 feedback: null
 faq: /faq/
 social_media:
-  facebook: ""
+  facebook: https://www.facebook.com/CSAsingapore
   twitter: https://twitter.com/CSAsingapore
+  instagram: https://www.instagram.com/csasingapore/
   linkedin: https://sg.linkedin.com/company/cyber-security-agency-of-singapore-csa-
