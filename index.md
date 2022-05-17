@@ -15,7 +15,7 @@ sections:
           url: /presenters/panellists/
         - title: Registration
           description: Click here to register
-          url: https://gems.gevme.com/operational-technology-cybersecurity-expert-panel-otcep-forum-2022-86911165
+          url: https://www.gevme.com/operational-technology-cybersecurity-expert-panel-otcep-forum-2022-97874676
         - title: Programme
           description: View event programme
           url: programme/day1
