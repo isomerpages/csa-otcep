@@ -3,7 +3,7 @@ title: About OTCEP
 permalink: /overview/about
 description: ""
 ---
-### ABOUT THE EVENT
+### About OTCEP
 
 <p style="text-align:justify">Established in May 2021, the Operational Technology Cybersecurity Expert Panel (OTCEP) allows Singapore’s Operational Technology (OT) cybersecurity practitioners, operators, researchers, and policy makers from the Government, Critical Information Infrastructure (CII) sectors, academia and other OT industries to have direct access to internationally renowned experts. Drawing from appointed members’ respective experience in OT domains in engineering, operations and governance, these stakeholders can tap on their existing capabilities to enhance the cyber resilience of Singapore’s OT sector.</p>
 
