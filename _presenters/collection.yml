@@ -1,5 +1,5 @@
 collections:
-  panellists:
+  presenters:
     output: true
     order:
       - Speakers.md
