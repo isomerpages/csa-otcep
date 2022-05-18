@@ -8,16 +8,12 @@ description: ""
 
 | Time | Agenda                                        |
 | ------- | ---------                                        |
-| 09:00- 09:05  | Welcome Speech<br><br>Mr David Koh, Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore     |
-| 00:00-<br>00:00    | Welcome (CE/CSA)                  <br><br><br><br> |
-| 00:00-<br>00:00     | Keynote Speech (Minister) <br><br><br><br> |
-| 00:00 - 00:00 | Presentation #1 – The latest ICS Malware (Rob M Lee)<br><br><br><br> |
-| 00:00 - 00:00    | Panel Discussion #1 <br> Andre Shori – CISO, Schnneider Electric (Moderator)<br><br><br><br> |
-| 00:00-<br>00:00    | Presentation #2 – Security Truth or Consequences (Dale Peterson) <br><br><br><br> |
-|00:00 - 00:00     | Panel Discussion #2 – Gerry Chng, Executive Director, Deloitte (Moderator) <br><br><br><br> |
-| 00:00 - 00:00    | Lunch <br><br><br><br> |
-| 00:00 - 00:00    | Presentation #3 – Hidden Code on PLC (Sharon Brizinov) <br><br><br><br> |
-| 00:00 - 00:00     | Panel Discussion #3 – Ivan Lee, AVP (Capability Dev), STE (Moderator) <br><br><br><br> |
-| 00:00 - 00:00    | Tea Break <br><br><br><br> |
-|00:00 - 00:00     | Presentation #4– Securing PLC Code Practices (Sarah Fluchs) <br><br><br><br> |
-| 00:00 - 00:00     | Panel Discussion #4 – TBA: Honeywell (Moderator) <br><br><br><br> |
+| 09:00-<br> 09:05  | Welcome Speech<br><br>Mr David Koh, Commissioner of Cybersecurity & Chief Executive,<br> Cyber Security Agency of Singapore     |
+| 09:05-<br>09:15       | Keynote Speech<br><br>Mrs Josephine Teo, Minister for Communications and<br> Information and Second Minister for Home Affairs |
+| 09:15-<br> 10:45 | Presentation and Panel Discussion - The latest Industrial Control System Malware |
+| 10:45-<br>11:10    |  Break |
+|11:10-<br> 12:45     | Presentation and Panel Discussion - Security Truth or Consequences  |
+| 12:45 - 14:00    | Lunch <br><br><br><br> |
+| 14:00 - 15:30    | Presentation and Panel Discussion – Hidden Code on PLC  <br><br><br><br> |
+| 15:30 - 16:00    | Break |
+| 16:00 - 17:30    | Presentation and Panel Discussion – Securing PLC Code Practices |
