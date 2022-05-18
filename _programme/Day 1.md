@@ -15,5 +15,5 @@ description: ""
 |11:10-<br> 12:45     | Presentation and Panel Discussion - Security Truth or Consequences  <br><br><br><br>|
 | 12:45-<br> 14:00    | Lunch <br><br><br><br>|
 | 14:00-<br> 15:30    | Presentation and Panel Discussion – Hidden Code on PLC  <br><br><br><br> |
-| 15:30 - 16:00    | Break <br><br><br><br>|
-| 16:00 - 17:30    | Presentation and Panel Discussion – Securing PLC Code Practices |
+| 15:30-<br> 16:00    | Break <br><br><br><br>|
+| 16:00-<br> 17:30    | Presentation and Panel Discussion – Securing PLC Code Practices |
