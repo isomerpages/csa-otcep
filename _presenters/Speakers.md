@@ -5,6 +5,7 @@ description: ""
 ---
 ## **Speakers**
 
+![Christ_test](/images/Chris_small_test.png)
 
 ![Jos3](/images/Speakers/JosephineTeo_Small_3.png)
 
