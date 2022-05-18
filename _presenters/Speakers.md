@@ -5,10 +5,7 @@ description: ""
 ---
 ## **Speakers**
 
-![Christ_test](/images/Chris_small_test.png)
-
-![Jos3](/images/Speakers/JosephineTeo_Small_3.png)
-
+![JosephineTeo](/images/Speakers/220511%20CSA%20Speakers%20Josephine%20Teo.png)
 <p style="text-align:justify"><font size="3px">
 Minister Josephine Teo was appointed Minister of Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity on 15 May 2021. She is also a member of the National Jobs Council and the Future Economy Council, and has been concurrently the Second Minister of Home Affairs since May 2018.</font></p>
 
@@ -23,5 +20,3 @@ An alumna of Dunman High School and Raffles Junior College, Mrs Teo graduated fr
 
 <p style="text-align:justify"><font size="3px">
 She is married and has three grown-up children. She enjoys creating memorable experiences for family and friends.</font></p>
-
-![JosephineTeo](/images/Speakers/220511%20CSA%20Speakers%20Josephine%20Teo.png)
