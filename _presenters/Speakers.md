@@ -4,7 +4,7 @@ permalink: /presenters/speakers
 description: ""
 ---
 ## **Speakers**
-![JosephineTeo](/images/Speakers/220511%20CSA%20Speakers%20Josephine%20Teo.png)
+
 
 ![JT](/images/Speakers/JosephineTeo_Small.png)
 
@@ -22,3 +22,5 @@ An alumna of Dunman High School and Raffles Junior College, Mrs Teo graduated fr
 
 <p style="text-align:justify"><font size="3px">
 She is married and has three grown-up children. She enjoys creating memorable experiences for family and friends.</font></p>
+
+![JosephineTeo](/images/Speakers/220511%20CSA%20Speakers%20Josephine%20Teo.png)
