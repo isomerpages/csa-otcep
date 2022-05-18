@@ -5,7 +5,7 @@ description: ""
 ---
 ## Day 2 Programme Outline
 
-| Time | Agenda                                        |
+| Time | Agenda|
 | ------- | ---------                                        |
 | 00:00-<br>00:00   | Onsite Registration         |
 | 00:00-<br>00:00    | Welcome speech (CE/CSA)                   |
