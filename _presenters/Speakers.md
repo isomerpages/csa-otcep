@@ -20,7 +20,9 @@ An alumna of Dunman High School and Raffles Junior College, Mrs Teo graduated fr
 
 <p style="text-align:justify"><font size="3px">
 She is married and has three grown-up children. She enjoys creating memorable experiences for family and friends.</font></p>
+
 ---
+
 
 ![DavidKoh](/images/Speakers/220511%20CSA%20Speakers%20David%20Koh.png)
 <p style="text-align:justify"><font size="3px">Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the founding Chief Executive of the Cyber Security Agency (CSA) of Singapore. He is concurrently Chief (Digital Security & Technology) at the Ministry of Communications and Information.</font></p>
