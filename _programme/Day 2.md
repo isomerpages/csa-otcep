@@ -7,16 +7,7 @@ description: ""
 
 | Time | Agenda|
 | ------- | ---------                                        |
-| 00:00-<br>00:00   | Onsite Registration         |
-| 00:00-<br>00:00    | Welcome speech (CE/CSA)                   |
-| 00:00-<br>00:00     | Keynote Speech (Minister) |
-| 00:00 - 00:00 | Presentation  - The latest ICS Malware |
-| 00:00 - 00:00    | Panel Discussion<br> Andre Shori – CISO, Schnneider Electric (Moderator) |
-| 00:00-<br>00:00    | Presentation– Security Truth or Consequences (Dale Peterson)  |
-|00:00 - 00:00     | Panel Discussion #2 – Gerry Chng, Executive Director, Deloitte (Moderator)  |
-| 00:00 - 00:00    | Lunch  |
-| 00:00 - 00:00    | Presentation #3 – Hidden Code on PLC (Sharon Brizinov)  |
-| 00:00 - 00:00     | Panel Discussion #3 – Ivan Lee, AVP (Capability Dev), STE (Moderator)  |
-| 00:00 - 00:00    | Tea Break  |
-|00:00 - 00:00     | Presentation #4– Securing PLC Code Practices (Sarah Fluchs)  |
-| 00:00 - 00:00     | Panel Discussion #4 – TBA: Honeywell (Moderator) |
+| 9:00-<br> 10:30  | Technical Sharing #1 - (OT Incident Response) <br><br><br><br>C-Suite Engagement <br><b>(Closed-Door - By Invitation Only)<b> <br><br>|
+| 10:30-<br> 12:00     | Technical Sharing #2 - (Secure Enginnering)     <br><br><br><br>|
+| 12:00-<br>14:00    | Lunch <br><br><br><br>|
+| 14:00-<br> 17:30     | Sectoral Deep Dive Discussion<br><b>(Closed-Door - By Invitation Only)<b><br><br><br><br>|
