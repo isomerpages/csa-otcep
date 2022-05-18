@@ -3,7 +3,6 @@ title: Organiser
 permalink: /overview/Organiser
 description: ""
 ---
-
 ###  Organiser
 
 ![csa_logo](/images/Organiser%20Logo/about_csa.png)
