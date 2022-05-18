@@ -10,8 +10,8 @@ sections:
       background: /images/WebBanner_R02_3.jpg
       url: /contact-us/
       key_highlights:
-        - title: Panellists
-          description: Panellists' Profile
+        - title: Presenters
+          description: Presenters' profile
           url: /presenters/panellists/
         - title: Registration
           description: Click here to register
