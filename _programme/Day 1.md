@@ -8,8 +8,8 @@ description: ""
 
 | Time | Agenda                                        |
 | ------- | ---------                                        |
-| 09:00-<br> 09:05  | Welcome Speech<br><br>Mr David Koh, Commissioner of Cybersecurity & Chief Executive,<br> Cyber Security Agency of Singapore <br><br><br><br>|
-| 09:05-<br>09:15       | Keynote Speech<br><br>Mrs Josephine Teo, Minister for Communications and<br> Information and Second Minister for Home Affairs<br><br><br><br>|
+| 09:00-<br> 09:05  | Welcome Speech<br><br><b>Mr David Koh, Commissioner of Cybersecurity & Chief Executive,<br> Cyber Security Agency of Singapore</b> <br><br><br><br>|
+| 09:05-<br>09:15       | Keynote Speech<br><br><b>Mrs Josephine Teo, Minister for Communications and<br> Information and Second Minister for Home Affairs</b> <br><br><br><br>|
 | 09:15-<br> 10:45 | Presentation and Panel Discussion - The latest Industrial Control System Malware <br><br><br><br>|
 | 10:45-<br>11:10    |  Break <br><br><br><br>|
 |11:10-<br> 12:45     | Presentation and Panel Discussion - Security Truth or Consequences  <br><br><br><br>|
