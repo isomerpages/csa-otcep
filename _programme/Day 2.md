@@ -3,7 +3,7 @@ title: Day 2
 permalink: /programme/day2
 description: ""
 ---
-## **Day 2 Programme Outline**
+## Day 2 Programme Outline
 
 | Time | Agenda                                        |
 | ------- | ---------                                        |
