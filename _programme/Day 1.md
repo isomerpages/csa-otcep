@@ -8,7 +8,7 @@ description: ""
 
 | Time | Agenda                                        |
 | ------- | ---------                                        |
-| 00:00-<br>00:00   | Onsite Registration        <br><br><br><br> |
+| 09:00- 09:05  | Welcome Speech<br><br>Mr David Koh, Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore     |
 | 00:00-<br>00:00    | Welcome (CE/CSA)                  <br><br><br><br> |
 | 00:00-<br>00:00     | Keynote Speech (Minister) <br><br><br><br> |
 | 00:00 - 00:00 | Presentation #1 – The latest ICS Malware (Rob M Lee)<br><br><br><br> |
