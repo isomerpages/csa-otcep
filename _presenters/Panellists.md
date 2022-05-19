@@ -26,8 +26,6 @@ He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</fon
 
 ---
 
-<br>
-
 ## **Panellists**
 
 ![RobertMLee](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20MLee.png)
