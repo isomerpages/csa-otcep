@@ -1,9 +1,9 @@
 ---
-title: Day 1
+title: Day 1a
 permalink: /programme/day1
 description: ""
 ---
-## Day 1 Programme Outline
+## Programme Outline
 
 
 | Time     | Agenda                                        |
