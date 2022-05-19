@@ -17,3 +17,6 @@ description: ""
 | <br>14:00-<br> 15:30<br> | <u>Presentation and Panel Discussion – OT Incident Response </u><br>|
 | <br>15:30-<br> 16:00<br> | <br> Break <br>|
 | <br>16:00-<br> 17:30<br> | <u>Presentation and Panel Discussion – Securing PLC Code Practices </u><br><br> <i> For many years, Programmable Logic Controllers (PLCs) have been insecure by design. Several years into customizing and applying best practices from IT gave rise to secure protocols, encrypted communications, network segmentation etc. However, to date, there has not been a focus on using the characteristic features in PLCs (or SCADA/DCS) for security, or how to program PLCs with security in mind. </i> <br>|
+
+<br>
+*<i>Programme and timings are subjected to changes<i>
