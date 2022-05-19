@@ -10,8 +10,7 @@ description: ""
 | -------  | ---------                                        |
 | 09:00-<br> 09:05     | Welcome Speech<br><br><b>Mr David Koh, Commissioner of Cybersecurity & Chief Executive,<br> Cyber Security Agency of Singapore</b> <br>
 | 09:05-<br>09:15       | Keynote Speech<br><br><b>Mrs Josephine Teo, Minister for Communications and<br> Information and Second Minister for Home Affairs</b> <br>|
-| 09:15-<br> 10:45 | Presentation and Panel Discussion - The latest Industrial Control System Malware <br><br><br> 
-<i>The latest ICS Malware Pipedream/InController emerges as the latest Industrial Control System (ICS) Malware that is tailored to target specific Programmable Logic Controller commonly found in ICS that could be expanded to other similar targets in the OT Sectors.</i> <br><br>|
+| 09:15-<br> 10:45 | Presentation and Panel Discussion - The latest Industrial Control System Malware <br><br><br> <i>The latest ICS Malware Pipedream/InController emerges as the latest Industrial Control System (ICS) Malware that is tailored to target specific Programmable Logic Controller commonly found in ICS that could be expanded to other similar targets in the OT Sectors.</i> <br><br>|
 | 10:45-<br>11:10    |  Break <br><br>|
 |11:10-<br> 12:45     | Presentation and Panel Discussion - Security Truth or Consequences  <br><br>|
 | 12:45-<br> 14:00    | Lunch <br><br>|
