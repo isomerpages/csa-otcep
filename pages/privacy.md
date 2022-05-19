@@ -21,8 +21,8 @@ permalink: /privacy/
 
 <p style="text-align:justify"><u>Contact Information</u><br>
 5. Please contact secretariat@otcep.gov.sg if you:<br>
-&nbsp;&nbsp(a) have any enquires or feedback on our data protection, policies and procedures; or<br>
-&nbsp;&nbsp&nbsp(b) need more information on or access to data which you have provided directly to us in the past.
+&nbsp;&nbsp;(a) have any enquires or feedback on our data protection, policies and procedures; or<br>
+&nbsp;&nbsp;(b) need more information on or access to data which you have provided directly to us in the past.
 
 <p style="text-align:justify"><u>Definitions</u><br>
 6. “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.<br>
