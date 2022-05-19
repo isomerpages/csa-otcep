@@ -54,8 +54,17 @@ Forbes named Robert to its 30 under 30 (2016) list as one of the "brightest entr
 </font></p>
 
 ![SarahFluchs](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Sarah%20Fluchs.png)
-<p style="text-align:justify"><font size="4px">Sarah Fluchs is the CTO of admeritia, which specializes in security consulting for the process industry, manufacturing, and critical infrastructures. A process and automation engineer herself, Sarah is convinced that creating solid engineering methods that speak the language of automation engineers is key for OT Security. Her main research interests include security engineering, security by design, security for safety, and security diagrams and information models. Sarah is an active contributor to ISA/IEC standards and a board member at the ISA Standards & Practices board, the German ICS security conference "Security unter Kontrolle" and the German water industry organization KDW. She is one of the leaders of the Top 20 Secure PLC Coding Project.
-</font></p>
+<p style="text-align:justify"><font size="4px">Sarah Fluchs is the CTO of admeritia, which specializes in security consulting for the process industry,
+manufacturing, and critical infrastructures. Prior to her current role, Sarah has developed cybersecurity guidance for the water sector at the German Federal Office for Information Security (BSI).</font></p>
+
+<p style="text-align:justify"><font size="4px">
+A process and automation engineer herself, Sarah is convinced that creating solid engineering methods that speak the language of automation engineers is key for OT Security. Her main research interests include security engineering, security by design, security for safety, and security diagrams and information models.</font></p> 
+
+<p style="text-align:justify"><font size="4px">
+She currently leads a government-funded research project on security by design for ICS in cooperation with industry partners INEOS and HIMA, two German universities, and NAMUR (User Association of Automation Technology in Process Industries).</font></p>
+
+<p style="text-align:justify"><font size="4px">
+Sarah is an active contributor to ISA/IEC standards and a board member at the ISA Standards & Practices board, the German ICS security conference "Security unter Kontrolle" and the German water industry organization KDW. She is one of the leaders of the Top 20 Secure PLC Coding Project.</font></p>
 
 ![Marc](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Marco%20(Marc)%20Ayala.png)
 <p style="text-align:justify"><font size="4px">Marco (Marc) Ayala is a process automation professional with over 25 years of experience working in petrochemical facilities where he designed, implemented, and maintained their process instrumentation, automation systems and process control networks. Marco has expertise with safety systems, advanced process control, enterprise historians and industrial network security where he worked with enterprise-IT to implement a corporate PCN security solution. He is active in the Oil and Gas, Maritime port, offshore facilities, and Chemical Sector cyber security efforts working alongside federal, local, and state entities for securing the private sector. Marco is a certified cyber instructor for ISA.
@@ -70,8 +79,7 @@ Forbes named Robert to its 30 under 30 (2016) list as one of the "brightest entr
 </font></p>
 
 ![EricByres](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Eric%20Byres%20(1).png)
-<p style="text-align:justify"><font size="4px">Eric Byres (P.Eng, ISA Fellow) is widely recognised as one of the world’s foremost experts in the field of Supervisory Control and Data Acquisition (SCADA) and Industrial Control Systems (ICS) security. As the inventor of the industry-leading Tofino Industrial Security Solution, Eric and his partner Joann guided the product through its evolution from academic research project and early-stage start-up to the successful acquisition by Belden Inc. (NYSE: BDC) in 2011. Today the Tofino product is the most widely deployed ICS-specific firewall in the world. Eric is also known for his leadership in research, international standards and best practices for data security in industrial environments. As the founder of the BCIT Critical Infrastructure Security Centre, he shaped it into one of North America's leading academic facilities in the SCADA cybersecurity, culminating in a SANS Institute Security Leadership Award in 2006.
-</font></p>
+<p style="text-align:justify"><font size="4px">Eric Byres is widely recognized as one of the world’s leading experts in the field of Operation Technology (OT) cybersecurity. He is the inventor of the Tofino Security technology – the most widely deployed ICS-specific firewall in the world. Eric is also known for his leadership in international standards and research for industrial communications. Eric holds an extensive list of accomplishments, which includes founding the BCIT Critical Infrastructure Security Centre, providing guidance to government security agencies and major energy companies on protection for critical infrastructures, sitting as the chair of the ISA SP-99 Security Technologies Working Group, representing Canada for the IEC TC65/WG10 standards effort, and testifying to the US Congress on the Security of Industrial Control Systems in National Critical Infrastructures. He has received numerous awards from international organizations and was made an ISA Fellow in 2009. In 2013 he received ISA’s highest honor: Excellence in Leadership. Eric was also a founding member of the NTIA/INL Energy Industry SBOM Proof of Concept Working Group and the NTIA SBOM Awareness & Adoption Committee. Today Eric is the Chief Technology Officer for aDolus Technology Inc, and is focused on ensure the security of the software supply chain in OT systems.</font></p>
 
 ![RobertHannigan](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20Hannigan.png)
 <p style="text-align:justify"><font size="4px">Robert is international Chairman of BlueVoyant, a global cyber security company specialising in supply chain risk and advanced managed security services. Robert Hannigan is a former Director of Government Communications Headquarters (GCHQ), the UK’s largest intelligence and cyber security agency and established the UK National Cyber Security Centre in 2016. He retired from Government service after 20 years in national security roles, including the role of Prime Minister’s Security Adviser. Robert writes on cyber, technology and national security issues in the Financial Times and is a Senior Fellow at the Belfer Center, Harvard, the Royal United Services Institute, and the Institution of Engineering and Technology, London.
@@ -92,8 +100,14 @@ In  that  context, he  is  an Executive  Member  of  the  Cyber  Resilience  in 
 </font></p>
 
 ![KazuoYamaoka](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Kazuo%20Yamaoka.png)
-<p style="text-align:justify"><font size="4px">Kazuo Yamaoka is responsible for the development of cybersecurity architecture and consultation of OT and IoT Cyber Security. With more than 20 years of practical experience in the electric power industry, he provides practical OT cybersecurity solution development and consulting. His area of expertise covers not only utilities but also other domain’s OT/industrial automation systems in factories and plants.
-</font></p>
+<p style="text-align:justify"><font size="4px">Kazuo Yamaoka is currently the Chief Information Security Officer (CISO) at a Japanese semiconductor manufacturing company, and fully understands the various cybersecurity challenges which both management and practitioners are facing.
+He was a cybersecurity consultant, after working for over 20 years in the electric power industry.</font></p>
+
+<p style="text-align:justify"><font size="4px">
+As a cybersecurity consultant, he was responsible for advisory work for critical infrastructure industries and manufacturing companies, and service development based on IT/OT converged cybersecurity architecture, as well as worked on a Vehicle Security Operation Center (VSOC) development project for connected cars.</font></p>
+
+<p style="text-align:justify"><font size="4px">
+While working in the electric power industry, he was a member of the committee that created "Guidelines for Electric Power Control System Security" for Japanese electric power industry, a member of the Smart Grid Technical Standardization Committee, and a member of the IEC TC57.</font></p>
 
 ![Daniel](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Daniel%20Ehrenreich.png)
 <p style="text-align:justify"><font size="4px">Daniel Ehrenreich is a consultant and lecturer acting at Secure Communications and Control Experts, and periodically teaches in colleges and presents at industry conferences on the secured integration of cyber defense with ICS. Daniel has over 32 years of engineering experience with ICS and OT systems for electricity, water, gas, and power plants as part of his activities at Tadiran, Motorola, Siemens, and Waterfall Security. He is a contributing member to three ISA 62443 workgroups and has been re-selected as Chairperson for the 7th ICS CyberSec 2022 conference taking place in Israel on 16 November 2022. </font></p>
