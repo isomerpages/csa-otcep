@@ -29,13 +29,22 @@ He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</fon
 ## **Panellists**
 
 ![RobertMLee](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20MLee.png)
+
 <p style="text-align:justify"><font size="4px">
-Robert M. Lee is considered a pioneer in the ICS threat intelligence and incident response community. Robert serves currently on the U.S. Department of Energy’s Electricity Advisory Committee, the World Economic Forum’s Subcommittee on Cyber Resilience in Electricity as well as its Oil and Gas community, where he contributes as an Advisory Committee Member. A passionate educator - Robert is the course author of SANS ICS515 – “ICS Active Defense and Incident Response” with its accompanying GIAC certification GRID and lead-author of SANS FOR578 – “Cyber Threat Intelligence” with its accompanying GIAC GCTI certification. Robert obtained his start in cyber security in the U.S. Air Force where he
-served as a Cyber Warfare Operations Officer tasked to the National Security Agency (NSA).
-He has performed defense, intelligence, and attack missions in various government
-organizations including the establishment of a first-of-its-kind ICS/SCADA cyber threat
-intelligence and intrusion analysis mission for the NSA.
-</font></p>
+Robert is a recognized pioneer in the industrial cybersecurity community. He is CEO and co-founder of Dragos, a global technology leader in cybersecurity for industrial controls systems (ICS)/operational technology (OT) environments. </font></p>
+
+<p style="text-align:justify"><font size="4px">
+In addition, Robert serves on the Department of Energy's Electricity Advisory Committee as the Vice Chair of the Department of Energy's Grid Resilience for National Security Subcommittee and is a member of the World Economic Forum's subcommittees on Cyber Resilience for the Oil & Gas and Electricity communities. </font></p>
+
+<p style="text-align:justify"><font size="4px">
+Robert is routinely sought after for advice and input on cybersecurity for industrial infrastructure and is regularly asked to brief national leaders. He testified to the U.S. House of Representatives Committee on Energy and Commerce--Subcommittee on Oversight and Investigations, and to the U.S. Senate Energy and Natural Resources Committee, to advise on policy issues related to critical infrastructure cyber threats. He has also presented at the World Economic Forum Annual Meeting in Davos, and industry leading conferences such as RSA, SANS, BlackHat, and DefCon on the topic of industrial cybersecurity and threats. </font></p>
+
+<p style="text-align:justify"><font size="4px">
+Robert gained his start in security as a U.S. Air Force Cyber Warfare Operations Officer tasked to the National Security Agency, where he built a first-of-its-kind mission identifying and analyzing national threats to industrial infrastructure. He went on to build the industrial community's first dedicated monitoring and incident response class at the SANS Institute (ICS515) and the industry recognized cyber threat intelligence course (FOR578).</font></p>
+
+<p style="text-align:justify"><font size="4px">
+Forbes named Robert to its 30 under 30 (2016) list as one of the "brightest entrepreneurs, breakout talents, and change agents" in enterprise technology. A business leader but also technical practitioner, he helped lead the investigation into the 2015 attack on Ukraine's power grid, the first time an electric system was taken down due to a cyberattack. With his team at Dragos he has been involved in the most significant cyberattacks on industrial infrastructure, including the investigation and analysis of the 2016 attack on Ukraine’s electric system, the 2017 TRISIS attack on a Saudi Arabian petrochemical facility in the first attempt to try to kill people through malicious software, and the 2021 Colonial Pipeline ransomware attack. In 2022, his team at Dragos uncovered PIPEDREAM, a highly flexible framework to attack industrial infrastructure globally. Robert’s work has been featured in the book Sandworm and on 60 Minutes.</font></p> 	
+
 
 ![DalePeterson](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Dale%20Peterson.png)
 <p style="text-align:justify"><font size="4px">For over 20 years, Dale Peterson has been on the leading/bleeding edge helping security- conscious asset owners effectively and efficiently manage risk to their critical assets. He has pioneered numerous Industrial Control Systems (ICS) security tools and techniques, such as the first intrusion detection signatures for ICS that are now in every commercial product. In 2007, he created S4 Events to showcase the best offensive and defensive work in ICS security and build a community. S4 is now the largest and most advanced ICS event in the world.</font></p>
