@@ -2,5 +2,5 @@ collections:
   presenters:
     output: true
     order:
-      - Guest of Honor.md
+      - Guest of Honour.md
       - Panellists.md
