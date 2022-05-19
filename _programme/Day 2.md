@@ -12,3 +12,7 @@ description: ""
   | <br>10:30-<br> 12:00<br> | <u>Technical Sharing #2 - (Secure Enginnering) </u><br>|
 | <br>12:00-<br> 14:00<br> | <br>Lunch <br>|
 | <br>14:00-<br> 17:30<br> | <u>Sectoral Deep Dive Discussion </u><br> <i> Closed-Door (By Invitation Only)<i/><br>|
+
+	
+<br>
+*<i>Programme and timings are subjected to changes<i>
