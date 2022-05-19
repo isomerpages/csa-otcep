@@ -21,5 +21,5 @@ sections:
           url: /presenters/guest-of-honour
         - title: speakers and panellists
           description: Click to view profile
-          url: https://csa-otcep-staging.netlify.app/presenters/speakers-and-panellists
+          url: /presenters/speakers-and-panellists
 ---
