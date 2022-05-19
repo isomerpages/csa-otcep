@@ -17,7 +17,7 @@ sections:
           description: View event programme
           url: programme/day1
         - title: Guest of Honour
-          description: Ms Josephine Teo
+          description: Mrs Josephine Teo
           url: /presenters/guest-of-honour
         - title: speakers and panellists
           description: Click to view profile
