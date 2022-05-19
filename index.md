@@ -16,7 +16,7 @@ sections:
         - title: Programme
           description: View event programme
           url: programme/day1
-        - title: Presenters
+        - title: speakers and panellists
           description: Presenters' profile
           url: /presenters/panellists/
 ---
