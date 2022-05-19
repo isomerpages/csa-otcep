@@ -63,9 +63,6 @@ A process and automation engineer herself, Sarah is convinced that creating soli
 <p style="text-align:justify"><font size="4px">
 She currently leads a government-funded research project on security by design for ICS in cooperation with industry partners INEOS and HIMA, two German universities, and NAMUR (User Association of Automation Technology in Process Industries).</font></p>
 
-<p style="text-align:justify"><font size="4px">
-Sarah is an active contributor to ISA/IEC standards and a board member at the ISA Standards & Practices board, the German ICS security conference "Security unter Kontrolle" and the German water industry organization KDW. She is one of the leaders of the Top 20 Secure PLC Coding Project.</font></p>
-
 ![Marc](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Marco%20(Marc)%20Ayala.png)
 <p style="text-align:justify"><font size="4px">Marco (Marc) Ayala is a process automation professional with over 25 years of experience working in petrochemical facilities where he designed, implemented, and maintained their process instrumentation, automation systems and process control networks. Marco has expertise with safety systems, advanced process control, enterprise historians and industrial network security where he worked with enterprise-IT to implement a corporate PCN security solution. He is active in the Oil and Gas, Maritime port, offshore facilities, and Chemical Sector cyber security efforts working alongside federal, local, and state entities for securing the private sector. Marco is a certified cyber instructor for ISA.
 </font></p>
