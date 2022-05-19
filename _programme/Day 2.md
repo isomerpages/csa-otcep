@@ -1,9 +1,9 @@
 ---
-title: Day 2
+title: Day 2 - 13 July
 permalink: /programme/day2
 description: ""
 ---
-## Day 2 Programme Outline
+## Programme Outline
 
 | Time | Agenda|
 | ------- | ---------                                        |
