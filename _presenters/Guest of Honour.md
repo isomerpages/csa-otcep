@@ -5,8 +5,7 @@ description: ""
 ---
 ![JosephineTeo](/images/Speakers/220511%20CSA%20Speakers%20Josephine%20Teo_2.png)
 <p style="text-align:justify"><font size="4px">
-Minister Josephine Teo was appointed Minister of Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity on 15 May 2021. She is also a member of the National Jobs Council and the Future Economy Council, and has been concurrently the Second Minister of Home Affairs since May 2018.</font></p>
-
+Minister Josephine Teo was appointed Minister of Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity on 15 May 2021. She is also a member of the National Jobs Council and the Future Economy Council, and has been concurrently the Second Minister of Home Affairs since May 2018.</font></p> 
 <p style="text-align:justify"><font size="4px">
 Mrs Teo was the Minister for Manpower from May 2018 till May 2021. She previously served in the Prime Minister’s Office and the Finance, Transport and Foreign Affairs ministries.</font></p>
 
