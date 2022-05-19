@@ -1,7 +1,7 @@
 ---
 title: Media
 permalink: /media
-description: "T"
+description: ""
 ---
 Interact with us! 
 <br><br>
