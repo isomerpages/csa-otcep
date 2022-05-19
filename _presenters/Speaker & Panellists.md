@@ -3,7 +3,6 @@ title: Speaker & Panellists
 permalink: /presenters/panellists
 description: ""
 ---
-
 ![DavidKoh](/images/Speakers/220511%20CSA%20Speakers%20David%20Koh.png)
 <p style="text-align:justify"><font size="4px">Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the founding Chief Executive of the Cyber Security Agency (CSA) of Singapore. He is concurrently Chief (Digital Security & Technology) at the Ministry of Communications and Information.</font></p>
 
@@ -55,7 +54,7 @@ intelligence and intrusion analysis mission for the NSA.
 
 ![Maggy](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Maggy%20Powell.png)
 <p style="text-align:justify"><font size="4px">Maggy Powell is a Security Assurance Principal Industry Specialist focused on the Power and Utility Sector. She joined Amazon Web Services after 14 years in the power & utility industry, having worked in a variety of functions - regulatory risk, environmental permitting, reliability compliance and security operations. She was responsible for leading three technical cybersecurity teams dedicated to real time systems, including security engineering, industrial control systems (ICS) security operations centre, and security & compliance. Maggy was an industry participant in NERC CIP standards development including serving as Chair on CIP Standard Drafting Teams. She is well versed in the security and compliance challenges facing power and utility customers.
-</font></p><br>
+</font></p>
 
 ![ZacharyTudor](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Zachary%20Tudor.png)
 <p style="text-align:justify"><font size="4px">Zachary (Zach) Tudor is responsible for INL’s Nuclear Nonproliferation, Critical Infrastructure Protection and Defense Systems missions. Previously, Tudor served as a Program Director in the Computer Science Laboratory at SRI International, where he supported cyber security and critical infrastructure programs such as DHS Cyber Security Division’s Linking the Oil and Gas Industry to Improve Cybersecurity (LOGIIC) consortium, and the Industrial Control System Joint Working Group R&D working group. He has served as a member of (ISC)2’s Application Security Advisory Board and the NRC’s Nuclear Cyber Security Working Group, as well as the Vice Chair of the Institute for Information Infrastructure Protection at George Washington University. He is a Professor of Practice in the Computer Science Departments of the University of Idaho and Idaho State University, is the Chair of the Board of Directors of the International Information Systems Security Certification Consortium (ISC)2, and a member of the Commonwealth Cyber Initiative advisory board (Virginia).
