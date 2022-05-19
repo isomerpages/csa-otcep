@@ -1,0 +1,6 @@
+collections:
+  presenters:
+    output: true
+    order:
+      - Guest of Honour.md
+      - Speakers and Panellists.md

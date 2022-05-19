@@ -1,36 +1,25 @@
 ---
 layout: homepage
-title: Isomer Site
+title: OTCEP 2022
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      background: /images/WebBanner_R02_3.jpg
+      url: /contact-us/
+      key_highlights:
+        - title: Registration
+          description: Click here to register
+          url: https://www.gevme.com/operational-technology-cybersecurity-expert-panel-otcep-forum-2022-97874676
+        - title: Programme
+          description: View event programme
+          url: programme/day1
+        - title: Guest of Honour
+          description: Mrs Josephine Teo
+          url: /presenters/guest-of-honour
+        - title: speakers and panellists
+          description: Click to view profile
+          url: /presenters/speakers-and-panellists
 ---
-

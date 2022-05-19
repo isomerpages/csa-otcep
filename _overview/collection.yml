@@ -1,0 +1,6 @@
+collections:
+  overview:
+    output: true
+    order:
+      - About OTCEP.md
+      - Organiser.md
