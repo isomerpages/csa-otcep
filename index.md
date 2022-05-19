@@ -16,7 +16,10 @@ sections:
         - title: Programme
           description: View event programme
           url: programme/day1
+        - title: Guest of Honour
+          description: Ms Josephine Teo
+          url: /presenters/guest-of-honour
         - title: speakers and panellists
-          description: Presenters' profile
-          url: /presenters/panellists/
+          description: Click to view profile
+          url: https://csa-otcep-staging.netlify.app/presenters/speakers-and-panellists
 ---
