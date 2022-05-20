@@ -8,7 +8,7 @@ description: ""
 
 <p style="text-align:justify">
 <u>General</u><br>
-1. This is an event organised by the Cyber Security Agency of Singapore, an agency of the Government of Singapore.
+1. This is an event organised by the Cyber Security Agency of Singapore, an agency of the Government of Singapore.</p>
 
 <p style="text-align:justify"><u>Use of Data</u><br>
 2. If you provide us with personal data in relation to the event:</p>
