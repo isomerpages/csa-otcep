@@ -2,9 +2,6 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-## Privacy Statement
-
-
 <p style="text-align:justify">
 <u>General</u><br>
 1. This is an event organised by the Cyber Security Agency of Singapore, an agency of the Government of Singapore.
