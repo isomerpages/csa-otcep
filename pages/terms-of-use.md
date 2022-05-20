@@ -32,7 +32,15 @@ CSA reserves all rights to deny or restrict access to this website to any partic
 ### Accuracy of materials
 The materials appearing on the OTCEP website could include technical, typographical, or photographic errors. All information provided is accurate to the best of our knowledge at any point in time. CSA may make changes to the materials contained on the OTCEP website at any time without notice. 
 
-Link
+### Link
 
 This website may contain hyperlinks to websites which are not maintained by CSA. CSA shall not be responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of any such linked website is at the user's own risk. 
 Hyperlinks to other websites are provided as a convenience. In no circumstances shall CSA or MP be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
+
+### Modifications
+
+CSA may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+
+### Governing Law 
+
+The terms and conditions shall be deemed to be made in Singapore and the valid interpretation and performance of this agreement shall be governed by and constructed in accordance with the laws of the Republic of Singapore for every purpose.
