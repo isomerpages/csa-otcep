@@ -19,7 +19,7 @@ permalink: /terms-of-use/
 
 ### 3. Disclaimer
 <p>The materials on the OTCEP website are provided on an 'as is' basis and all information provided is accurate to the best of our knowledge at any point in time. CSA makes no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. </p>
-<p>Further, CSA do not warrant and hereby disclaim any warranty: </p>	
+<p>Further, CSA and CLA do not warrant and hereby disclaim any warranty: </p>	
 
 <ol>
 	<li type="a">as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;</li>
@@ -40,7 +40,7 @@ The materials appearing on the OTCEP website could include technical, typographi
 ### 6. Links
 
 This website may contain hyperlinks to websites which are not maintained by CSA. CSA shall not be responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of any such linked website is at the user's own risk. 
-Hyperlinks to other websites are provided as a convenience. In no circumstances shall CSA or Communique Live Asia be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
+Hyperlinks to other websites are provided as a convenience. In no circumstances shall CSA or CLA be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
 ### 7. Modifications
 
