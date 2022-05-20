@@ -23,7 +23,7 @@ permalink: /terms-of-use/
 
 <ol>
 <li>as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;</li>
-<li>b) that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements</li>
+<li>that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements</li>
 </ol>
 They shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
 
