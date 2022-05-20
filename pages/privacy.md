@@ -19,7 +19,7 @@ permalink: /privacy/
 2.  Through this event, you may come into contact non-Government entities whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other entities and we encourage you to consult the privacy notices of those entities.
 
 ### Contact Information
-Please contact secretariat@otcep.gov.sg if you:
+Please contact [secretariat@otcep.gov.sg](secretariat@otcep.gov.sg) if you:
 <ol>
 <li type="a">have any enquires or feedback on our data protection, policies and procedures; or.</li>
 <li type="a">need more information on or access to data which you have provided directly to us in the past..</li>
