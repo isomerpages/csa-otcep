@@ -21,10 +21,11 @@ permalink: /terms-of-use/
 <p>The materials on the OTCEP website are provided on an 'as is' basis and all information provided is accurate to the best of our knowledge at any point in time. CSA makes no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. </p>
 <p>Further, CSA do not warrant and hereby disclaim any warranty: </p>	
 
-<ol>
+<ol type="a">
 <li>as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;</li>
 <li>that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements</li>
 </ol>
+
 They shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
 
 ### Limitation
