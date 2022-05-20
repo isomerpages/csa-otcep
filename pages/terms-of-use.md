@@ -14,7 +14,8 @@ permalink: /terms-of-use/
 	<li>modify or copy the materials;</li>
 <li>use the materials for any commercial purpose, or for any public display (commercial or non-commercial);</li>
 <li>screen record livestreams or videos-on-demand, or take screenshots during presentations;</li>
-<li>remove any copyright or other proprietary notations from the materials; ortransfer the materials to another person or "mirror" the materials on any other server.</li>
+	<li>remove any copyright or other proprietary notations from the materials; or</li>
+<li>transfer the materials to another person or "mirror" the materials on any other server.</li>
 	</ul>
 
 ### 3. Disclaimer
