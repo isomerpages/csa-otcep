@@ -15,6 +15,4 @@ By accessing and using this website, you shall be deemed to have accepted to be 
 	* use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
 	* screen record livestreams or videos-on-demand, or take screenshots during presentations;
 	* remove any copyright or other proprietary notations from the materials; or
-
-2. transfer the materials to another person or "mirror" the materials on any other server.
-
+	* transfer the materials to another person or "mirror" the materials on any other server.
