@@ -17,6 +17,8 @@ permalink: /terms-of-use/
 	<li>remove any copyright or other proprietary notations from the materials; or</li>
 <li>transfer the materials to another person or "mirror" the materials on any other server.</li>
 	</ul>
+	
+<p>This license shall automatically terminate if you violate any of these restrictions and shall be terminated at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.</p>
 
 ### 3. Disclaimer
 <p>The materials on the OTCEP website are provided on an 'as is' basis and all information provided is accurate to the best of our knowledge at any point in time. CSA makes no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. </p>
