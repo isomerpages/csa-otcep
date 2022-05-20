@@ -40,7 +40,7 @@ The materials appearing on the OTCEP website could include technical, typographi
 ### Link
 
 This website may contain hyperlinks to websites which are not maintained by CSA. CSA shall not be responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of any such linked website is at the user's own risk. 
-Hyperlinks to other websites are provided as a convenience. In no circumstances shall CSA or MP be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
+Hyperlinks to other websites are provided as a convenience. In no circumstances shall CSA or Communique Live Asia be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
 ### Modifications
 
