@@ -31,6 +31,7 @@ They shall also not be liable for any damage or loss of any kind caused as a res
 ### 4. Limitation
 
 In no event shall CSA or their suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on the OTCEP website, even if CSA or an authorised representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you. <br>
+
 CSA reserves all rights to deny or restrict access to this website to any particular person, or to block access from a particular Internet address to this website, at any time, without ascribing any reasons whatsoever.
 
 ### 5. Accuracy of materials
@@ -40,6 +41,7 @@ The materials appearing on the OTCEP website could include technical, typographi
 ### 6. Links
 
 This website may contain hyperlinks to websites which are not maintained by CSA. CSA shall not be responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of any such linked website is at the user's own risk. 
+
 Hyperlinks to other websites are provided as a convenience. In no circumstances shall CSA or CLA be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
 
 ### 7. Modifications
