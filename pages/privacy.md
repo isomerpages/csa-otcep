@@ -21,11 +21,11 @@ permalink: /privacy/
 ### Contact Information
 Please contact secretariat@otcep.gov.sg if you:
 <ol>
-<li type="a">have any enquires or feedback on our data protection, policies and procedures; or<br>
-<li type="a">need more information on or access to data which you have provided directly to us in the past.
+<li type="a">have any enquires or feedback on our data protection, policies and procedures; or.</li>
+<li type="a">need more information on or access to data which you have provided directly to us in the past..</li>
 </ol>
 
 ### Definitions
-1. “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.<br>
-2. ”Non-Government entity” refers to a person other than a Government Agency.<br>
+1. “Government Agency” refers to an Organ of State, Ministry, Department or Statutory Board.
+2. ”Non-Government entity” refers to a person other than a Government Agency.
 3. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
