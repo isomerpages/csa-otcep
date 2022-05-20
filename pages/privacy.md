@@ -14,8 +14,9 @@ permalink: /privacy/
 </ol>
 
 ### Protection of Data
-1. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.<br>
-2. Through this event, you may come into contact non-Government entities whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other entities and we encourage you to consult the privacy notices of those entities.<br>
+1. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
+
+2.  Through this event, you may come into contact non-Government entities whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other entities and we encourage you to consult the privacy notices of those entities.
 
 ### Contact Information
 Please contact secretariat@otcep.gov.sg if you:
