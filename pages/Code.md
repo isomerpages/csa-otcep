@@ -3,7 +3,6 @@ title: Code
 permalink: /testpage
 description: ""
 ---
-
 ## Privacy Statement
 
 
@@ -12,7 +11,7 @@ description: ""
 1. This is an event organised by the Cyber Security Agency of Singapore, an agency of the Government of Singapore.
 
 <p style="text-align:justify"><u>Use of Data</u><br>
-2. If you provide us with personal data in relation to the event:
+2. If you provide us with personal data in relation to the event:</p>
 
 	
 	(a) Where appropriate, we may share necessary data with other Government Agencies, so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.
