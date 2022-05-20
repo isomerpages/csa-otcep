@@ -2,10 +2,11 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### Terms
+### 1. Terms
 
-Thank you for visiting the Operational Technology Cybersecurity Expert Panel (OTCEP) website. The OTCEP is organised by the Cyber Security Agency of Singapore (CSA). <br>
-By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree to these Terms of Use, please do not use or access this site. The materials contained in this website are protected by applicable copyright and trademark law.
+<p>Thank you for visiting the Operational Technology Cybersecurity Expert Panel (OTCEP) website. The OTCEP is organised by the Cyber Security Agency of Singapore (CSA).</p>
+
+<p>By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree to these Terms of Use, please do not use or access this site. The materials contained in this website are protected by applicable copyright and trademark law.</p>
 
 ### 2. Use License: Restrictions on use of Information and Materials
 <p> Permission is granted to temporarily download one copy of the materials (information) on the OTCEP website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you shall not:</p>
