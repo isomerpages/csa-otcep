@@ -25,6 +25,7 @@ Mr Koh has a Master’s degree in Public Administration from Harvard University,
 He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</font></p>
 
 ---
+
 ## **Speakers**
 <p style="text-align:justify"><font size="4px">
 Sharon Brizinov is the director of security research at Claroty. Sharon specializes in vulnerability research, malware analysis, network forensics, and ICS/SCADA security. In addition, Brizinov participated in well-known hacking competitions such as Pwn2Own, and he holds a DEFCON black-badge for winning the ICS CTF.
