@@ -31,7 +31,7 @@ He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</fon
 ![RobertMLee](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20MLee.png)
 
 <p style="text-align:justify"><font size="4px">
-Robert is a recognized pioneer in the industrial cybersecurity community. He is CEO and co-founder of Dragos, a global technology leader in cybersecurity for industrial controls systems (ICS)/operational technology (OT) environments. </font></p>
+Robert is a recognized pioneer in the industrial cybersecurity community. He is CEO and founder of Dragos, a global technology leader in cybersecurity for industrial controls systems (ICS)/operational technology (OT) environments. </font></p>
 
 <p style="text-align:justify"><font size="4px">
 In addition, Robert serves on the Department of Energy's Electricity Advisory Committee as the Vice Chair of the Department of Energy's Grid Resilience for National Security Subcommittee and is a member of the World Economic Forum's subcommittees on Cyber Resilience for the Oil & Gas and Electricity communities. </font></p>
