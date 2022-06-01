@@ -29,7 +29,7 @@ He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</fon
 
 ## **Panellists**
 
-![RobertMLee](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20MLee.png)
+![RobertMLee](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20M%20Lee%20(2).png)
 
 <p style="text-align:justify"><font size="4px">
 Robert is a recognized pioneer in the industrial cybersecurity community. He is CEO and founder of Dragos, a global technology leader in cybersecurity for industrial controls systems (ICS)/operational technology (OT) environments. </font></p>
@@ -117,4 +117,3 @@ While working in the electric power industry, he was a member of the committee t
 <p style="text-align:justify"><font size="4px">
 Sharon Brizinov is the director of security research at Claroty. Sharon specializes in vulnerability research, malware analysis, network forensics, and ICS/SCADA security. In addition, Brizinov participated in well-known hacking competitions such as Pwn2Own, and he holds a DEFCON black-badge for winning the ICS CTF.
 </font></p>
-
