@@ -26,9 +26,10 @@ He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</fon
 
 ---
 
+
 ## **Panellists**
 
-![RobertMLee](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20MLee.png)
+![RobertMLee](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20M%20Lee%20(2).png)
 
 <p style="text-align:justify"><font size="4px">
 Robert is a recognized pioneer in the industrial cybersecurity community. He is CEO and founder of Dragos, a global technology leader in cybersecurity for industrial controls systems (ICS)/operational technology (OT) environments. </font></p>
@@ -108,3 +109,5 @@ While working in the electric power industry, he was a member of the committee t
 
 ![Daniel](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Daniel%20Ehrenreich.png)
 <p style="text-align:justify"><font size="4px">Daniel Ehrenreich is a consultant and lecturer acting at Secure Communications and Control Experts, and periodically teaches in colleges and presents at industry conferences on the secured integration of cyber defense with ICS. Daniel has over 32 years of engineering experience with ICS and OT systems for electricity, water, gas, and power plants as part of his activities at Tadiran, Motorola, Siemens, and Waterfall Security. He is a contributing member to three ISA 62443 workgroups and has been re-selected as Chairperson for the 7th ICS CyberSec 2022 conference taking place in Israel on 16 November 2022. </font></p>
+
+
