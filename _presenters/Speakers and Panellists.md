@@ -110,10 +110,4 @@ While working in the electric power industry, he was a member of the committee t
 ![Daniel](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Daniel%20Ehrenreich.png)
 <p style="text-align:justify"><font size="4px">Daniel Ehrenreich is a consultant and lecturer acting at Secure Communications and Control Experts, and periodically teaches in colleges and presents at industry conferences on the secured integration of cyber defense with ICS. Daniel has over 32 years of engineering experience with ICS and OT systems for electricity, water, gas, and power plants as part of his activities at Tadiran, Motorola, Siemens, and Waterfall Security. He is a contributing member to three ISA 62443 workgroups and has been re-selected as Chairperson for the 7th ICS CyberSec 2022 conference taking place in Israel on 16 November 2022. </font></p>
 
----
 
-## **Moderator**
-![SharonBrizinov](/images/Speakers/220601%20CSA%20Speakers%20Sharon%20Brizinov.png)
-<p style="text-align:justify"><font size="4px">
-Sharon Brizinov is the director of security research at Claroty. Sharon specializes in vulnerability research, malware analysis, network forensics, and ICS/SCADA security. In addition, Brizinov participated in well-known hacking competitions such as Pwn2Own, and he holds a DEFCON black-badge for winning the ICS CTF.
-</font></p>
