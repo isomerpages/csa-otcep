@@ -2,5 +2,6 @@ collections:
   presenters:
     output: true
     order:
+      - Moderator.md
       - Guest of Honour.md
       - Speakers and Panellists.md
