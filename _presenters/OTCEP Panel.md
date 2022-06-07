@@ -3,33 +3,6 @@ title: OTCEP Panel
 permalink: /presenters/otcep-panel
 description: ""
 ---
-
-
-
-![DavidKoh](/images/Speakers/220511%20CSA%20Speakers%20David%20Koh.png)
-<p style="text-align:justify"><font size="4px">Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the founding Chief Executive of the Cyber Security Agency (CSA) of Singapore. He is concurrently Chief (Digital Security & Technology) at the Ministry of Communications and Information.</font></p>
-
-<p style="text-align:justify"><font size="4px">
-As Commissioner, he has the legal authority to investigate cyber threats and incidents to ensure that essential services are not disrupted in the event of a cyber-attack. As Chief Executive of CSA, he leads Singapore’s efforts to provide dedicated and centralised oversight of national cyber security functions. These include enforcing the cybersecurity legislation; strategy and policy development; cyber security operations; ecosystem, R&D and capability development, public outreach and international engagement. Concurrently, as Chief (Digital Security & Technology), he oversees digital security policy and technology capability development in the Ministry of Communications and Information.</font></p>
-	
-<p style="text-align:justify"><font size="4px">
-Mr Koh also sits on the Boards of the Government Technology Agency (GovTech), Defence Science and Technology Agency (DSTA) and DSO National Laboratories (DSO), and the Monetary Authority of Singapore (MAS) Cyber Security Advisory Panel.</font></p>
-
-<p style="text-align:justify"><font size="4px">
-Prior to his current appointments, Mr Koh served in the Singapore Armed Forces and held various command and staff appointments in the Ministry of Defence and the SAF. He previously held the positions of Defence Cyber Chief; Deputy Secretary (Technology); Director Military Security and Chief Signals Officer.</font></p>
-	
-<p style="text-align:justify"><font size="4px">
-Mr Koh is the recipient of the first Billington CyberSecurity International Leadership Award. He has also been awarded the Public Administration Medal – Gold, the Public Administration Medal – Silver (Military), the Public Administration Medal – Bronze (Military), and the Commendation Medal (Military).</font></p>
-
-<p style="text-align:justify"><font size="4px">
-Mr Koh has a Master’s degree in Public Administration from Harvard University, USA; and a Bachelor’s degree in Electrical and Electronics Engineering from King’s College, London, UK.</font></p>
-
-<p style="text-align:justify"><font size="4px">
-He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</font></p>
-
----
-
-
 ## **Panellists**
 
 ![RobertMLee](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20M%20Lee%20(2).png)
@@ -112,5 +85,3 @@ While working in the electric power industry, he was a member of the committee t
 
 ![Daniel](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Daniel%20Ehrenreich.png)
 <p style="text-align:justify"><font size="4px">Daniel Ehrenreich is a consultant and lecturer acting at Secure Communications and Control Experts, and periodically teaches in colleges and presents at industry conferences on the secured integration of cyber defense with ICS. Daniel has over 32 years of engineering experience with ICS and OT systems for electricity, water, gas, and power plants as part of his activities at Tadiran, Motorola, Siemens, and Waterfall Security. He is a contributing member to three ISA 62443 workgroups and has been re-selected as Chairperson for the 7th ICS CyberSec 2022 conference taking place in Israel on 16 November 2022. </font></p>
-
-
