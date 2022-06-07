@@ -19,3 +19,6 @@ An alumna of Dunman High School and Raffles Junior College, Mrs Teo graduated fr
 
 <p style="text-align:justify"><font size="4px">
 She is married and has three grown-up children. She enjoys creating memorable experiences for family and friends.</font></p>
+
+
+## Keynote Speech
