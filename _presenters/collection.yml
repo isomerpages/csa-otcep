@@ -2,6 +2,6 @@ collections:
   presenters:
     output: true
     order:
-      - Guest of Honour.md
       - OTCEP Panel.md
+      - Guest of Honour.md
       - Moderators.md
