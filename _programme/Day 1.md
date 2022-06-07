@@ -8,7 +8,7 @@ description: ""
 
 | Time     | Agenda                                        |
 | -------  | ---------                                        |
-| 09:00-<br> 09:05<br> | Welcome Speech<br><br><b>• Mr David Koh,</b> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore<br><br>
+| 09:00-<br> 09:05<br> | Welcome Speech<br><br><b>Mr David Koh,</b> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore<br><br>
 | 09:05-<br> 09:15<br> |Keynote Speech<br><br><b>Mrs Josephine Teo,</b> Minister for Communications and Information and Second Minister for Home Affairs; Minister-in-charge of Smart Nation And Cybersecurity<br><br>|
 | 09:15-<br> 10:45<br> | Presentation and Panel Discussion - The latest Industrial Control System Malware <br><br><b>Robert M. Lee,</b> CEO & Co-Founder, Dragos, Inc<br><br><font size="2"><i>Pipedream/InController emerges as the latest ICS Malware that is tailored to target specific Programmable Logic Controller (PLC) commonly found in Industrial Control System (ICS) that could be expanded to other similar targets in the Operational Technology (OT) Sectors. Though this threat (seem to target U.S. Liquid Natural Gas and Key Electric Power Site) have not employed their capability for its intended disruptive in nature,  there is still potential of the capabilities being deployed in Singapore.</i></font><br><br>|
 | 10:45-<br> 11:15<br> | Break <br><br><br>|
