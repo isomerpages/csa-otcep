@@ -3,8 +3,7 @@ title: Speakers
 permalink: /presenters/speakers
 description: ""
 ---
-
-## Guest of Honor
+## **Guest of Honor**
 
 ![MrsJosephineTeo](/images/Speakers/220511%20CSA%20Speakers%20Josephine%20Teo_3.png)
 <p style="text-align:justify"><font size="4px">
@@ -23,7 +22,7 @@ She is married and has three grown-up children. She enjoys creating memorable ex
 
 ---
 
-## Keynote Speech
+## **Keynote Speech**
 ![DavidKoh](/images/Speakers/220511%20CSA%20Speakers%20David%20Koh.png)
 <p style="text-align:justify"><font size="4px">Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the founding Chief Executive of the Cyber Security Agency (CSA) of Singapore. He is concurrently Chief (Digital Security & Technology) at the Ministry of Communications and Information.</font></p>
 
@@ -47,7 +46,7 @@ He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</fon
 
 ---
 
-## Technical Conversation
+## **Technical Conversation**
 ![SharonBrizinov](/images/Speakers/220601%20CSA%20Speakers%20Sharon%20Brizinov.png)
 <p style="text-align:justify"><font size="4px">
 Sharon Brizinov is the director of security research at Claroty. Sharon specializes in vulnerability research, malware analysis, network forensics, and ICS/SCADA security. In addition, Brizinov participated in well-known hacking competitions such as Pwn2Own, and he holds a DEFCON black-badge for winning the ICS CTF. </font></p>
