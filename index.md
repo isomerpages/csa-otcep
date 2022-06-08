@@ -19,7 +19,7 @@ sections:
         - title: Guest of Honour
           description: Mrs Josephine Teo
           url: /presenters/speakers
-        - title: speakers and panellists
+        - title: OTCEP Panellists
           description: Click to view profile
           url: /presenters/otcep-panellists
 ---
