@@ -2,7 +2,7 @@ logo: /images/csa-logo.jpeg
 links:
   - title: Overview
     collection: overview
-  - title: PRESENTERS
+  - title: Presenters
     url: /presenters/speakers
     sublinks:
       - title: OTCEP Panellists
