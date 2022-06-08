@@ -2,14 +2,6 @@ logo: /images/csa-logo.jpeg
 links:
   - title: Overview
     collection: overview
-  - title: Presenters
-    collection: presenters
-  - title: Programme
-    collection: programme
-  - title: Media
-    url: /media
-  - title: Contact Us
-    url: /contact-us/
   - title: PRESENTERS
     url: /presenters/speakers
     sublinks:
@@ -17,3 +9,9 @@ links:
         url: /presenters/otcep-panellists
       - title: Speakers
         url: /presenters/speakers
+  - title: Programme
+    collection: programme
+  - title: Media
+    url: /media
+  - title: Contact Us
+    url: /contact-us/
