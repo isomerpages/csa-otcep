@@ -2,5 +2,5 @@ collections:
   presenters:
     output: true
     order:
-      - OTCEP Panel.md
+      - OTCEP Panellists.md
       - Speakers.md
