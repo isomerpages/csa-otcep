@@ -11,7 +11,9 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: PRESENTERS
-    url: /presenters/otcep-panellists
-  - title: PRESENTERS
-    url: /presenters/otcep-panellists
-    sublinks: []
+    url: /presenters/speakers
+    sublinks:
+      - title: OTCEP Panellists
+        url: /presenters/otcep-panellists
+      - title: Speakers
+        url: /presenters/speakers
