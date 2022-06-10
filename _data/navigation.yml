@@ -5,8 +5,8 @@ links:
   - title: Presenters
     url: /presenters/speakers
     sublinks:
-      - title: Panel Members
-        url: /presenters/otcep-panellists
+      - title: OTCEP Panel Members
+        url: presenters/otcep-panel-members
       - title: Speakers
         url: /presenters/speakers
   - title: Programme
