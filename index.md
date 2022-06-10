@@ -21,5 +21,5 @@ sections:
           url: /presenters/speakers
         - title: OTCEP Panel Members
           description: Click to view profile
-          url: /presenters/panel-members
+          url: /presenters/otcep-panel-members
 ---
