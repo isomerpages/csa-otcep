@@ -3,7 +3,12 @@ links:
   - title: Overview
     collection: overview
   - title: Presenters
-    collection: presenters
+    url: /presenters/speakers
+    sublinks:
+      - title: OTCEP Panel Members
+        url: /presenters/otcep-panel-members
+      - title: Speakers
+        url: /presenters/speakers
   - title: Programme
     collection: programme
   - title: Media
