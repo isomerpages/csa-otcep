@@ -1,6 +1,6 @@
 title: ""
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/csa_favicon.ico
 colors:
   primary-color: "#073255"
   secondary-color: "#073255"
@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://csa-otcep-staging.netlify.app
 prod: https://csa-otcep-prod.netlify.app
+is_government: false
