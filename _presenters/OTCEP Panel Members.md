@@ -4,7 +4,6 @@ permalink: /presenters/otcep-panel-members
 description: ""
 ---
 ![RobertMLee](/images/Speaker%20Profile/Speakers/220613%20CSA%20Speakers%20Robert%20M%20Lee.png)
-
 <p style="text-align:justify"><font size="4px">
 Robert is a recognized pioneer in the industrial cybersecurity community. He is CEO and founder of Dragos, a global technology leader in cybersecurity for industrial controls systems (ICS)/operational technology (OT) environments. </font></p>
 
@@ -50,7 +49,7 @@ She currently leads a government-funded research project on security by design f
 <p style="text-align:justify"><font size="4px">Zachary (Zach) Tudor is responsible for INL’s Nuclear Nonproliferation, Critical Infrastructure Protection and Defense Systems missions. Previously, Tudor served as a Program Director in the Computer Science Laboratory at SRI International, where he supported cyber security and critical infrastructure programs such as DHS Cyber Security Division’s Linking the Oil and Gas Industry to Improve Cybersecurity (LOGIIC) consortium, and the Industrial Control System Joint Working Group R&D working group. He has served as a member of (ISC)2’s Application Security Advisory Board and the NRC’s Nuclear Cyber Security Working Group, as well as the Vice Chair of the Institute for Information Infrastructure Protection at George Washington University. He is a Professor of Practice in the Computer Science Departments of the University of Idaho and Idaho State University, is the Chair of the Board of Directors of the International Information Systems Security Certification Consortium (ISC)2, and a member of the Commonwealth Cyber Initiative advisory board (Virginia).
 </font></p>
 
-![EricByres](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Eric%20Byres%20(1).png)
+![Eric Byres](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Eric%20Byres_v2.png)
 <p style="text-align:justify"><font size="4px">Eric Byres is widely recognized as one of the world’s leading experts in the field of Operation Technology (OT) cybersecurity. He is the inventor of the Tofino Security technology – the most widely deployed ICS-specific firewall in the world. Eric is also known for his leadership in international standards and research for industrial communications. Eric holds an extensive list of accomplishments, which includes founding the BCIT Critical Infrastructure Security Centre, providing guidance to government security agencies and major energy companies on protection for critical infrastructures, sitting as the chair of the ISA SP-99 Security Technologies Working Group, representing Canada for the IEC TC65/WG10 standards effort, and testifying to the US Congress on the Security of Industrial Control Systems in National Critical Infrastructures. He has received numerous awards from international organizations and was made an ISA Fellow in 2009. In 2013 he received ISA’s highest honor: Excellence in Leadership. Eric was also a founding member of the NTIA/INL Energy Industry SBOM Proof of Concept Working Group and the NTIA SBOM Awareness & Adoption Committee. Today Eric is the Chief Technology Officer for aDolus Technology Inc, and is focused on ensure the security of the software supply chain in OT systems.</font></p>
 
 ![RobertHannigan](/images/Speaker%20Profile/Speakers/220511%20CSA%20Speakers%20Robert%20Hannigan.png)
