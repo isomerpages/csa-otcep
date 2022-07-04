@@ -22,4 +22,9 @@ sections:
         - title: OTCEP Panel Members
           description: Click to view profile
           url: /presenters/otcep-panel-members
+  - infobar:
+      subtitle: PDU Points collection
+      description: IES member  eligible to apply the PDU
+      button: Click Here
+      url: overview/pdupoints
 ---
