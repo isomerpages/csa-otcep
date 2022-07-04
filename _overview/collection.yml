@@ -2,5 +2,6 @@ collections:
   overview:
     output: true
     order:
+      - PDU Points.md
       - About OTCEP.md
       - Organiser.md
