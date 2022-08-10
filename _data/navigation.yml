@@ -15,3 +15,8 @@ links:
     url: /media
   - title: Contact Us
     url: /contact-us/
+  - title: Session highlights
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
