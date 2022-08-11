@@ -3,8 +3,6 @@ title: Event Videos
 permalink: /csatest/event-videos
 description: ""
 ---
-
-
 <section>
 	<div>
   <h3>Day 1 Event Videos</h3>
