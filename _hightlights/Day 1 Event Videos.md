@@ -4,17 +4,20 @@ permalink: /day1-event-videos
 description: ""
 ---
 ##### **Welcome Remarks**
-<b>Mr David Koh,</b> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore
+<b>Mr David Koh,</b> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore<br>
 
 <iframe width="640" height="385" src="https://www.youtube.com/embed/EBwKi65oLM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Keynote Address**
+<b>Mrs Josephine Teo,</b> Minister for Communications and Information and Second Minister for Home Affairs <br>Minister-in-charge of Smart Nation And Cybersecurity<br>
 <iframe width="640" height="385" src="https://www.youtube.com/embed/DjM-j1Yifko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Presentation and Panel Discussion: <br>The Latest Industrial Control System Malware**
+<b>Robert M. Lee,</b> CEO & Founder, Dragos, Inc<br>
 <iframe width="640" height="385" src="https://www.youtube.com/embed/uTq706YyQHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Presentation and Panel Discussion: <br>Security Truth or Consequences**
+<b>Dale Peterson,</b> Founder & Program Chair, S4 Events<br>
 <iframe width="640" height="385" src="https://www.youtube.com/embed/CZ1-Ns6Fqxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Presentation and Panel Discussion: <br>Introducing Incident Response Framework for Embedded System**
