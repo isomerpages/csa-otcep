@@ -20,18 +20,19 @@ description: ""
 
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/DjM-j1Yifko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<hr class="my-3 border-primary" />	
 
 ##### **Presentation and Panel Discussion: <br>The Latest Industrial Control System Malware**
 <b>Robert M. Lee</b><br> CEO & Founder, Dragos, Inc<br>
 <div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/uTq706YyQHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/uTq706YyQHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<hr class="my-3 border-primary" />	
 
 ##### **Presentation and Panel Discussion: <br>Security Truth or Consequences**
 <b>Dale Peterson</b><br> Founder & Program Chair, S4 Events<br>
 <div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/CZ1-Ns6Fqxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/CZ1-Ns6Fqxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<hr class="my-3 border-primary" />	
 
 ##### **Presentation and Panel Discussion: <br>Introducing Incident Response Framework for Embedded System**
 
@@ -40,6 +41,7 @@ Founder, SCADAhacker<br>
 
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/Gp1tTNE3sq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<hr class="my-3 border-primary" />	
 
 ##### **Presentation and Panel Discussion: <br>Securing PLC Code Practices**
 
