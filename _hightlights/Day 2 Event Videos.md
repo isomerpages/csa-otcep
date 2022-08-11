@@ -5,9 +5,10 @@ description: ""
 ---
 #### Technical Conversation: <br>OT Cybersecurity in Secured Engineering
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fdpOseg9bs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="505" src="https://www.youtube.com/embed/fdpOseg9bs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### Technical Sharing: <br>Hidden Code on Field Controller
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_NL5YnLv9Z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<b>Sharon Brizinov</b> <br>Director of Security Research, Claroty
+<iframe width="853" height="505" src="https://www.youtube.com/embed/_NL5YnLv9Z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
