@@ -2,6 +2,5 @@ collections:
   event-videos:
     output: true
     order:
-      - Example Title.md
       - Day 1 Event Videos.md
       - Day 2 Event Videos.md
