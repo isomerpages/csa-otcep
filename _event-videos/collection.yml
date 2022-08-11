@@ -1,5 +1,5 @@
 collections:
-  hightlights:
+  event-videos:
     output: true
     order:
       - Day 1 Event Videos.md
