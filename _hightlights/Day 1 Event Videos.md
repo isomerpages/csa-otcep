@@ -9,7 +9,8 @@ description: ""
 <iframe width="640" height="385" src="https://www.youtube.com/embed/EBwKi65oLM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Keynote Address**
-<font size='3'><b>Mrs Josephine Teo,</b><br> Minister for Communications and Information and Second Minister for Home Affairs <br>Minister-in-charge of Smart Nation And Cybersecurity<br></font>
+<font size='3'><b>Mrs Josephine Teo,</b><br> Minister for Communications and Information and Second Minister for Home Affairs <br>Minister-in-charge of Smart Nation And Cybersecurity</font>
+
 <iframe width="640" height="385" src="https://www.youtube.com/embed/DjM-j1Yifko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Presentation and Panel Discussion: <br>The Latest Industrial Control System Malware**
