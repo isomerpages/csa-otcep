@@ -3,6 +3,12 @@ title: Day 1 Event Videos
 permalink: /permalink/test2
 description: ""
 ---
+<div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+							
 ##### **Event Opening**
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/L44KxHJBhV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
