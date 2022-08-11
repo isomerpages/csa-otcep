@@ -6,12 +6,14 @@ description: ""
 ##### **Event Opening**
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/L44KxHJBhV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<hr class="my-3 border-primary" />	
 
 ##### **Welcome Remark**
 <b>Mr David Koh</b><br> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore
 
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/EBwKi65oLM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<hr class="my-3 border-primary" />	
 
 ##### **Keynote Address**
 <b>Mrs Josephine Teo</b><br> Minister for Communications and Information and Second Minister for Home Affairs <br>Minister-in-charge of Smart Nation And Cybersecurity
