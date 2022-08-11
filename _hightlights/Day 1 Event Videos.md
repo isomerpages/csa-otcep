@@ -3,12 +3,12 @@ title: Day 1 Event Videos
 permalink: /day1-event-videos
 description: ""
 ---
-##### **Welcome Remark**
+### **Welcome Remark**
 <b>Mr David Koh</b><br> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore
 
 <iframe width="853" height="505" src="https://www.youtube.com/embed/EBwKi65oLM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-##### **Keynote Address**
+### **Keynote Address**
 <b>Mrs Josephine Teo</b><br> Minister for Communications and Information and Second Minister for Home Affairs <br>Minister-in-charge of Smart Nation And Cybersecurity
 
 <iframe width="853" height="505" src="https://www.youtube.com/embed/DjM-j1Yifko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -17,7 +17,7 @@ description: ""
 <b>Robert M. Lee</b><br> CEO & Founder, Dragos, Inc<br>
 <iframe width="853" height="505" src="https://www.youtube.com/embed/uTq706YyQHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
-##### **Presentation and Panel Discussion: <br>Security Truth or Consequences**
+### **Presentation and Panel Discussion: <br>Security Truth or Consequences**
 <b>Dale Peterson</b><br> Founder & Program Chair, S4 Events<br>
 <iframe width="853" height="505" src="https://www.youtube.com/embed/CZ1-Ns6Fqxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
