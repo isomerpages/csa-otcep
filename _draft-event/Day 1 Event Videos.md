@@ -37,15 +37,14 @@ description: ""
 Founder, SCADAhacker<br>
 
 <div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/Gp1tTNE3sq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/Gp1tTNE3sq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ##### **Presentation and Panel Discussion: <br>Securing PLC Code Practices**
 
 <b>Sarah Fluchs</b><br>CTO, admeritia GmbH<br>
 
 <div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/vc4iYTUQHFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/vc4iYTUQHFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
