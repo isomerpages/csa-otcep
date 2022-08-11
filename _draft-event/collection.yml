@@ -2,5 +2,4 @@ collections:
   draft-event:
     output: true
     order:
-      - Day 1 Event Videos.md
       - Day 2 Event Videos.md
