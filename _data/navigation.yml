@@ -17,3 +17,6 @@ links:
     url: /contact-us/
   - title: Event Videos
     url: /event-videos
+    sublinks: []
+  - title: Highlights
+    url: /highlights
