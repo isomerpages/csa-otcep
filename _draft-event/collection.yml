@@ -1,4 +1,5 @@
 collections:
   draft-event:
     output: true
-    order: []
+    order:
+      - Day 1 Event Videos Old.md
