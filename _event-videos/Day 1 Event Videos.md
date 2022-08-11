@@ -4,7 +4,7 @@ permalink: /day1-event-videos
 description: ""
 ---
 ##### **Event Opening**
-<iframe width="640" height="385" src="https://www.youtube.com/embed/EBwKi65oLM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/L44KxHJBhV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ##### **Welcome Remark**
 <b>Mr David Koh</b><br> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore
