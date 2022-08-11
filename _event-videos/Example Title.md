@@ -16,9 +16,9 @@ description: ""
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <h4 class="programme-title"><br></h4>
+                <h4 class="programme-title">Welcome Remark<br></h4>
 <hr class="my-3 border-primary" />								
-The International Safety@Sea Awards are presented by the Maritime and Port Authority of Singapore each year to recognise the outstanding efforts of organisations and individuals who have contributed towards ensuring safer seas. The winners for this year will be announced at this session.
+<iframe width="640" height="385" src="https://www.youtube.com/embed/L44KxHJBhV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
             </div>
           </div>
