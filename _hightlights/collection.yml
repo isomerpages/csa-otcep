@@ -2,4 +2,5 @@ collections:
   hightlights:
     output: true
     order:
+      - Day 2 Session Highlights.md
       - Day 1 Session Highlights.md
