@@ -4,12 +4,12 @@ permalink: /day1-event-videos
 description: ""
 ---
 ##### **Welcome Remark**
-<font size='3'><b>Mr David Koh,</b> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore<br></font>
+<font size='3'><b>Mr David Koh,</b><br> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore<br></font>
 
 <iframe width="640" height="385" src="https://www.youtube.com/embed/EBwKi65oLM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Keynote Address**
-<b>Mrs Josephine Teo,</b> Minister for Communications and Information and Second Minister for Home Affairs <br>Minister-in-charge of Smart Nation And Cybersecurity<br>
+<font size='3'><b>Mrs Josephine Teo,</b><br> Minister for Communications and Information and Second Minister for Home Affairs <br>Minister-in-charge of Smart Nation And Cybersecurity<br></font>
 <iframe width="640" height="385" src="https://www.youtube.com/embed/DjM-j1Yifko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Presentation and Panel Discussion: <br>The Latest Industrial Control System Malware**
