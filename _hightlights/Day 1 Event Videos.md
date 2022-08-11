@@ -23,7 +23,7 @@ description: ""
 
 ##### **Presentation and Panel Discussion: <br>Introducing Incident Response Framework for Embedded System**
 
-<b>Joel Thomas Langil,</b><br> <br>Founder & Managing Member,   Industrial Control System Cyber Security Institute (ICSCSI) LLC  
+<b>Joel Thomas Langil,</b><br>Founder & Managing Member,   Industrial Control System Cyber Security Institute (ICSCSI) LLC  
 Founder, SCADAhacker
 
 <iframe width="640" height="385" src="https://www.youtube.com/embed/Gp1tTNE3sq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
