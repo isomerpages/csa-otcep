@@ -13,8 +13,6 @@ links:
     collection: programme
   - title: Media
     url: /media
-  - title: Contact Us
-    url: /contact-us/
   - title: Event Videos
     url: /day1-event-videos
     sublinks:
@@ -24,3 +22,5 @@ links:
         url: /day2-event-videos
   - title: Highlights
     url: /highlights
+  - title: Contact Us
+    url: /contact-us/
