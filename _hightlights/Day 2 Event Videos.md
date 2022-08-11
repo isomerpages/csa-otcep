@@ -4,7 +4,7 @@ permalink: /day2-event-videos
 description: ""
 ---
 ### **Technical Conversation: <br>OT Cybersecurity in Secured Engineering**
-
+<br>
 <iframe width="853" height="505" src="https://www.youtube.com/embed/fdpOseg9bs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
