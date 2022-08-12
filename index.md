@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WebBanner_R02_3.jpg
+      background: /images/Banner/csa-banner1.jpg
       url: /contact-us/
       key_highlights:
         - title: Programme
