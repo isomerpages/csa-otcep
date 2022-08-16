@@ -15,5 +15,5 @@ sections:
           url: 2022-highlights/welcome-remarks
         - title: OTCEP Panel Members
           description: Click to view profile
-          url: /presenters/otcep-panel-members
+          url: /2022-otcep-panel-members
 ---
