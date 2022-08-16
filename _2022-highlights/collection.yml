@@ -4,6 +4,7 @@ collections:
     order:
       - Welcome Remarks.md
       - Keynote Address.md
+      - Presentation and Panel/Securing PLC Code Practices.md
       - Presentation and Panel/Introducing Incident Response Framework for
         Embedded System.md
       - Presentation and Panel/Security Truth or Consequences.md
