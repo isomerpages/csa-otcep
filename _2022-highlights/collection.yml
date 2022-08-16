@@ -2,6 +2,7 @@ collections:
   2022-highlights:
     output: true
     order:
+      - Technical Conversation.md
       - Welcome Remarks.md
       - Keynote Address.md
       - Presentation and Panel/.keep
