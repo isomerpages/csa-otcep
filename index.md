@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: 2022 Highlights
           description: Find out more
-          url: /highlights
+          url: /2022-highlights
         - title: OTCEP Panel Members
           description: Click to view profile
           url: /presenters/otcep-panel-members
