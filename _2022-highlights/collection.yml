@@ -4,6 +4,8 @@ collections:
     order:
       - Welcome Remarks.md
       - Keynote Address.md
+      - Presentation and Panel/Introducing Incident Response Framework for
+        Embedded System.md
       - Presentation and Panel/Security Truth or Consequences.md
       - Presentation and Panel/The Latest Industrial Control System Malware.md
       - Presentation and Panel/.keep
