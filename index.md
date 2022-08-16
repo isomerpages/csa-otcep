@@ -10,7 +10,7 @@ sections:
       background: /images/Banner/csa-banner1.jpg
       url: /contact-us/
       key_highlights:
-        - title: Programme
+        - title: 2022 Highlights
           description: View event programme
           url: programme/day1
         - title: Guest of Honour
