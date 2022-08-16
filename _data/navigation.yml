@@ -3,12 +3,10 @@ links:
   - title: Overview
     collection: overview
   - title: 2022 Highlights
-    url: /2022-highlights
+    collection: 2022-highlights
   - title: Media
     url: /media
   - title: Resources
     collection: draft-event
   - title: Contact Us
     url: /contact-us/
-  - title: 2022 Highlights
-    collection: 2022-highlights
