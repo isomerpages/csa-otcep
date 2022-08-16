@@ -2,25 +2,11 @@ logo: /images/csa-logo.jpeg
 links:
   - title: Overview
     collection: overview
-  - title: Presenters
-    url: /presenters/speakers
-    sublinks:
-      - title: OTCEP Panel Members
-        url: /presenters/otcep-panel-members
-      - title: Speakers
-        url: /presenters/speakers
-  - title: Programme
-    collection: programme
+  - title: 2022 Highlights
+    url: /highlights
   - title: Media
     url: /media
-  - title: Event Videos
-    url: /day1-event-videos
-    sublinks:
-      - title: Day 1 Event Videos
-        url: /day1-event-videos
-      - title: Day 2 Event Videos
-        url: /day2-event-videos
-  - title: Highlights
-    url: /highlights
   - title: Contact Us
     url: /contact-us/
+  - title: Menu Title
+    collection: draft-event
