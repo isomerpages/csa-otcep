@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - OTCEP 2022/2022 OTCEP Panel Members.md
-      - OTCEP 2022/2022 Speakers.md
       - OTCEP 2022/.keep
+      - OTCEP 2022/2022 Speakers.md
+      - OTCEP 2022/2022 OTCEP Panel Members.md
       - Past Events/.keep
       - Past Events/OTCEP 2022 Day 1.md
       - Past Events/OTCEP 2022 Day 2.md
