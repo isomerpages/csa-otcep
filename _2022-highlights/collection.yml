@@ -2,8 +2,8 @@ collections:
   2022-highlights:
     output: true
     order:
-      - Presentation and Panel/.keep
       - Welcome Remarks.md
       - Keynote Address.md
+      - Presentation and Panel/.keep
       - Day 1 Event Videos.md
       - Day 2 Event Videos.md
