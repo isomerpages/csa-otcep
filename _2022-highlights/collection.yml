@@ -2,7 +2,6 @@ collections:
   2022-highlights:
     output: true
     order:
-      - Technical Conversation.md
       - Welcome Remarks.md
       - Keynote Address.md
       - Presentation and Panel/.keep
@@ -11,5 +10,6 @@ collections:
       - Presentation and Panel/Introducing Incident Response Framework for
         Embedded System.md
       - Presentation and Panel/Securing PLC Code Practices.md
+      - Technical Conversation.md
       - Day 1 Event Videos.md
       - Day 2 Event Videos.md
