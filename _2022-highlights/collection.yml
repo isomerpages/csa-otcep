@@ -1,5 +1,5 @@
 collections:
-  event-videos:
+  2022-highlights:
     output: true
     order:
       - Test/.keep
