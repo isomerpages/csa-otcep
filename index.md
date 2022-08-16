@@ -11,11 +11,8 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: 2022 Highlights
-          description: View event programme
-          url: programme/day1
-        - title: Guest of Honour
-          description: Mrs Josephine Teo
-          url: /presenters/speakers
+          description: Find out more
+          url: /highlights
         - title: OTCEP Panel Members
           description: Click to view profile
           url: /presenters/otcep-panel-members
