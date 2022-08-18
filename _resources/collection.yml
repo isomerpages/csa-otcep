@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Photo Gallery.md
       - OTCEP 2022/.keep
       - OTCEP 2022/Speakers.md
       - OTCEP 2022/OTCEP Panel Members.md
