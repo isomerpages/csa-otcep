@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: "OTCEP 2022 Event Secretariat "
 contacts:
   - content:
-      - phone: +65 8834 5228
+      - phone: ""
       - email: secretariat@otcep.gov.sg
       - other: ""
     title: General Enquiries & Feedback
