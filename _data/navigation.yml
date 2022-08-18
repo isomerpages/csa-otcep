@@ -6,9 +6,7 @@ links:
     collection: 2022-highlights
   - title: Media
     url: /media
-  - title: Resources
-    collection: resources
   - title: Contact Us
     url: /contact-us/
-  - title: resources 2
+  - title: RESOURCES
     resource_room: true
