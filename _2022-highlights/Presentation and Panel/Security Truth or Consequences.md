@@ -13,7 +13,7 @@ third_nav_title: Presentation and Panel
 
 ##### Synopsis:
 
-<p style="text-align:justify"><font size="3">Security professionals tend to address only the likelihood half of the risk equation. While reducing likelihood is important, it cannot be reduced to zero given human error and technology fails. In this session, Dale focuses on reducing the consequence side of the risk equation. Consequence reduction, unlike deploying more security controls, is a game you can win.</font></p><br><br>
+<p style="text-align:justify"><font size="4">Security professionals tend to address only the likelihood half of the risk equation. While reducing likelihood is important, it cannot be reduced to zero given human error and technology fails. In this session, Dale focuses on reducing the consequence side of the risk equation. Consequence reduction, unlike deploying more security controls, is a game you can win.</font></p><br><br>
 
 
 
