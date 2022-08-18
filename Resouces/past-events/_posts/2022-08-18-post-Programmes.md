@@ -5,7 +5,7 @@ date: 2022-08-18
 layout: post
 description: ""
 ---
-## 12 JULY 2022
+## **12 JULY 2022**
 
 
 | Time     | Agenda                                        |
@@ -22,7 +22,7 @@ description: ""
 
 
 
-## 13 JULY 2022
+## **13 JULY 2022**
 
 | Time | Agenda|
 | ------- | ---------                                        |
@@ -34,5 +34,3 @@ description: ""
 | 14:00-<br> 17:30<br> | Sectoral Breakout Discussions*<br><br> **Closed-Door (By Invitation Only)**<br>|
 
 	
-<br>
-*<i>Programme and timings are subjected to changes<i>
