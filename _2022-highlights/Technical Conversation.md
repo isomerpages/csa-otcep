@@ -11,7 +11,7 @@ description: ""
 
 ##### Synopsis:
 
-<p style="text-align:justify"><font size="3">OT system was originally designed on a flat communication network for "stuff" to work, not for security. Adversary had create real-life cases that disrupt/destruct on these unsecured system, and had defenders scrambling to protect their system to prevent re-occurrences. Furthermore, OT system is susceptible by emerging cyber threat vectors, standardization, and interoperability issues, bridging the gaps at the IT/OT ICS (industrial control systems) level. Defender is trying very hard to level up their capabilities to secure the OT environment, combining the engineering concepts with security methodology for a better secured OT system.</font></p><br><br>
+<p style="text-align:justify"><font size="4">OT system was originally designed on a flat communication network for "stuff" to work, not for security. Adversary had create real-life cases that disrupt/destruct on these unsecured system, and had defenders scrambling to protect their system to prevent re-occurrences. Furthermore, OT system is susceptible by emerging cyber threat vectors, standardization, and interoperability issues, bridging the gaps at the IT/OT ICS (industrial control systems) level. Defender is trying very hard to level up their capabilities to secure the OT environment, combining the engineering concepts with security methodology for a better secured OT system.</font></p><br><br>
 
 
 
