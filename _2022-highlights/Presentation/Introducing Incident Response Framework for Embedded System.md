@@ -4,7 +4,7 @@ permalink: /2022-highlights/Presentation-and-Panel/Introducing-Incident-Response
 description: ""
 third_nav_title: Presentation
 ---
-##### **Presentation and Panel Discussion: <br>Introducing Incident Response Framework for Embedded System**
+##### **Presentation: <br>Introducing Incident Response Framework for Embedded System**
 
 <b>Joel Thomas Langil</b><br>Founder & Managing Member,   Industrial Control System Cyber Security Institute (ICSCSI) LLC  
 Founder, SCADAhacker<br>
