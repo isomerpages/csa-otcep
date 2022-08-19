@@ -4,7 +4,7 @@ permalink: /2022-highlights/Presentation-and-Panel/Securing-PLC-Code-Practices
 description: ""
 third_nav_title: Presentation
 ---
-##### **Presentation: <br>Securing PLC Code Practices**
+##### **Presentation: Securing PLC Code Practices**
 
 <b>Sarah Fluchs</b><br>CTO, admeritia GmbH<br>
 
