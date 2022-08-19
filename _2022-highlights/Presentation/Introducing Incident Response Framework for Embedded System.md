@@ -4,7 +4,6 @@ permalink: /2022-highlights/Presentation-and-Panel/Introducing-Incident-Response
 description: ""
 third_nav_title: Presentation
 ---
-
 ##### **Presentation and Panel Discussion: <br>Introducing Incident Response Framework for Embedded System**
 
 <b>Joel Thomas Langil</b><br>Founder & Managing Member,   Industrial Control System Cyber Security Institute (ICSCSI) LLC  
@@ -15,7 +14,8 @@ Founder, SCADAhacker<br>
 
 <hr class="my-3 border-primary" />	
 
-##### Synopsis:
+##### **The Panel Discussion on the Introducing Incident Response Framework for Embedded System continues.**
+<font size=5><b> Synopsis: </b></font>
 
 <p style="text-align:justify"><font size="4">Cybersecurity Incident responding is commonly unheard in the OT environment, and the main responders to issues are typically OT engineers/operators or vendors, often resetting the devices or process to restore operations which may deny a discovery of a cyber breach. These may be caused by user interaction with Real-Time Operating System (RTOS) or software is not always simple and are limited in scope, and caused a lack of visibility or centralised data aggregation. Therefore, it is important to combine Engineering "Forensics" with Digital Forensics in such instances.</font></p><br><br>
 
