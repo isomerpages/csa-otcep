@@ -4,11 +4,11 @@ collections:
     order:
       - Welcome Remarks.md
       - Keynote Address.md
-      - Presentation and Panel/.keep
-      - Presentation and Panel/The Latest Industrial Control System Malware.md
-      - Presentation and Panel/Security Truth or Consequences.md
-      - Presentation and Panel/Introducing Incident Response Framework for
-        Embedded System.md
-      - Presentation and Panel/Securing PLC Code Practices.md
+      - Presentation/.keep
+      - Presentation/The Latest Industrial Control System Malware.md
+      - Presentation/Security Truth or Consequences.md
+      - Presentation/Introducing Incident Response Framework for Embedded
+        System.md
+      - Presentation/Securing PLC Code Practices.md
       - Technical Conversation.md
       - Technical Sharing.md
