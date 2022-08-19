@@ -4,7 +4,7 @@ permalink: /2022-highlights/Presentation-and-Panel/Security-Truth-or-Consequence
 description: ""
 third_nav_title: Presentation
 ---
-##### **Presentation: <br>Security Truth or Consequences**
+##### **Presentation: Security Truth or Consequences**
 <b>Dale Peterson</b><br> Founder & Program Chair, S4 Events<br>
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/CZ1-Ns6Fqxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
