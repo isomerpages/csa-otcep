@@ -1,6 +1,6 @@
 ---
 title: Security Truth or Consequences
-permalink: /2022-highlights/Presentation-and-Panel/Security-Truth-or-Consequences
+permalink: /2022-highlights/Presentation-and-Panel/Security-Truth-or-Consequences/
 description: ""
 third_nav_title: Presentation
 ---
@@ -11,10 +11,10 @@ third_nav_title: Presentation
 
 <hr class="my-3 border-primary" />	
 
-##### **The Panel Discussion on the Security Truth or Consequences continues.**
-<font size=5><b> Synopsis: </b></font>
 
-<p style="text-align:justify"><font size="4">Security professionals tend to address only the likelihood half of the risk equation. While reducing likelihood is important, it cannot be reduced to zero given human error and technology fails. In this session, Dale focuses on reducing the consequence side of the risk equation. Consequence reduction, unlike deploying more security controls, is a game you can win.</font></p><br><br>
+<font size=6><b> Synopsis: </b></font>
+
+<p style="text-align:justify"><font size="4">Security professionals tend to address only the likelihood half of the risk equation. While reducing likelihood is important, it cannot be reduced to zero given human error and technology fails. In this session, Dale focuses on reducing the consequence side of the risk equation. Consequence reduction, unlike deploying more security controls, is a game you can win. The panel iscussion on the security truth or consequences continues.</font></p><br><br>
 
 
 
