@@ -13,7 +13,7 @@ third_nav_title: Presentation
 
 <hr class="my-3 border-primary" />	
 
-<font size=6><b> Synopsis: </b></font>
+<font size=5><b> Synopsis: </b></font>
 
 <p style="text-align:justify"><font size="4">For many years, Programmable Logic Controllers (PLCs) have been insecure by design. Several years into customising and applying best practices from IT gave rise to secure protocols, encrypted communications, network segmentation etc. However, to date, there has not been a focus on using the characteristic features in PLCs (or SCADA/DCS) for security, or how to program PLCs with security in mind. In 2021, the Top 20 Secure PLC Coding Practices were published as the result of a community project. One year later, this session will give an update on the project, clarify what “the Top 20” are (and what they are not!), and what’s important to know when implementing them. The panel discussion on the securing PLC code practices continues.</font></p><br><br>
 
