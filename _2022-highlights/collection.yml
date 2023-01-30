@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Welcome Remarks.md
-      - Keynote Address.md
       - Presentation/.keep
       - Presentation/The Latest Industrial Control System Malware.md
       - Presentation/Security Truth or Consequences.md
