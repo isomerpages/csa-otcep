@@ -2,6 +2,7 @@ collections:
   back-up-content:
     output: true
     order:
+      - Keynote Address.md
       - Video Gallery/.keep
       - Photo Gallery/.keep
       - OTCEP 2022/.keep
