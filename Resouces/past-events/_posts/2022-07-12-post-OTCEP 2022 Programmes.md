@@ -1,9 +1,13 @@
 ---
-title: Day 1 - 12 July
-permalink: /programme/day1
+title: OTCEP 2022 Programmes
+permalink: /Resouces/past-events/otcep-2022-programmes
+date: 2022-07-12
+layout: post
 description: ""
 ---
-## Programme Outline
+
+
+## **12 JULY 2022**
 
 
 | Time     | Agenda                                        |
@@ -18,5 +22,17 @@ description: ""
 | 15:30-<br> 16:00<br> | Break <br><br><br>|
 | 16:00-<br> 17:30<br> | Presentation and Panel Discussion – Securing PLC Code Practices<br><br> <b>Sarah Fluchs,</b> CTO, admeritia GmbH<br><br><font size="2"><i>Synopsis: <br> For many years, Programmable Logic Controllers (PLCs) have been insecure by design. Several years into customising and applying best practices from IT gave rise to secure protocols, encrypted communications, network segmentation etc. However, to date, there has not been a focus on using the characteristic features in PLCs (or SCADA/DCS) for security, or how to program PLCs with security in mind. In 2021, the Top 20 Secure PLC Coding Practices were published as the result of a community project. One year later, this session will give an update on the project, clarify what “the Top 20” are (and what they are not!), and what’s important to know when implementing them.</i></font><br>|
 
-<br>
-*<i>Programme and timings are subjected to changes<i>
+
+
+## **13 JULY 2022**
+
+| Time | Agenda|
+| ------- | ---------                                        |
+| 9:00-<br> 11:00<br>  | C-Suite Conversation*<br><br> **Closed-Door (By Invitation Only)**<br><br>|
+| 9:00-<br> 10:30<br> | Technical Conversation: OT Cybersecurity in Secured Engineering<br><br><font size="2"><i>Synopsis: <br>OT system was originally designed on a flat communication network for "stuff" to work, not for security. Adversary had create real-life cases that disrupt/destruct on these unsecured system, and had defenders scrambling to protect their system to prevent re-occurrences. Furthermore, OT system is susceptible by emerging cyber threat vectors, standardization, and interoperability issues, bridging the gaps at the IT/OT ICS (industrial control systems) level. Defender is trying very hard to level up their capabilities to secure the OT environment, combining the engineering concepts with security methodology for a better secured OT system.</i></font><br><br>|
+| 10:30-<br> 11:00<br> | Break<br><br><br><br>|
+| 11:00-<br> 12:00<br>  | Technical Sharing: Hidden Code on Field Controller<br><br>**Sharon Brizinov,** Director of Security Research, Claroty<br><br><font size="2"><i>Synopsis: <br>Stealthy exploits of programmable logic controllers are among the rarest, most time-consuming, and investment-heavy attacks. The ability to conceal malicious bytecode on a PLC and give engineers the appearance of operations running as normal is highly sophisticated, and poses extreme risk to process safety and reliability. Without advanced forensics utilities, the execution of such malicious code cannot be discovered. In this presentation, it will cover the research into such stealthy exploits and how we were able to attack PLCs manufactured by leading ICS vendors including Rockwell Automation, and Siemens.</i></font><br><br>|
+| 12:00-<br> 14:00<br> | Lunch <br><br><br><br>|
+| 14:00-<br> 17:30<br> | Sectoral Breakout Discussions*<br><br> **Closed-Door (By Invitation Only)**<br>|
+
+	

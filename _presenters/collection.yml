@@ -1,6 +1,4 @@
 collections:
   presenters:
     output: true
-    order:
-      - OTCEP Panel Members.md
-      - Speakers.md
+    order: []

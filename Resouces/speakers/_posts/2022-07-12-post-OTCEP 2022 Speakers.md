@@ -1,8 +1,13 @@
 ---
-title: Speakers
-permalink: /presenters/speakers
+title: OTCEP 2022 Speakers
+permalink: /Resouces/speakers/OTCEP-2022-Speakers
+date: 2022-07-12
+layout: post
 description: ""
 ---
+
+
+
 ## **Guest of Honour**
 
 ![MrsJosephineTeo](/images/Speakers/220511%20CSA%20Speakers%20Josephine%20Teo_3.png)

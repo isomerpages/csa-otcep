@@ -1,9 +1,12 @@
 ---
-title: Day 2 - 13 July
-permalink: /programme/day2
+title: Day 2 Programme
+permalink: /resources/otcep-2022/day2-programme
 description: ""
+third_nav_title: OTCEP 2022
 ---
-## Programme Outline
+
+
+## 13 JULY 2022
 
 | Time | Agenda|
 | ------- | ---------                                        |

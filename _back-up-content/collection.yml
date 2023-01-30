@@ -1,0 +1,13 @@
+collections:
+  back-up-content:
+    output: true
+    order:
+      - Keynote Address.md
+      - Video Gallery/.keep
+      - Photo Gallery/.keep
+      - OTCEP 2022/.keep
+      - OTCEP 2022/Speakers.md
+      - OTCEP 2022/OTCEP Panel Members.md
+      - OTCEP 2022/Day 1 Programme.md
+      - OTCEP 2022/Day 2 Programme.md
+      - OTCEP 2021/.keep

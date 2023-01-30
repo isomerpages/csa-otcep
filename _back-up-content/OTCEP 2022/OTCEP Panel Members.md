@@ -1,8 +1,17 @@
 ---
 title: OTCEP Panel Members
-permalink: /presenters/otcep-panel-members
+permalink: /resources/otcep-2022/otcep-panel-members
 description: ""
+third_nav_title: OTCEP 2022
 ---
+
+
+
+
+
+
+
+
 ![RobertMLee](/images/Speaker%20Profile/Speakers/220613%20CSA%20Speakers%20Robert%20M%20Lee.png)
 <p style="text-align:justify"><font size="4px">
 Robert is a recognized pioneer in the industrial cybersecurity community. He is CEO and founder of Dragos, a global technology leader in cybersecurity for industrial controls systems (ICS)/operational technology (OT) environments. </font></p>
