@@ -2,6 +2,7 @@ collections:
   2022-highlights:
     output: true
     order:
+      - 2022 OTCEP Hightlight.md
       - Welcome Remarks.md
       - Presentation/.keep
       - Presentation/The Latest Industrial Control System Malware.md
@@ -11,4 +12,3 @@ collections:
       - Presentation/Securing PLC Code Practices.md
       - Technical Conversation.md
       - Technical Sharing.md
-      - 2022 OTCEP Hightlight.md
