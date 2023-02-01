@@ -2,6 +2,7 @@ collections:
   2022-highlights:
     output: true
     order:
+      - 2022 OTCEP Hightlight.md
       - Welcome Remarks.md
       - Presentation/.keep
       - Presentation/The Latest Industrial Control System Malware.md
