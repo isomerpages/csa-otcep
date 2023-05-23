@@ -10,10 +10,10 @@ sections:
       background: /images/Banner/csa-banner3.jpg
       url: /contact-us/
       key_highlights:
-        - title: 2022 Highlights
-          description: Find out more
-          url: 2022-highlights/welcome-remarks
-        - title: OTCEP Panel Members
+        - title: GUEST OF HONOUR
+          description: Mrs Josephine Teo
+          url: ""
+        - title: 2023 OTCEP Panel Members
           description: Click to view profile
           url: resouces/speakers/otcep-2022-panel-members
 ---
