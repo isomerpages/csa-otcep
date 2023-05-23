@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/csa-banner2.jpg
+      background: /images/Banner/csa-otcep-2023-1.jpg
       url: /contact-us/
       key_highlights:
         - title: 2022 Highlights
