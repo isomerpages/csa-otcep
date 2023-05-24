@@ -1,5 +1,5 @@
 collections:
-  2023-otcep:
+  agenda:
     output: true
     order:
       - Agenda.md
