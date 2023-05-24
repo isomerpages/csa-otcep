@@ -2,4 +2,4 @@ collections:
   agenda:
     output: true
     order:
-      - Agenda.md
+      - 22 August 2023.md
