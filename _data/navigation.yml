@@ -2,6 +2,8 @@ logo: /images/csa-logo.jpeg
 links:
   - title: Overview
     collection: overview
+  - title: Agenda
+    collection: programme
   - title: PRESENTERS
     collection: presenters
   - title: 2022 Highlights
@@ -12,5 +14,3 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: AGENDA
-    collection: programme
