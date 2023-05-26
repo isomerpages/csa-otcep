@@ -1,4 +1,5 @@
 collections:
   presenters:
     output: true
-    order: []
+    order:
+      - Presenter.md
