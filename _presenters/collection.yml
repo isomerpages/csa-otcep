@@ -2,4 +2,4 @@ collections:
   presenters:
     output: true
     order:
-      - Presenter.md
+      - OTCEP 2023 Speakers.md
