@@ -6,11 +6,9 @@ links:
     collection: programme
   - title: Presenters
     collection: presenters
-  - title: 2022 Highlights
-    collection: 2022-highlights
   - title: Media
     url: /media
-  - title: Resources
-    resource_room: true
+  - title: 2022 Highlights
+    collection: 2022-highlights
   - title: Contact Us
     url: /contact-us/
