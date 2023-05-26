@@ -2,4 +2,5 @@ collections:
   presenters:
     output: true
     order:
+      - OTCEP 2023 Panel Members.md
       - OTCEP 2023 Speakers.md
