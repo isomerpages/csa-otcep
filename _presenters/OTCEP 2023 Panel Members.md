@@ -3,7 +3,6 @@ title: OTCEP 2023 Panel Members
 permalink: /speakers/otcep-2023-panel-member/
 description: ""
 ---
-
 **DALE PETERSON**<br>
 For over 20 years, Dale Peterson has been on the leading/bleeding edge helping security- conscious asset owners effectively and efficiently manage risk to their critical assets. He has pioneered numerous Industrial Control Systems (ICS) security tools and techniques, such as the first intrusion detection signatures for ICS that are now in every commercial product. In 2007, he created S4 Events to showcase the best offensive and defensive work in ICS security and build a community. S4 is now the largest and most advanced ICS event in the world.
 
@@ -54,4 +53,3 @@ Terence earned his PhD and M.S. degree in Computer Science from National Tsing-H
 
 **Zachary Tudor**
 Zachary (Zach) Tudor is responsible for INL’s Nuclear Nonproliferation, Critical Infrastructure Protection and Defense Systems missions. Previously, Tudor served as a Program Director in the Computer Science Laboratory at SRI International, where he supported cyber security and critical infrastructure programs such as DHS Cyber Security Division’s Linking the Oil and Gas Industry to Improve Cybersecurity (LOGIIC) consortium, and the Industrial Control System Joint Working Group R&amp;D working group. He has served as a member of (ISC)2’s Application Security Advisory Board and the NRC’s Nuclear Cyber Security Working Group, as well as the Vice Chair of the Institute for Information Infrastructure Protection at George Washington University. He is a Professor of Practice in the Computer Science Departments of the University of Idaho and Idaho State University, is the Chair of the Board of Directors of the International Information Systems Security Certification Consortium (ISC)2, and a member of the Commonwealth Cyber Initiative advisory board (Virginia).
-
