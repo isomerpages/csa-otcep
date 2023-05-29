@@ -15,5 +15,5 @@ sections:
           url: ""
         - title: 2023 OTCEP Panel Members
           description: Click to view profile
-          url: resouces/speakers/otcep-2022-panel-members
+          url: /presenters/otcep-2023-panel-member/
 ---
