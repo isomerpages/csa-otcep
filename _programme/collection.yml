@@ -1,5 +1,5 @@
 collections:
-  agenda:
+  programme:
     output: true
     order:
       - 22 August 2023.md
