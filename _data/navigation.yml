@@ -4,15 +4,13 @@ links:
     collection: overview
   - title: Programme
     collection: programme
-  - title: Presenters
-    collection: presenters
   - title: Panel Members
     url: /presenters/otcep-2023-panel-member/
+  - title: Speakers
+    url: /presenters/otcep-2023-speakers/
   - title: Media
     url: /media
   - title: 2022 Highlights
     collection: 2022-highlights
   - title: Contact Us
     url: /contact-us/
-  - title: Speakers
-    url: /presenters/otcep-2023-speakers/
