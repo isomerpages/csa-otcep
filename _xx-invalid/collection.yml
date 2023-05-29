@@ -1,4 +1,5 @@
 collections:
   xx-invalid:
     output: true
-    order: []
+    order:
+      - PDU Eligibility.md
