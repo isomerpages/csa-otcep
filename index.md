@@ -10,10 +10,13 @@ sections:
       background: /images/Banner/csa-banner3.jpg
       url: /contact-us/
       key_highlights:
+        - title: Registration
+          description: Click here to register
+          url: ""
         - title: GUEST OF HONOUR
           description: Mrs Josephine Teo
           url: ""
-        - title: 2023 OTCEP Panel Members
+        - title: 2023 OTCEP Members
           description: Click to view profile
           url: /panel-members/
 ---
