@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Registration
           description: Click here to register
-          url: ""
+          url: https://www.gevme.com/operational-technology-cybersecurity-expert-panel-otcep-forum-2023
         - title: GUEST OF HONOUR
           description: Mrs Josephine Teo
           url: ""
