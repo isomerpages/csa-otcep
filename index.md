@@ -18,5 +18,5 @@ sections:
           url: ""
         - title: 2023 OTCEP Members
           description: Click to view profile
-          url: /2023-otce-members/
+          url: /2023-otcep-members/
 ---
