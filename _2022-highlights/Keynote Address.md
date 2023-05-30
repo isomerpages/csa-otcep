@@ -3,14 +3,10 @@ title: Keynote Address
 permalink: /2022-highlights/keynote-address/
 description: ""
 ---
-
-
-
-##### **Keynote Address**
 <b>Mrs Josephine Teo</b><br> Minister for Communications and Information and Second Minister for Home Affairs <br>Minister-in-charge of Smart Nation And Cybersecurity
 
 <div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/DjM-j1Yifko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/DjM-j1Yifko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 
