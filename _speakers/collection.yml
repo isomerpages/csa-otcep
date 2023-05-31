@@ -2,4 +2,4 @@ collections:
   speakers:
     output: true
     order:
-      - Speakers.md
+      - Guest of Honour.md
