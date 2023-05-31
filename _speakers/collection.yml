@@ -2,5 +2,5 @@ collections:
   speakers:
     output: true
     order:
-      - Example Title.md
+      - Opening Remarks.md
       - Guest of Honour.md
