@@ -2,4 +2,5 @@ collections:
   xx-invalid:
     output: true
     order:
+      - privacy statement 2022.md
       - PDU Eligibility.md
