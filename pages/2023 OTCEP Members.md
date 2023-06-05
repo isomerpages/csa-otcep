@@ -14,7 +14,7 @@ Robert gained his start in security as a U.S. Air Force Cyber Warfare Operations
 
 Forbes named Robert to its 30 under 30 (2016) list as one of the "brightest entrepreneurs, breakout talents, and change agents" in enterprise technology. A business leader but also technical practitioner, he helped lead the investigation into the 2015 attack on Ukraine's power grid, the first time an electric system was taken down due to a cyberattack. With his team at Dragos he has been involved in the most significant cyberattacks on industrial infrastructure, including the investigation and analysis of the 2016 attack on Ukraine’s electric system, the 2017 TRISIS attack on a Saudi Arabian petrochemical facility in the first attempt to try to kill people through malicious software, and the 2021 Colonial Pipeline ransomware attack. In 2022, his team at Dragos uncovered PIPEDREAM, a highly flexible framework to attack industrial infrastructure globally. Robert's work has been featured in the book Sandworm and on 60 Minutes.
 
-![](/images/2023%20PRESENTERS/230526_csa%20otcep%202023_speaker%20profiles_r2_mr%20dale%20gregory%20peterson.png)
+![](/images/2023%20PRESENTERS/230605_csa%20otcep%202023_speaker%20profiles_mr%20dale%20peterson.png)
 For over 20 years, Dale Peterson has been on the leading/bleeding edge helping security- conscious asset owners effectively and efficiently manage risk to their critical assets. He has pioneered numerous Industrial Control Systems (ICS) security tools and techniques, such as the first intrusion detection signatures for ICS that are now in every commercial product. In 2007, he created S4 Events to showcase the best offensive and defensive work in ICS security and build a community. S4 is now the largest and most advanced ICS event in the world.
 
 ![](/images/2023%20PRESENTERS/230526_csa%20otcep%202023_speaker%20profiles_r2_ms%20sarah%20fluchs.png)
@@ -24,7 +24,7 @@ A process and automation engineer herself, Sarah is convinced that creating soli
 
 She currently leads a government-funded research project on security by design for ICS in cooperation with industry partners INEOS and HIMA, two German universities, and NAMUR (User Association of Automation Technology in Process Industries).
 
-![](/images/2023%20PRESENTERS/230526_csa%20otcep%202023_speaker%20profiles_r2_mr%20marco%20(marc)%20ayala.png)
+![](/images/2023%20PRESENTERS/230605_csa%20otcep%202023_speaker%20profiles_mr%20marco%20ayala.png)
 Marco (Marc) Ayala has over 25 years of experience where he designed, implemented, and maintained process instrumentation, automation systems, safety systems, and process control networks. He is the Global Director and IACS cybersecurity sector lead with 1898 & Co. the consulting arm of Burns & McDonnell Engineering Company. 
 With around two decades focused specifically on industrial cybersecurity, he has led efforts to secure the oil and gas (all streams), maritime port, offshore facilities, and chemical sectors, supporting federal, local, and state entities for securing the private sector. 
 
@@ -62,7 +62,7 @@ Before joining Trend Micro, Terence was the CEO of Broadweb. He defined and crea
 Terence earned his PhD and M.S. degree in Computer Science from National Tsing-Hua University, and holds several patents and IEEE/ACM publications.
 
 
-![](/images/2023%20PRESENTERS/230526_csa%20otcep%202023_speaker%20profiles_r2_dr%20terence%20liu.png)
+![](/images/2023%20PRESENTERS/230526_csa%20otcep%202023_speaker%20profiles_r2_mr%20justin%20searle-09.png)
 Justin Searle is the Director of ICS Security at InGuardians, specializing in ICS security architecture design and penetration testing. He led the Smart Grid Security Architecture group in the creation of NIST Interagency Report 7628 and has played key roles in the Advanced Security Acceleration Project for the Smart Grid (ASAP-SG), National Electric Sector Cybersecurity Organization Resources (NESCOR), and Smart Grid Interoperability Panel (SGIP).  
 
 Justin has taught courses in hacking techniques, forensics, networking, and intrusion detection for multiple universities, corporations, and security conferences. He is currently a Senior Instructor for the SANS Institute and a faculty member at IANS. In addition to electric power industry conferences, Justin frequently presents at top international security conferences such as Black Hat, DEFCON, OWASP, Nullcon, and AusCERT.  
