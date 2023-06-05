@@ -60,3 +60,13 @@ Prior to TXOne Networks, Terence was the Vice President of Trend Micro. He led T
 Before joining Trend Micro, Terence was the CEO of Broadweb. He defined and created its Deep Packet Inspection products and business, winning numerous leading networking and security vendors as customers. BroadWeb was finally acquired by Trend Micro in October of 2013.
 
 Terence earned his PhD and M.S. degree in Computer Science from National Tsing-Hua University, and holds several patents and IEEE/ACM publications.
+
+
+
+JUSTIN SEARLE
+
+Justin Searle is the Director of ICS Security at InGuardians, specializing in ICS security architecture design and penetration testing. He led the Smart Grid Security Architecture group in the creation of NIST Interagency Report 7628 and has played key roles in the Advanced Security Acceleration Project for the Smart Grid (ASAP-SG), National Electric Sector Cybersecurity Organization Resources (NESCOR), and Smart Grid Interoperability Panel (SGIP).  
+
+Justin has taught courses in hacking techniques, forensics, networking, and intrusion detection for multiple universities, corporations, and security conferences. He is currently a Senior Instructor for the SANS Institute and a faculty member at IANS. In addition to electric power industry conferences, Justin frequently presents at top international security conferences such as Black Hat, DEFCON, OWASP, Nullcon, and AusCERT.  
+
+Justin leads prominent open source projects including the ControlThings Platform, Samurai Web Testing Framework (SamuraiWTF), Samurai Security Testing Framework for Utilities (SamuraiSTFU). He has an MBA in International Technology and is a CISSP and SANS GIAC certified Incident Handler (GCIH), Intrusion Analyst (GCIA), Web Application Penetration Tester (GWAPT), and GIAC Industrial Control Security Professional (GICSP).
