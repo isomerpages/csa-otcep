@@ -3,7 +3,7 @@ title: About OTCEP Forum
 permalink: /overview/about/
 description: ""
 ---
-<p style="text-align:left">The establishment of an Operational Technology Cybersecurity Expert Panel Forum(OTCEP) was first announced at the Singapore International Cyber Week 2020. The OTCEP forum augments efforts under the OT Cybersecurity Masterplan which was developed to enhance the security and resilience of Singapore’s critical sectors, improve cross-sector response to mitigate cyber threats in the OT environment and strengthen partnerships with stakeholders.</p>
+<p style="text-align:left">The establishment of an Operational Technology Cybersecurity Expert Panel  (OTCEP) Forum was first announced at the Singapore International Cyber Week 2020. The OTCEP forum augments efforts under the OT Cybersecurity Masterplan which was developed to enhance the security and resilience of Singapore’s critical sectors, improve cross-sector response to mitigate cyber threats in the OT environment and strengthen partnerships with stakeholders.</p>
 
 <p style="text-align:left">Cyber threats to OT, especially Industrial Control Systems (ICS), are increasing in frequency and sophistication. It is therefore imperative to strengthen local cybersecurity capabilities and competencies in the OT sector.</p>
 
