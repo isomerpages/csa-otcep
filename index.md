@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: OTCE Forum 2023
+title: OTCEP Forum 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
