@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Operational Technology Cybersecurity Expert Panel Forum 2023
+title: Operational Technology Cybersecurity Expert Panel (OTCEP) Forum 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
