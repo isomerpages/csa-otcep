@@ -2,6 +2,5 @@ collections:
   speakers:
     output: true
     order:
-      - Guest of Honour.md
       - Opening Remarks.md
       - Technical Sharing.md
