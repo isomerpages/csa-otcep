@@ -2,4 +2,4 @@ collections:
   speakers:
     output: true
     order:
-      - Opening Remarks.md
+      - Speakers.md
