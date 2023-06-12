@@ -18,3 +18,5 @@ Mr Koh is the recipient of the first Billington CyberSecurity International Lead
 Mr Koh has a Master’s degree in Public Administration from Harvard University, USA; and a Bachelor’s degree in Electrical and Electronics Engineering from King’s College, London, UK.
 
 He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.
+
+---
