@@ -3,6 +3,7 @@ title: Opening Remarks
 permalink: /speakers/opening-remarks-xx/
 description: ""
 ---
+![](/images/2023%20Speakers/230612_csa%20otcep%202023_speaker%20profiles_mr%20david%20koh.png)
 Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the founding Chief Executive of the Cyber Security Agency (CSA) of Singapore. He is concurrently Chief (Digital Security & Technology) at the Ministry of Communications and Information.
 
 As Commissioner, he has the legal authority to investigate cyber threats and incidents to ensure that essential services are not disrupted in the event of a cyber-attack. As Chief Executive of CSA, he leads Singapore’s efforts to provide dedicated and centralised oversight of national cyber security functions. These include enforcing the cybersecurity legislation; strategy and policy development; cyber security operations; ecosystem, R&D and capability development, public outreach and international engagement. Concurrently, as Chief (Digital Security & Technology), he oversees digital security policy and technology capability development in the Ministry of Communications and Information.
