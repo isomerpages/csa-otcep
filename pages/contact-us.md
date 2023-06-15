@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: "OTCEP 2022 Event Secretariat "
+agency_name: "OTCEP Forum Secretariat "
 contacts:
   - content:
       - phone: ""

@@ -1,16 +1,12 @@
 ---
 title: Welcome Remarks
-permalink: /2022-highlights/welcome-remarks
+permalink: /2022-highlights/welcome-remarks/
 description: ""
 ---
-
-
-
-##### **Welcome Remark**
-<b>Mr David Koh</b><br> Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singapore
+<b>Mr David Koh</b><br> Commissioner of Cybersecurity &amp; Chief Executive, Cyber Security Agency of Singapore
 
 <div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/EBwKi65oLM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/EBwKi65oLM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 

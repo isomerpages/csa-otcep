@@ -1,19 +1,19 @@
 ---
 layout: homepage
-title: OTCEP 2022
-description: Brief site description here
+title: Operational Technology Cybersecurity Expert Panel (OTCEP) Forum 2023
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/csa-banner2.jpg
+      background: /images/Banner/csa-banner3.jpg
       url: /contact-us/
       key_highlights:
-        - title: 2022 Highlights
-          description: Find out more
-          url: 2022-highlights/welcome-remarks
-        - title: OTCEP Panel Members
+        - title: Registration
+          description: Click here to register
+          url: https://www.gevme.com/operational-technology-cybersecurity-expert-panel-otcep-forum-2023
+        - title: 2023 OTCEP Members
           description: Click to view profile
-          url: resouces/speakers/otcep-2022-panel-members
+          url: /2023-otcep-members/
 ---

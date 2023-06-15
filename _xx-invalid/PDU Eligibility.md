@@ -1,6 +1,6 @@
 ---
 title: PDU Eligibility
-permalink: /overview/pdu-eligibility
+permalink: /overview/pdu-eligibility/
 description: ""
 ---
 ### PDU Eligibility for IES member

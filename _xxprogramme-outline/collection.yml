@@ -1,0 +1,6 @@
+collections:
+  xxprogramme-outline:
+    output: true
+    order:
+      - Example Title.md
+      - Example Title 2.md

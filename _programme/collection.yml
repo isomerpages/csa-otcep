@@ -1,4 +1,6 @@
 collections:
   programme:
     output: true
-    order: []
+    order:
+      - 22 August 2023.md
+      - 23 August 2023.md

@@ -2,7 +2,7 @@ collections:
   2022-highlights:
     output: true
     order:
-      - 2022 OTCEP Hightlight.md
+      - 2022 OTCEP Forum Highlight.md
       - Welcome Remarks.md
       - Keynote Address.md
       - Presentation/.keep

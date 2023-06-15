@@ -2,6 +2,5 @@ collections:
   overview:
     output: true
     order:
-      - About OTCEP.md
+      - About OTCEP Forum.md
       - Organiser.md
-      - PDU Eligibility.md
