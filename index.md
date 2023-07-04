@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/csa-banner3.jpg
+      background: /images/Banner/csa-banner4.jpg
       url: /contact-us/
       key_highlights:
         - title: Registration
