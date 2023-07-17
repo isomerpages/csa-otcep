@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/csa-banner4.jpg
+      background: /images/Banner/otcep-banner5.jpg
       url: /contact-us/
       key_highlights:
         - title: Registration
