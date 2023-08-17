@@ -3,7 +3,7 @@ title: 2023 OTCEP Members
 permalink: /2023-otcep-members/
 description: ""
 ---
-![](/images/2023%20Panellists/230613_csa%20otcep%202023_speaker%20profiles_mr%20robert%20m%20lee_r2.png)
+![](/images/2023%20Panellists/230613_csa%20otcep%202023_speaker%20profiles_mr%20robert%20m%20lee_r3.png)
 Robert is a recognised authority in the industrial cybersecurity community. He is CEO and co-founder of Dragos, a global technology leader in cybersecurity for industrial controls systems (ICS)/operational technology (OT) environments. In addition, Robert serves on the Department of Energy's Electricity Advisory Committee as the Vice Chair of the Department of Energy's Grid Resilience for National Security Subcommittee, and is a member of the World Economic Forum's subcommittees on Cyber Resilience for the Oil & Gas and Electricity communities.   
   
 Robert is routinely sought after for advice and input on cybersecurity for industrial infrastructure and is regularly asked to brief national leaders. He testified to the U.S. House of Representatives Committee on Energy and Commerce--Subcommittee on Oversight and Investigations, and to the U.S. Senate Energy and Natural Resources Committee, to advise on policy issues related to critical infrastructure cyber threats. He has also presented at the World Economic Forum Annual Meeting in Davos, and industry leading conferences such as RSA, SANS, BlackHat, and DefCon on the topic of industrial cybersecurity and threats. He serves on the board of the National Cryptologic Foundation.   
