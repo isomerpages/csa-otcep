@@ -11,7 +11,7 @@ third_nav_title: Day 2 Presentation
 <iframe width="853" height="315" src="https://www.youtube.com/embed/cTw6N5iCItE?si=sTiuvjXy1aeKsoWi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
-[PPT slide: Technical Sharing: Deceive-by-Design: How to Use Deception Technology to Protect the OT Environment](/files/deceive-by-design_how_to_use_deception_technology_to_protect_the_ot_environment.pdf)
+[Slide: Technical Sharing: Deceive-by-Design: How to Use Deception Technology to Protect the OT Environment](/files/deceive-by-design_how_to_use_deception_technology_to_protect_the_ot_environment.pdf)
 
 
 
