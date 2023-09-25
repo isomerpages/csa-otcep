@@ -2,6 +2,5 @@ collections:
   2023-highlights:
     output: true
     order:
-      - Presentation – Day 1.md
       - Welcome Remarks.md
       - Keynote Address.md
