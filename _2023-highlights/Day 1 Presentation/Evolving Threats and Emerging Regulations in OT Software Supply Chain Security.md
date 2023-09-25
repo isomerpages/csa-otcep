@@ -12,7 +12,7 @@ Chief Technology Officer, aDolus Technology Inc<br>Senior Partner, ICS Secure Lt
 
 
 
-[Download: Evolving Threats and Emerging Regulations in OT Software Supply Chain Security](/files/1050hrs_eric_byres_-_evolving_threats_and_emerging_regulations_in_ot_software_supply_chain_security.pdf)
+[PPT slide: Evolving Threats and Emerging Regulations in OT Software Supply Chain Security](/files/1050hrs_eric_byres_-_evolving_threats_and_emerging_regulations_in_ot_software_supply_chain_security.pdf)
 
 
 
