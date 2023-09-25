@@ -10,8 +10,6 @@ collections:
         Software Supply Chain Security.md
       - "Day 1 Presentation/OT Cybersecurity: From Speculation to Science.md"
       - Day 1 Presentation/How to Turn Security by Design from Myth to Reality.md
-      - "Day 2 Presentation/Operations Track: Threat Intel Sharing in the OT
-        Community Unlisted.md"
       - Day 2 Presentation/.keep
       - Day 2 Presentation/Normalisation of Deviance in the Confluence of
         Process Control, Safety Sys & Remote Internet Access.md
@@ -20,3 +18,5 @@ collections:
       - Day 2 Presentation/Ransomware in OT&ICS Environment.md
       - "Day 2 Presentation/Operations Track: Preventing Unintentional or
         Collateral Cyber Disasters.md"
+      - "Day 2 Presentation/Operations Track: Threat Intel Sharing in the OT
+        Community Unlisted.md"
