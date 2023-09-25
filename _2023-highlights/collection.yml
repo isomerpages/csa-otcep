@@ -1,5 +1,5 @@
 collections:
-  2023-event-highlights:
+  2023-highlights:
     output: true
     order:
       - Keynote Address.md
