@@ -9,7 +9,7 @@ third_nav_title: Day 2 Presentation
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/6HYEyx-RFsc?si=9O-ltLVHSDBdvyUb" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-
+[Slide: Engineering Track: A Pragmatic Approach to Conduct OT Penetration Testing](/files/1515hrs_justin_searle_engineering.pdf)
 
 
 
