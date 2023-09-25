@@ -2,17 +2,17 @@ collections:
   2023-highlights:
     output: true
     order:
-      - Day 2 Presentation/.keep
-      - Day 2 Presentation/Normalisation of Deviance in the Confluence of
-        Process Control, Safety Sys & Remote Internet Access.md
-      - "Day 2 Presentation/Technical Sharing: Deceive by Design: How to Use
-        Deception Technology to Protect the OT Environment.md"
-      - Day 2 Presentation/Ransomware in OT&ICS Environment.md
+      - Welcome Remarks.md
+      - Keynote Address.md
       - Day 1 Presentation/.keep
       - Day 1 Presentation/Cyber Threat Landscape.md
       - Day 1 Presentation/Evolving Threats and Emerging Regulations in OT
         Software Supply Chain Security.md
       - "Day 1 Presentation/OT Cybersecurity: From Speculation to Science.md"
       - Day 1 Presentation/How to Turn Security by Design from Myth to Reality.md
-      - Welcome Remarks.md
-      - Keynote Address.md
+      - Day 2 Presentation/.keep
+      - Day 2 Presentation/Normalisation of Deviance in the Confluence of
+        Process Control, Safety Sys & Remote Internet Access.md
+      - "Day 2 Presentation/Technical Sharing: Deceive by Design: How to Use
+        Deception Technology to Protect the OT Environment.md"
+      - Day 2 Presentation/Ransomware in OT&ICS Environment.md
