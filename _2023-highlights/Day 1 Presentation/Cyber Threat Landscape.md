@@ -11,7 +11,7 @@ third_nav_title: Day 1 Presentation
 
 
 
-[Download: Cyber Threat Landscape (PDF)](/files/0920hrs_robert_lee.pdf)
+[PPT slide: Cyber Threat Landscape](/files/0920hrs_robert_lee.pdf)
 
 
 
