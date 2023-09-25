@@ -2,6 +2,8 @@ collections:
   2023-highlights:
     output: true
     order:
+      - Day 2 Presentation/Normalisation of Deviance in the Confluence of
+        Process Control, Safety Sys & Remote Internet Access.md
       - "Day 2 Presentation/Technical Sharing: Deceive by Design: How to Use
         Deception Technology to Protect the OT Environment.md"
       - Day 2 Presentation/.keep
