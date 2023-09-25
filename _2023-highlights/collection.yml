@@ -2,5 +2,5 @@ collections:
   2023-highlights:
     output: true
     order:
-      - Keynote Address.md
       - Welcome Remarks.md
+      - Keynote Address.md
