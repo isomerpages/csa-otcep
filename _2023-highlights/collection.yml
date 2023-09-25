@@ -2,5 +2,6 @@ collections:
   2023-highlights:
     output: true
     order:
+      - Day 1 Presentation/.keep
       - Welcome Remarks.md
       - Keynote Address.md
