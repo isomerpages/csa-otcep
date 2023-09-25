@@ -10,7 +10,7 @@ Chief Technology Officer, admeritia GmbH
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/Wlkk8OMYvGc?si=t2JSGOysOA1bh85z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-[PPT Slide: How to Turn Security by Design from Myth to Reality](/files/1515hrs_sarah_fluchs.pdf)
+[PPT slide: How to Turn Security by Design from Myth to Reality](/files/1515hrs_sarah_fluchs.pdf)
 
 
 
