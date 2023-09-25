@@ -11,7 +11,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: OTCEP Forum 2023 highlights
-          description: Click to view highlights
+          description: Click to view highlights from OTCEP Forum 2023
           url: /speakers/
         - title: 2023 OTCEP Members
           description: Click to view profile
