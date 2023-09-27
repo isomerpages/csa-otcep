@@ -16,4 +16,7 @@ sections:
         - title: 2023 Highlights
           description: Click to view event highlights
           url: /2023-event-highlights/welcome-remarks/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
