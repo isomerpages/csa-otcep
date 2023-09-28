@@ -9,7 +9,7 @@ third_nav_title: Day 2 Presentation
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/BjbXbt-LPow?si=ZH1NR2KZqEzlHH4x" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-[Slide: Ransomware in OT/ICS Environment](/files/ransomware_in_ot_ics_environment.pdf)
+[Slide: Ransomware in OT/ICS Environment](/files/OTCEP%202023%20Material/07%20Ransomware%20in%20OT&amp;ICS.pdf)
 
 
 
