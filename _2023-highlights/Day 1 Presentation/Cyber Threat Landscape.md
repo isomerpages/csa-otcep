@@ -10,8 +10,7 @@ third_nav_title: Day 1 Presentation
 <iframe width="853" height="315" src="https://www.youtube.com/embed/Dw983V7Tje0?si=gqo5DABsMfznoYGS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
-
-[PPT slide: Cyber Threat Landscape](/files/0920hrs_robert_lee.pdf)
+[PPT slide: Cyber Threat Landscape](/files/OTCEP%202023%20Material/01%20Cyber%20Threat%20Landscape.pdf)
 
 
 
