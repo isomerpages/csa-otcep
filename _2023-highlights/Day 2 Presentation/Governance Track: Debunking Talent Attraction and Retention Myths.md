@@ -9,9 +9,8 @@ third_nav_title: Day 2 Presentation
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/r_uNb_Y_JCU?si=zUXG-Us5XeGNz14M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-[ Slide: Governance Track: Debunking Talent Attraction and Retention Myths](/files/debunking_talent_attraction_and_retention_myths_understand_what_truly_matters_to_your_employees.pdf)
 
-
+[Slide: Governance Track: Debunking Talent Attraction and Retention Myths](/files/OTCEP%202023%20Material/12%20Debunking%20Talent%20.pdf)
 
 
 
