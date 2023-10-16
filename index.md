@@ -15,5 +15,5 @@ sections:
           url: /2023-otcep-members/
         - title: 2023 Highlights
           description: Click to view event highlights
-          url: /2023-event-highlights/welcome-remarks/
+          url: /2023-highlights/otcep-forum-2023-highlight/
 ---
