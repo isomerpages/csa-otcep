@@ -10,7 +10,7 @@ Chief Technology Officer, admeritia GmbH
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/Wlkk8OMYvGc?si=t2JSGOysOA1bh85z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-[PPT slide: How to Turn Security by Design from Myth to Reality](/files/OTCEP%202023%20Material/04%20How%20to%20Turn%20Security%20by%20Design%20from%20Myth%20to%20Reality.pdf)
+[PPT slide: How to Turn Security by Design from Myth to Reality](/files/otcep%202023%20material/04%20how%20to%20turn%20security%20by%20design%20from%20myth%20to%20reality.pdf)
 
 
 

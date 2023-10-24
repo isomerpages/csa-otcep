@@ -10,7 +10,7 @@ description: ""
 
 ## **Guest of Honour**
 
-![MrsJosephineTeo](/images/Speakers/220511%20CSA%20Speakers%20Josephine%20Teo_3.png)
+![MrsJosephineTeo](/images/speakers/220511%20csa%20speakers%20josephine%20teo_3.png)
 <p style="text-align:justify"><font size="4px">
 Minister Josephine Teo was appointed Minister of Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity on 15 May 2021. She is also a member of the National Jobs Council and the Future Economy Council, and has been concurrently the Second Minister of Home Affairs since May 2018.</font></p> 
 <p style="text-align:justify"><font size="4px">
@@ -28,7 +28,7 @@ She is married and has three grown-up children. She enjoys creating memorable ex
 ---
 
 ## **Welcome Address**
-![DavidKoh](/images/Speakers/220511%20CSA%20Speakers%20David%20Koh.png)
+![DavidKoh](/images/speakers/220511%20csa%20speakers%20david%20koh.png)
 <p style="text-align:justify"><font size="4px">Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the founding Chief Executive of the Cyber Security Agency (CSA) of Singapore. He is concurrently Chief (Digital Security & Technology) at the Ministry of Communications and Information.</font></p>
 
 <p style="text-align:justify"><font size="4px">
@@ -52,6 +52,6 @@ He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</fon
 ---
 
 ## **Technical Sharing**
-![SharonBrizinov](/images/Speakers/220601%20CSA%20Speakers%20Sharon%20Brizinov.png)
+![SharonBrizinov](/images/speakers/220601%20csa%20speakers%20sharon%20brizinov.png)
 <p style="text-align:justify"><font size="4px">
 Sharon Brizinov is the director of security research at Claroty. Sharon specializes in vulnerability research, malware analysis, network forensics, and ICS/SCADA security. In addition, Brizinov participated in well-known hacking competitions such as Pwn2Own, and he holds a DEFCON black-badge for winning the ICS CTF. </font></p>

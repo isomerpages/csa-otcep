@@ -4,7 +4,7 @@ permalink: /speakers/
 description: ""
 ---
 ## GUEST-OF-HONOUR
-![](/images/2023%20Speakers/230619_csa%20otcep%202023_speaker%20profiles_mrs%20josephine%20teo.png)
+![](/images/2023%20speakers/230619_csa%20otcep%202023_speaker%20profiles_mrs%20josephine%20teo.png)
 Minister Josephine Teo was appointed Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity on 15 May 2021. She is also a member of the National Jobs Council and the Future Economy Council, and has been concurrently the Second Minister of Home Affairs since May 2018.
 
 Mrs Teo was the Minister for Manpower from May 2018 till May 2021. She previously served in the Prime Minister’s Office and the Finance, Transport and Foreign Affairs ministries.
@@ -19,7 +19,7 @@ She is married and has three grown-up children. She enjoys creating memorable ex
 
 
 ## WELCOME REMARKS
-![](/images/2023%20Speakers/230612_csa%20otcep%202023_speaker%20profiles_mr%20david%20koh.png)
+![](/images/2023%20speakers/230612_csa%20otcep%202023_speaker%20profiles_mr%20david%20koh.png)
 Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the founding Chief Executive of the Cyber Security Agency (CSA) of Singapore. He is concurrently Chief (Digital Security &amp; Technology) at the Ministry of Communications and Information.
 
 As Commissioner, he has the legal authority to investigate cyber threats and incidents to ensure that essential services are not disrupted in the event of a cyber-attack. As Chief Executive of CSA, he leads Singapore’s efforts to provide dedicated and centralised oversight of national cyber security functions. These include enforcing the cybersecurity legislation; strategy and policy development; cyber security operations; ecosystem, R&amp;D and capability development, public outreach and international engagement. Concurrently, as Chief (Digital Security &amp; Technology), he oversees digital security policy and technology capability development in the Ministry of Communications and Information.

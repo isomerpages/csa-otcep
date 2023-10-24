@@ -10,7 +10,7 @@ third_nav_title: Day 2 Presentation
 <iframe width="853" height="315" src="https://www.youtube.com/embed/dsOwAX5cc_c?si=xEXr2REt2XdW56LC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
-[Governance Track: Enhancing OT Security Through Comprehensive Assessments](/files/OTCEP%202023%20Material/10%20Enhancing%20OT%20Security%20.pdf)
+[Governance Track: Enhancing OT Security Through Comprehensive Assessments](/files/otcep%202023%20material/10%20enhancing%20ot%20security%20.pdf)
 
 
 

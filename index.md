@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/otcep-banner5.jpg
+      background: /images/banner/otcep-banner5.jpg
       url: /contact-us/
       key_highlights:
         - title: 2023 OTCEP Members

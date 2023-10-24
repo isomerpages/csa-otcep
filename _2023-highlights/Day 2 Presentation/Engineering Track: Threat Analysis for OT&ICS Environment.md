@@ -10,7 +10,7 @@ third_nav_title: Day 2 Presentation
 <iframe width="853" height="315" src="https://www.youtube.com/embed/2-4ekhGjAGY?si=gLr1sAI2FMgspFne" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
-[Slide: Engineering Track: Threat Analysis for OT/ICS Environment](/files/OTCEP%202023%20Material/09%20Threat%20Analysis%20for%20OT&amp;ICS%20Environment.pdf)
+[Slide: Engineering Track: Threat Analysis for OT/ICS Environment](/files/otcep%202023%20material/09%20threat%20analysis%20for%20ot&amp;ics%20environment.pdf)
 
 
 
