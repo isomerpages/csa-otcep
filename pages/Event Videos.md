@@ -1,6 +1,6 @@
 ---
 title: Event Videos
-permalink: /csatest/event-videos
+permalink: /csatest/event-videos/
 description: ""
 ---
 <section>

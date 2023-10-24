@@ -1,6 +1,6 @@
 ---
 title: Day 2 Programme
-permalink: /resources/otcep-2022/day2-programme
+permalink: /resources/otcep-2022/day2-programme/
 description: ""
 third_nav_title: OTCEP 2022
 ---

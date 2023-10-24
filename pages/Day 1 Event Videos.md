@@ -1,6 +1,6 @@
 ---
 title: Day 1 Event Videos
-permalink: /day1-event-videos
+permalink: /day1-event-videos/
 description: ""
 ---
 

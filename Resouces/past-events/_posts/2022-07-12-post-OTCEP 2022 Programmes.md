@@ -1,6 +1,6 @@
 ---
 title: OTCEP 2022 Programmes
-permalink: /Resouces/past-events/otcep-2022-programmes
+permalink: /resouces/past-events/otcep-2022-programmes/
 date: 2022-07-12
 layout: post
 description: ""

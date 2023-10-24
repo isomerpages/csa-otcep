@@ -1,6 +1,6 @@
 ---
 title: Speakers
-permalink: /resources/otcep-2022/speakers
+permalink: /resources/otcep-2022/speakers/
 description: ""
 third_nav_title: OTCEP 2022
 ---

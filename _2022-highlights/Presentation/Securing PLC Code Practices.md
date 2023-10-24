@@ -1,6 +1,6 @@
 ---
 title: Securing PLC Code Practices
-permalink: /2022-highlights/Presentation-and-Panel/Securing-PLC-Code-Practices/
+permalink: /2022-highlights/presentation-and-panel/securing-plc-code-practices/
 description: ""
 third_nav_title: Presentation
 ---

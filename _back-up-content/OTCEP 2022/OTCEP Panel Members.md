@@ -1,6 +1,6 @@
 ---
 title: OTCEP Panel Members
-permalink: /resources/otcep-2022/otcep-panel-members
+permalink: /resources/otcep-2022/otcep-panel-members/
 description: ""
 third_nav_title: OTCEP 2022
 ---

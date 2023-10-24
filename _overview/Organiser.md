@@ -1,6 +1,6 @@
 ---
 title: Organiser
-permalink: /overview/Organiser
+permalink: /overview/organiser/
 description: ""
 ---
 #  **Organiser**

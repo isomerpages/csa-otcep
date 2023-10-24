@@ -1,6 +1,6 @@
 ---
 title: Technical Sharing
-permalink: /2022-highlights/Technical-Sharing
+permalink: /2022-highlights/technical-sharing/
 description: ""
 ---
 ##### **Technical Sharing:<br>Hidden Code on Field Controller**

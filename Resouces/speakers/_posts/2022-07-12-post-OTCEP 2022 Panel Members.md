@@ -1,6 +1,6 @@
 ---
 title: OTCEP 2022 Panel Members
-permalink: /Resouces/speakers/OTCEP-2022-Panel-Members
+permalink: /resouces/speakers/otcep-2022-panel-members/
 date: 2022-07-12
 layout: post
 description: ""

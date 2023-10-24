@@ -1,6 +1,6 @@
 ---
 title: OTCEP 2022 Speakers
-permalink: /Resouces/speakers/OTCEP-2022-Speakers
+permalink: /resouces/speakers/otcep-2022-speakers/
 date: 2022-07-12
 layout: post
 description: ""
