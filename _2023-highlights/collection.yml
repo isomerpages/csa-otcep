@@ -1,0 +1,31 @@
+collections:
+  2023-highlights:
+    output: true
+    order:
+      - OTCEP Forum 2023 Highlight.md
+      - Welcome Remarks.md
+      - Keynote Address.md
+      - Day 1 Presentation/.keep
+      - Day 1 Presentation/Cyber Threat Landscape.md
+      - Day 1 Presentation/Evolving Threats and Emerging Regulations in OT
+        Software Supply Chain Security.md
+      - "Day 1 Presentation/OT Cybersecurity: From Speculation to Science.md"
+      - Day 1 Presentation/How to Turn Security by Design from Myth to Reality.md
+      - Day 2 Presentation/.keep
+      - "Day 2 Presentation/Technical Sharing: Deceive by Design: How to Use
+        Deception Technology to Protect the OT Environment.md"
+      - Day 2 Presentation/Normalisation of Deviance in the Confluence of
+        Process Control, Safety Sys & Remote Internet Access.md
+      - Day 2 Presentation/Ransomware in OTICS Environment.md
+      - "Day 2 Presentation/Operations Track: Preventing Unintentional or
+        Collateral Cyber Disasters.md"
+      - "Day 2 Presentation/Operations Track: Threat Intel Sharing in the OT
+        Community Unlisted.md"
+      - "Day 2 Presentation/Engineering Track: Threat Analysis for OT&ICS
+        Environment.md"
+      - "Day 2 Presentation/Engineering Track: A Pragmatic Approach to Conduct
+        OT Penetration Testing.md"
+      - "Day 2 Presentation/Governance Track: Enhancing OT Security Through
+        Comprehensive Assessments.md"
+      - "Day 2 Presentation/Governance Track: Debunking Talent Attraction and
+        Retention Myths.md"
