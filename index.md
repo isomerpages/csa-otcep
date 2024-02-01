@@ -10,9 +10,9 @@ sections:
       background: /images/banner/otcep-banner5.jpg
       url: /contact-us/
       key_highlights:
-        - title: 2023 OTCEP Members
+        - title: 2024 OTCEP Members
           description: Click to view profile
-          url: /2023-otcep-members/
+          url: /2024-otcep-members/
         - title: 2023 Highlights
           description: Click to view event highlights
           url: /2023-highlights/otcep-forum-2023-highlight/
