@@ -17,9 +17,9 @@ sections:
           description: Click to view profile
           url: /2024-otcep-members/
   - textcards:
-      title: Event Highlights
+      title: OTCEP  Highlights
       id: textcards
-      description: Click to view highlights
+      description: Click to view event highlights
       cards:
         - title: 2023 Highlights
           description: ""
