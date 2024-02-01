@@ -26,7 +26,7 @@ sections:
           linktext: Learn more
           url: /2023-highlights/otcep-forum-2023-highlight/
         - title: 2022 Highlights
-          description: Card description
+          description: ""
           linktext: Learn more
-          url: ""
+          url: /2022-highlights/otcep-forum-2022-highlight/
 ---
