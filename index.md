@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Save The Date
           description: 20 – 21 August 2024
-          url: ""
+          url: "#"
         - title: 2024 OTCEP Members
           description: Click to view profile
           url: /2024-otcep-members/
