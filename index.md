@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "Operational Technology Cybersecurity Expert Panel (OTCEP) Forum "
+title: Operational Technology Cybersecurity Expert Panel (OTCEP) Forum
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -17,7 +17,7 @@ sections:
           description: Click to view profile
           url: /2024-otcep-members/
   - textcards:
-      title: OTCEP  Highlights
+      title: OTCEP Forum Highlights
       id: textcards
       description: Click to view event highlights
       cards:
