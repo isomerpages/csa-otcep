@@ -16,6 +16,14 @@ sections:
         - title: 2024 OTCEP Members
           description: Click to view profile
           url: /2024-otcep-members/
+  - infopic:
+      title: OTCEP Forum 2023
+      id: infopic
+      description: Click to view event highlights
+      button: Learn more
+      url: /2023-highlights/otcep-forum-2023-highlight/
+      image: /images/OTCEP_2023_Thumbnai.jpg
+      alt: OTCEP Forum 2023
   - textcards:
       title: OTCEP Forum Highlights
       id: textcards
