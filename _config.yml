@@ -2,13 +2,13 @@ title: OTCEP 2024
 url: https://google.com
 favicon: /images/csa_favicon.ico
 colors:
-  primary-color: "#073255"
-  secondary-color: "#073255"
+  primary-color: "#004a8c"
+  secondary-color: "#004a8c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#073255"
+      color: "#004a8c"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
