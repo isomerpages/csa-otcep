@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner/otcep-banner5.jpg
+      background: /images/banner/240228_CSA_OTCEP_2024_Microsite_Banner.png
       url: /contact-us/
       key_highlights:
         - title: Save The Date
