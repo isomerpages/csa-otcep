@@ -1,6 +1,6 @@
 ---
 title: Technical Conversation
-permalink: /2022-highlights/Technical-Conversation
+permalink: /2022-highlights/technical-conversation/
 description: ""
 ---
 ##### **Technical Conversation: <br> OT Cybersecurity in Secured Engineering**

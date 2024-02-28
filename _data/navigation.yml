@@ -1,18 +1,10 @@
-logo: /images/csa-logo.jpeg
+logo: /images/csa_logo_2.png
 links:
   - title: Overview
     collection: overview
-  - title: Programme
-    collection: programme
-  - title: 2023 OTCEP Members
-    url: /2023-otcep-members/
-  - title: Speakers
-    url: /Speakers/
+  - title: 2024 OTCEP Members
+    url: /2024-otcep-members/
   - title: Media
     url: /media
-  - title: 2023 Highlights
-    collection: 2023-highlights
-  - title: 2022 Highlights
-    collection: 2022-highlights
   - title: Contact Us
     url: /contact-us/

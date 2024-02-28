@@ -1,6 +1,6 @@
 ---
 title: Event Videos
-permalink: /csatest/event-videos
+permalink: /csatest/event-videos/
 description: ""
 ---
 <section>
@@ -45,7 +45,7 @@ Commissioner of Cybersecurity & Chief Executive, Cyber Security Agency of Singap
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Chu Xing Peng.png" alt="Capt Peng Chuxing" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/chu xing peng.png" alt="Capt Peng Chuxing" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-peng-chuxing" rel="noopener"><strong>Capt Peng Chuxing</strong></a></div>
 <div class="text-ellipsis speaker-position">Deputy GM, Head of Quality, Safety, Security & Sustainability</div>

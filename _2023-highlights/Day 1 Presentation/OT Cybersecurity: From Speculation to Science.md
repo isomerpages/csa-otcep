@@ -12,7 +12,7 @@ Founder &amp; Chief Executive Officer, Digital Bond Inc
 <iframe width="853" height="315" src="https://www.youtube.com/embed/26kGgA2YBcA?si=vdCInF2Q_8x7mNH2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
-[PPT slide: OT Cybersecurity: From Speculation to Science](/files/OTCEP%202023%20Material/03%20OT%20Cybersecurity%20From%20Speculation%20to%20Science.pdf)
+[PPT slide: OT Cybersecurity: From Speculation to Science](/files/otcep%202023%20material/03%20ot%20cybersecurity%20from%20speculation%20to%20science.pdf)
 
 
 

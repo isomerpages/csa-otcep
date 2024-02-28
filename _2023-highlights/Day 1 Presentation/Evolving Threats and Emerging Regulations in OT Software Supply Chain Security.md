@@ -11,7 +11,7 @@ Chief Technology Officer, aDolus Technology Inc<br>Senior Partner, ICS Secure Lt
 <iframe width="853" height="315" src="https://www.youtube.com/embed/Jj-SH0K2FLI?si=OZx1ii-phScMOdNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
-[PPT slide: Evolving Threats and Emerging Regulations in OT Software Supply Chain Security](/files/OTCEP%202023%20Material/02%20Evolving%20Threats%20and%20Emerging%20Regulations.pdf)
+[PPT slide: Evolving Threats and Emerging Regulations in OT Software Supply Chain Security](/files/otcep%202023%20material/02%20evolving%20threats%20and%20emerging%20regulations.pdf)
 
 
 

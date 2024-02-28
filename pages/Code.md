@@ -1,6 +1,6 @@
 ---
 title: Code
-permalink: /testpage
+permalink: /testpage/
 description: ""
 ---
 ## Privacy Statement

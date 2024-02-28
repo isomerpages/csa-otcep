@@ -1,6 +1,6 @@
 ---
 title: Day 2 Event Videos Old
-permalink: /day2-event-videos-old
+permalink: /day2-event-videos-old/
 description: ""
 ---
 

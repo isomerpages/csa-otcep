@@ -1,6 +1,6 @@
 ---
 title: Security Truth or Consequences
-permalink: /2022-highlights/Presentation-and-Panel/Security-Truth-or-Consequences/
+permalink: /2022-highlights/presentation-and-panel/security-truth-or-consequences/
 description: ""
 third_nav_title: Presentation
 ---

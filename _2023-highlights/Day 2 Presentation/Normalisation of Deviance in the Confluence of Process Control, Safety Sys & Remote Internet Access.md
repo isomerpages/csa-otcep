@@ -10,7 +10,7 @@ third_nav_title: Day 2 Presentation
 <div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/5KvCdtYqiq0?si=ibphTBQvrlZI-pwl" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-[Slide: Normalisation of Deviance](/files/OTCEP%202023%20Material/06%20Normalisation%20of%20Deviance.pdf)
+[Slide: Normalisation of Deviance](/files/otcep%202023%20material/06%20normalisation%20of%20deviance.pdf)
 
 
 

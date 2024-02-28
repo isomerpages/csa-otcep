@@ -10,7 +10,7 @@ third_nav_title: Day 2 Presentation
 <iframe width="853" height="315" src="https://www.youtube.com/embed/J84o5RHDdM8?si=CtlQ5NjgLqdCu8SY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
-[Slide: Operations Track: Preventing Unintentional or Collateral Cyber Disasters](/files/OTCEP%202023%20Material/08%20Preventing%20Unintentional%20or%20Collateral%20Cyber%20Disasters.pdf)
+[Slide: Operations Track: Preventing Unintentional or Collateral Cyber Disasters](/files/otcep%202023%20material/08%20preventing%20unintentional%20or%20collateral%20cyber%20disasters.pdf)
 
 
 

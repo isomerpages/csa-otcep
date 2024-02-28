@@ -11,9 +11,9 @@ third_nav_title: Day 2 Presentation
 <iframe width="853" height="315" src="https://www.youtube.com/embed/Nj9BovSPFqE?si=x8EzXCJ-54my5hme" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
-[Slide: Operations Track:  Threat Intel Sharing in the OT Community Unlisted (Edgard Capdevielle)](/files/OTCEP%202023%20Material/11%20Threat%20Intel%20Sharing%20Edgard.pdf)
+[Slide: Operations Track:  Threat Intel Sharing in the OT Community Unlisted (Edgard Capdevielle)](/files/otcep%202023%20material/11%20threat%20intel%20sharing%20edgard.pdf)
 
-[Slide: Operations Track:  Threat Intel Sharing in the OT Community Unlisted (John Lee)](/files/OTCEP%202023%20Material/11%20Threat%20Intel%20Sharing%20John.pdf)
+[Slide: Operations Track:  Threat Intel Sharing in the OT Community Unlisted (John Lee)](/files/otcep%202023%20material/11%20threat%20intel%20sharing%20john.pdf)
 
 
 
