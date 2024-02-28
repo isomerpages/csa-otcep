@@ -62,53 +62,59 @@ for the process industry, manufacturing, and critical infrastructures.
 Prior to her current role, Sarah has developed cybersecurity guidance for
 the water sector at the German Federal Office for Information Security
 (BSI).</p>
-<p>A process and automation engineer herself, Sarah is convinced that creating
-solid engineering methods that speak the language of automation engineers
-is key for OT Security. Her main research interests include security engineering,
-security by design, security for safety, and security diagrams and information
-models.</p>
-<p>She currently leads a government-funded research project on security by
-design for ICS in cooperation with industry partners INEOS and HIMA, two
-German universities, and NAMUR (User Association of Automation Technology
-in Process Industries).</p>
+<p>A process and automation engineer herself, Sarah works on creating security
+engineering methods that help engineers make informed, conscious security
+decisions they can truly stand behind – and communicate convincingly.</p>
+<p>Sarah has created the Top 20 Secure PLC Coding practices with Dale Peterson,
+Jake Brodsky and Vivek Ponnada, led a government-funded research project
+on security by design for ICS, and is the ISA Co-Convenor for revising
+the ISA/IEC 62443-3-2 standard. As of 2024, she succeeds Joe Weiss as a
+Co-Managing Director for ISA99.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230605_csa%20otcep%202023_speaker%20profiles_mr%20marco%20ayala.png">
 </div>
-<p>Marco (Marc) Ayala has over 25 years of experience where he designed,
-implemented, and maintained process instrumentation, automation systems,
-safety systems, and process control networks. He is the Global Director
-and IACS cybersecurity sector lead with 1898 &amp; Co. the consulting arm
-of Burns &amp; McDonnell Engineering Company. With around two decades focused
-specifically on industrial cybersecurity, he has led efforts to secure
-the oil and gas (all streams), maritime port, offshore facilities, and
-chemical sectors, including supporting federal, local, and state entities
-for securing the private sector.</p>
-<p>Marco is highly active in ISA and is a longtime member. He is a senior
-member and a certified cyber instructor for ISA (62443) and a volunteer
-member contributor of the AMSC Gulf of Mexico (GOM) cybersecurity committee
-as Chair of Threat Intelligence and Cybersecurity for the outer continental
-shelf (OCS) , InfraGard member, Chief of the Maritime Cross Sector Council
-for ports and terminals and AMSC chair for cybersecurity for Houston. He
-sits on the Safety and Security Division (SAFESEC) committee and is their
-liaison to the ISA Global Cybersecurity Alliance.</p>
+<p>Marco Ayala has over 27 years of experience where he designed, implemented,
+and maintained process instrumentation, automation systems, safety systems,
+and process control networks. In his role with large global manufacturing
+company, he is responsible for applications globally that are specific
+to plant site operations and corporate governance.</p>
+<p>With around two decades focused specifically on industrial cybersecurity,
+he has led efforts to secure the oil and gas (all streams), maritime port,
+offshore facilities, and chemical sectors, supporting federal, local, and
+state entities for securing the private sector.</p>
+<p>Marco is highly active in International Society of Automation and is a
+longtime member. He is a 22-year Senior Member and a certified cyber instructor
+for ISA (62443) with volunteering commitments and contributor to the AMSC
+Gulf of Mexico (GOM) cybersecurity committee in a sworn in role to the
+USCG as Chair of Threat Intelligence and Cybersecurity for the outer continental
+shelf (OCS).</p>
+<p>InfraGard member since 2014, and currently serving as the President for
+the Houston Members Alliance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230526_csa%20otcep%202023_speaker%20profiles_r2_mr%20zachary%20tudor.png">
 </div>
-<p>Zachary (Zach) Tudor is responsible for INL’s Nuclear Nonproliferation,
-Critical Infrastructure Protection and Defense Systems missions. Previously,
-Tudor served as a Program Director in the Computer Science Laboratory at
-SRI International, where he supported cyber security and critical infrastructure
-programs such as DHS Cyber Security Division’s Linking the Oil and Gas
-Industry to Improve Cybersecurity (LOGIIC) consortium, and the Industrial
-Control System Joint Working Group R&amp;D working group. He has served
-as a member of (ISC)2’s Application Security Advisory Board and the NRC’s
-Nuclear Cyber Security Working Group, as well as the Vice Chair of the
-Institute for Information Infrastructure Protection at George Washington
-University. He is a Professor of Practice in the Computer Science Departments
-of the University of Idaho and Idaho State University, is the Chair of
-the Board of Directors of the International Information Systems Security
-Certification Consortium (ISC)2, and a member of the Commonwealth Cyber
-Initiative advisory board (Virginia).</p>
+<p>Zachary (Zach) Tudor is the associate laboratory director of Idaho National
+Laboratory’s National and Homeland Security Science and Technology directorate,
+a major U.S. center for national security technology development and demonstration,
+employing some 800 scientists and engineers across over $550 million in
+programs for the Department of Defense (DOD), Department of Homeland Security
+(DHS) and the intelligence community. He is responsible for INL’s Nuclear
+Nonproliferation, Critical Infrastructure Protection and Defense Systems
+missions.</p>
+<p>Previously, Tudor served as a program director in the Computer Science
+Laboratory at SRI International, where he supported cybersecurity and critical
+infrastructure programs, such as DHS Cyber Security Division’s Linking
+the Oil and Gas Industry to Improve Cybersecurity consortium and the Industrial
+Control System Joint Working Group R&amp;D working group. He is the former
+board of directors chair of the International Information Systems Security
+Certification Consortium (ISC2).</p>
+<p>He is a professor of practice in the computer science departments of the
+University of Idaho and Idaho State University and a member of Virginia’s
+Commonwealth Cyber Initiative advisory board. A retired U.S. Navy submarine
+electronics limited duty officer and chief data systems technician, Tudor
+holds an M.S. in information systems, with a concentration in cybersecurity,
+from George Mason University, where he was also an adjunct professor teaching
+graduate courses in information security.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230526_csa%20otcep%202023_speaker%20profiles_r2_mr%20eric%20byreseric%20byres_r2.png">
 </div>
