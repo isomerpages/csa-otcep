@@ -7,10 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230613_csa%20otcep%202023_speaker%20profiles_mr%20robert%20m%20lee_r3.png">
 </div>
-<p>Robert is a recognised authority in the industrial cybersecurity community.
+<p>Robert is a recognized authority in the industrial cybersecurity community.
 He is CEO and co-founder of Dragos, a global technology leader in cybersecurity
-for industrial controls systems (ICS)/operational technology (OT) environments.&nbsp;In
-addition, Robert serves on the Department of Energy's Electricity Advisory
+for industrial controls systems (ICS)/operational technology (OT) environments.</p>
+<p>In addition, Robert serves on the Department of Energy's Electricity Advisory
 Committee as the Vice Chair of the Department of Energy's Grid Resilience
 for National Security Subcommittee, and is a member of the World Economic
 Forum's subcommittees on Cyber Resilience for the Oil &amp; Gas and Electricity
@@ -20,17 +20,18 @@ for industrial infrastructure and is regularly asked to brief national
 leaders. He testified to the U.S. House of Representatives Committee on
 Energy and Commerce--Subcommittee on Oversight and Investigations, and
 to the U.S. Senate Energy and Natural Resources Committee, to advise on
-policy issues related to critical infrastructure cyber threats. He has
-also presented at the World Economic Forum Annual Meeting in Davos, and
-industry leading conferences such as RSA, SANS, BlackHat, and DefCon on
-the topic of industrial cybersecurity and threats. He serves on the board
-of the National Cryptologic Foundation.</p>
+policy issues related to critical infrastructure cyber threats. He is a
+member on the Reserve Forces Policy Board, Office of the Secretary of Defense;
+and also serves on the board of the National Cryptologic Foundation. He
+has also presented at the World Economic Forum Annual Meeting in Davos,
+and industry leading conferences such as RSA, SANS, BlackHat, and DefCon
+on the topic of industrial cybersecurity and threats.</p>
 <p>Robert began his pioneering work in ICS/OT cybersecurity as a U.S. Air
 Force Cyber Warfare Operations Officer tasked to the National Security
-Agency, where he built a first-of-its-kind mission identifying and analysing
+Agency, where he built a first-of-its-kind mission identifying and analyzing
 national threats to industrial infrastructure. He went on to build the
 industrial community's first dedicated monitoring and incident response
-class at the SANS Institute (ICS515) and the industry recognised cyber
+class at the SANS Institute (ICS515) and the industry recognized cyber
 threat intelligence course (FOR578).</p>
 <p>SC Media named Robert the Security Executive of the Year for 2022. A business
 leader but also technical practitioner, he helped lead the investigation
