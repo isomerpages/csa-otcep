@@ -128,8 +128,7 @@ graduate courses in information security.</p>
 <p>Eric Byres is an expert and visionary in the field of SCADA/ICS and IIoT
 security. Experienced in controls engineering, cyber security research
 and corporate management, he offers a unique blend of deep technical knowledge
-and practical</p>
-<p>business experience.</p>
+and practical business experience.</p>
 <p>Eric is best known for inventing and successfully commercialising the
 Tofino Firewall, the world’s most widely deployed ICS security appliance.
 Tofino technology has received numerous industry awards and is licensed
@@ -139,8 +138,8 @@ founder of two successful consultancies in the industrial field.</p>
 <p>Before starting Tofino Security, Eric founded the British Columbia Institute
 of Technology’s Critical Infrastructure Security Center. He shaped it into
 one of North America’s leading academic facilities in the field of ICS
-security, culminating in a SANS</p>
-<p>Institute Security Leadership Award in 2006.</p>
+security, culminating in a SANS Institute Security Leadership Award in
+2006.</p>
 <p>Eric is also widely respected for his leadership in international standards
 for industrial environments. This included chairing the ISA99 Security
 Technologies Working Group (2004 to 2011). He also served as the chair
