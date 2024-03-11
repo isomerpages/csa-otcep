@@ -4,10 +4,11 @@ permalink: /2024-otcep-members/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230613_csa%20otcep%202023_speaker%20profiles_mr%20robert%20m%20lee_r3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Robert_M__Lee.png">
 </div>
-<p>Robert is a recognized authority in the industrial cybersecurity community.
+<p>Robert is a recognised authority in the industrial cybersecurity community.
 He is CEO and co-founder of Dragos, a global technology leader in cybersecurity
 for industrial controls systems (ICS)/operational technology (OT) environments.</p>
 <p>In addition, Robert serves on the Department of Energy's Electricity Advisory
@@ -28,10 +29,10 @@ and industry leading conferences such as RSA, SANS, BlackHat, and DefCon
 on the topic of industrial cybersecurity and threats.</p>
 <p>Robert began his pioneering work in ICS/OT cybersecurity as a U.S. Air
 Force Cyber Warfare Operations Officer tasked to the National Security
-Agency, where he built a first-of-its-kind mission identifying and analyzing
+Agency, where he built a first-of-its-kind mission identifying and analysing
 national threats to industrial infrastructure. He went on to build the
 industrial community's first dedicated monitoring and incident response
-class at the SANS Institute (ICS515) and the industry recognized cyber
+class at the SANS Institute (ICS515) and the industry recognised cyber
 threat intelligence course (FOR578).</p>
 <p>SC Media named Robert the Security Executive of the Year for 2022. A business
 leader but also technical practitioner, he helped lead the investigation
@@ -45,8 +46,9 @@ and the 2021 Colonial Pipeline ransomware attack. In 2022, his team at
 Dragos uncovered PIPEDREAM, a highly flexible framework to attack industrial
 infrastructure globally. Robert’s work has been featured in the book Sandworm
 and on 60 Minutes.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230605_csa%20otcep%202023_speaker%20profiles_mr%20dale%20peterson.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Dale_Peterson.png">
 </div>
 <p>For over 20 years, Dale Peterson has been on the leading edge helping
 security conscious asset owners effectively and efficiently manage risk
@@ -55,8 +57,9 @@ to their critical assets.</p>
 he created S4 Events to showcase the best offensive and defensive work
 in ICS security and build a community. S4 is now the largest and most advanced
 ICS event in the world.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230526_csa%20otcep%202023_speaker%20profiles_r2_ms%20sarah%20fluchs.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Ms_Sarah_Fluchs.png">
 </div>
 <p>Sarah Fluchs is the CTO of admeritia, which specialises in security consulting
 for the process industry, manufacturing, and critical infrastructures.
@@ -71,8 +74,9 @@ Jake Brodsky and Vivek Ponnada, led a government-funded research project
 on security by design for ICS, and is the ISA Co-Convenor for revising
 the ISA/IEC 62443-3-2 standard. As of 2024, she succeeds Joe Weiss as a
 Co-Managing Director for ISA99.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230605_csa%20otcep%202023_speaker%20profiles_mr%20marco%20ayala.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Marco_Ayala.png">
 </div>
 <p>Marco Ayala has over 27 years of experience where he designed, implemented,
 and maintained process instrumentation, automation systems, safety systems,
@@ -91,8 +95,9 @@ USCG as Chair of Threat Intelligence and Cybersecurity for the outer continental
 shelf (OCS).</p>
 <p>InfraGard member since 2014, and currently serving as the President for
 the Houston Members Alliance.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230526_csa%20otcep%202023_speaker%20profiles_r2_mr%20zachary%20tudor.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Zachary_Tudor.png">
 </div>
 <p>Zachary (Zach) Tudor is the associate laboratory director of Idaho National
 Laboratory’s National and Homeland Security Science and Technology directorate,
@@ -116,8 +121,9 @@ electronics limited duty officer and chief data systems technician, Tudor
 holds an M.S. in information systems, with a concentration in cybersecurity,
 from George Mason University, where he was also an adjunct professor teaching
 graduate courses in information security.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230526_csa%20otcep%202023_speaker%20profiles_r2_mr%20eric%20byreseric%20byres_r2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Eric_ByresEric_Byres.png">
 </div>
 <p>Eric Byres is an expert and visionary in the field of SCADA/ICS and IIoT
 security. Experienced in controls engineering, cyber security research
@@ -131,7 +137,7 @@ Eric was also the inventor of GE’s Achilles Security Platform and was the
 founder of two successful consultancies in the industrial field.</p>
 <p>Before starting Tofino Security, Eric founded the British Columbia Institute
 of Technology’s Critical Infrastructure Security Center. He shaped it into
-one of North America's leading academic facilities in the field of ICS
+one of North America’s leading academic facilities in the field of ICS
 security, culminating in a SANS Institute Security Leadership Award in
 2006.</p>
 <p>Eric is also widely respected for his leadership in international standards
@@ -144,14 +150,16 @@ awards from numerous international organisations, such as the “IEEE Outstandin
 Industry Applications Article Prize” in 2000 and the “ISA Donald P. Eckman
 Education Award” in 2004. Eric was made an ISA fellow in 2009 and given
 the ISA’s highest honour, “ISA Excellence in Leadership”, in 2013.</p>
-<p>Today Eric is the CTO of aDolus Technology Inc, a cybersecurity research
-and development company focusing on improving the security of the software
-supply chain for OT. He is member of the NTIA SBOM Awareness &amp; Adoption
-Committee and has authored numerous articles of Software Bill of Materials.
-Eric is also the Senior Partner at ICS Secure, advising investors and IT
-companies entering the ICS and “Internet of Things” security markets.</p>
+<p>Today Eric is the President of aDolus Technology Inc, a cybersecurity
+research and development company focusing on improving the security of
+the software supply chain for OT. He is member of the NTIA SBOM Awareness
+&amp; Adoption Committee and has authored numerous articles of Software
+Bill of Materials. Eric is also the Senior Partner at ICS Secure, advising
+investors and IT companies entering the ICS and “Internet of Things” security
+markets.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230526_csa%20otcep%202023_speaker%20profiles_r2_dr%20lim%20woo%20lip_r3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Dr_Lim_Woo_Lip.png">
 </div>
 <p>Dr Lim Woo Lip is currently the Chief Technology Officer (Cyber) of ST
 Engineering, overseeing the research and advanced solution development
@@ -177,8 +185,9 @@ to Minister-in-Charge of Cybersecurity in Singapore from 2019 to 2022.
 Woo Lip was conferred the Singapore Computer Society IT Leader Professional
 of The Year Award in 2017 and the Leader Award at the Inaugural Cyber Security
 Awards in 2018 by the Association of Information Security Professionals.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230526_csa%20otcep%202023_speaker%20profiles_ms%20saltanat%20mashirova_r2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Ms_Saltanat_Mashirova.png">
 </div>
 <p>Saltanat Mashirova is an Advanced Cyber Security Architect at the Honeywell
 Center of Excellence. She has extensive on-site OT Cybersecurity experience,
@@ -186,27 +195,31 @@ primarily in the energy sector, and now focuses on cyber security risk
 assessment for hazardous operations, ISA 62443 compliance, cybersecurity
 vulnerability assessment, project engineering, governance, training, and
 leading global projects.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230526_csa%20otcep%202023_speaker%20profiles_r2_dr%20terence%20liu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Dr_Terence_Liu.png">
 </div>
-<p>Terence Liu is the CEO of TXOne Networks, a joint venture company by Trend
-Micro and Moxa. TXOne Networks’ mission is to provide practical cybersecurity
-solutions to secure and accelerate the progress of automation and data
-exchange in the industrial world. Their solutions are customised to OT
-environments and industrial control systems, ensuring their reliability
-and safety from cyberattacks.</p>
-<p>Prior to TXOne Networks, Terence was the Vice President of Trend Micro.
-He led Trend Micro‘s Network Threat Defense Technology Group to expand
-the company’s footprint into the telecommunication network, extending protection
-for IoT devices and services from on-premises to the edge and the core.</p>
-<p>Before joining Trend Micro, Terence was the CEO of Broadweb. He defined
-and created its Deep Packet Inspection products and business, winning numerous
-leading networking and security vendors as customers. BroadWeb was finally
-acquired by Trend Micro in October of 2013.</p>
-<p>Terence earned his PhD and M.S. degree in Computer Science from National
+<p>Dr.&nbsp;Terence&nbsp;Liu leads TXOne Networks, a cybersecurity company
+focusing on protecting OT and ICS with unique OT Zero Trust approach throughout
+the lifecycle of Cyber-Physical Systems. TXOne has thousands of satisfied
+enterprise customers in a variety of verticals such like Automotive, Semiconductor,
+Pharmaceutical, Aviation, and Critical Infrastructures.&nbsp;
+<br>
+<br>Before current position,&nbsp;Terence&nbsp;was Trend Micro’s Corporate
+Vice President and led its Network Threat Defense Group. He focused on
+new-generation telecommunication technologies like Software Defined Network
+(SDN) and Network Function Virtualisation (NFV).
+<br>
+<br>Prior to Trend Micro,&nbsp;Terence&nbsp;was the CEO of Broadweb. He defined
+and created its DPI licensing business, and had provide the technology
+to many networking and cybersecurity vendors in the world. BroadWeb was
+finally acquired by Trend Micro in October 2013.
+<br>
+<br>Terence&nbsp;earned the PhD and M.S. degree in Computer Science from National
 Tsing-Hua University, and holds several patents and IEEE/ACM publications.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20panellists/230526_csa%20otcep%202023_speaker%20profiles_r2_mr%20justin%20searle-09.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Justin_Searle.png">
 </div>
 <p>Justin Searle is the Director of ICS Security at InGuardians, specialising
 in ICS security architecture design and penetration testing. He led the
