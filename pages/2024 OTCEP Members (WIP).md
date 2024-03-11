@@ -199,21 +199,23 @@ leading global projects.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Dr_Terence_Liu.png">
 </div>
-<p>Terence Liu is the CEO of TXOne Networks, a joint venture company by Trend
-Micro and Moxa. TXOne Networks’ mission is to provide practical cybersecurity
-solutions to secure and accelerate the progress of automation and data
-exchange in the industrial world. Their solutions are customised to OT
-environments and industrial control systems, ensuring their reliability
-and safety from cyberattacks.</p>
-<p>Prior to TXOne Networks, Terence was the Vice President of Trend Micro.
-He led Trend Micro‘s Network Threat Defense Technology Group to expand
-the company’s footprint into the telecommunication network, extending protection
-for IoT devices and services from on-premises to the edge and the core.</p>
-<p>Before joining Trend Micro, Terence was the CEO of Broadweb. He defined
-and created its Deep Packet Inspection products and business, winning numerous
-leading networking and security vendors as customers. BroadWeb was finally
-acquired by Trend Micro in October of 2013.</p>
-<p>Terence earned his PhD and M.S. degree in Computer Science from National
+<p>Dr.&nbsp;Terence&nbsp;Liu leads TXOne Networks, a cybersecurity company
+focusing on protecting OT and ICS with unique OT Zero Trust approach throughout
+the lifecycle of Cyber-Physical Systems. TXOne has thousands of satisfied
+enterprise customers in a variety of verticals such like Automotive, Semiconductor,
+Pharmaceutical, Aviation, and Critical Infrastructures.&nbsp;
+<br>
+<br>Before current position,&nbsp;Terence&nbsp;was Trend Micro’s Corporate
+Vice President and led its Network Threat Defense Group. He focused on
+new-generation telecommunication technologies like Software Defined Network
+(SDN) and Network Function Virtualization (NFV).
+<br>
+<br>Prior to Trend Micro,&nbsp;Terence&nbsp;was the CEO of Broadweb. He defined
+and created its DPI licensing business, and had provide the technology
+to many networking and cybersecurity vendors in the world. BroadWeb was
+finally acquired by Trend Micro in October 2013.
+<br>
+<br>Terence&nbsp;earned the PhD and M.S. degree in Computer Science from National
 Tsing-Hua University, and holds several patents and IEEE/ACM publications.</p>
 <p></p>
 <div class="isomer-image-wrapper">
