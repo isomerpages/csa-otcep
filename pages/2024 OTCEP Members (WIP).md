@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Robert_M__Lee.png">
 </div>
-<p>Robert is a recognized authority in the industrial cybersecurity community.
+<p>Robert is a recognised authority in the industrial cybersecurity community.
 He is CEO and co-founder of Dragos, a global technology leader in cybersecurity
 for industrial controls systems (ICS)/operational technology (OT) environments.</p>
 <p>In addition, Robert serves on the Department of Energy's Electricity Advisory
@@ -29,10 +29,10 @@ and industry leading conferences such as RSA, SANS, BlackHat, and DefCon
 on the topic of industrial cybersecurity and threats.</p>
 <p>Robert began his pioneering work in ICS/OT cybersecurity as a U.S. Air
 Force Cyber Warfare Operations Officer tasked to the National Security
-Agency, where he built a first-of-its-kind mission identifying and analyzing
+Agency, where he built a first-of-its-kind mission identifying and analysing
 national threats to industrial infrastructure. He went on to build the
 industrial community's first dedicated monitoring and incident response
-class at the SANS Institute (ICS515) and the industry recognized cyber
+class at the SANS Institute (ICS515) and the industry recognised cyber
 threat intelligence course (FOR578).</p>
 <p>SC Media named Robert the Security Executive of the Year for 2022. A business
 leader but also technical practitioner, he helped lead the investigation
@@ -208,7 +208,7 @@ Pharmaceutical, Aviation, and Critical Infrastructures.&nbsp;
 <br>Before current position,&nbsp;Terence&nbsp;was Trend Micro’s Corporate
 Vice President and led its Network Threat Defense Group. He focused on
 new-generation telecommunication technologies like Software Defined Network
-(SDN) and Network Function Virtualization (NFV).
+(SDN) and Network Function Virtualisation (NFV).
 <br>
 <br>Prior to Trend Micro,&nbsp;Terence&nbsp;was the CEO of Broadweb. He defined
 and created its DPI licensing business, and had provide the technology
