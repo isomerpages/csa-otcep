@@ -26,7 +26,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9.30am –</p>
+<p>11.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fundamentals of ICS Cybersecurity </strong>
@@ -70,27 +71,12 @@ the plan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12.00pm –</p>
+<p>1.30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Lunch Break</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><strong>Lunch Break</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -98,24 +84,52 @@ the plan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1.30pm –</p>
+<p>1.35pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>Welcome Remarks</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1.35pm –</p>
+<p>1.45pm</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Keynote Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.50pm –</p>
+<p>3.00pm</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Presentation #1 – Cyber Threat Landscape</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.00pm –</p>
+<p>3.30pm</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Break</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30pm –</p>
+<p>4.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Presentation #2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -126,4 +140,4 @@ the plan.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>*programme subject to changes</p>
