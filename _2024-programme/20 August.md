@@ -61,12 +61,12 @@ and architecture design.</p>
 <br>(Dean Parsons)
 <br>
 </p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Key components of an effective ICS IR plan and the importance of exercising
 the plan.</p>
 </li>
-</ol>
+</ul>
 </td>
 </tr>
 <tr>
