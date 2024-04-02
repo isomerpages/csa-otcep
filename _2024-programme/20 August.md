@@ -43,23 +43,54 @@ description: ""
 <p><strong>Fundamentals of ICS Cybersecurity </strong>
 <br>(Tim Conway)
 <br>
-<br>- Commonalities across various process environments and the components
-that can be found across various industries and sectors.
-<br>- Common building blocks and operational criteria for the OT sectors.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Commonalities across various process environments and the components that
+can be found across various industries and sectors.</p>
+</li>
+<li>
+<p>Common building blocks and operational criteria for the OT sectors.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Defensible ICS Architecture Essentials </strong>
 <br>(Jason Dely)
 <br>
-<br>- A focus on device placement, logging, authentication, monitoring, perimeters,
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A focus on device placement, logging, authentication, monitoring, perimeters,
 and architecture design.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ABCs of ICS Incident Response </strong>
 <br>(Dean Parsons)
 <br>
-<br>- Key components of an effective ICS IR plan and the importance of exercising
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Key components of an effective ICS IR plan and the importance of exercising
 the plan.</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lunch Break</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
