@@ -16,7 +16,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.30am – 9.15am‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎</p>
+<p>8.30am – 9.15am‎</p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Registrations</strong>
@@ -25,7 +25,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.30am – 11.30pm</p>
+<p>9.30am – 11.30pm ‎ ‎ ‎ ‎</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fundamentals of ICS Cybersecurity </strong>
