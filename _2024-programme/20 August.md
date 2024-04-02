@@ -10,29 +10,18 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p>Programme</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.30am – 9.15am</p>
+<p>8.30am –</p>
+<p>9.15am</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Registrations</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
