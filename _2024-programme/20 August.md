@@ -16,7 +16,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.30am – 9.15am</p>
+<p>8.30am – 9.15am‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎</p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Registrations</strong>
