@@ -26,8 +26,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.30am –</p>
-<p>11.30pm</p>
+<p>9.30am – 11.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fundamentals of ICS Cybersecurity </strong>
@@ -71,8 +70,7 @@ the plan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.00pm –</p>
-<p>1.30pm</p>
+<p>12.00pm – 1.30pm</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Lunch Break</strong>
@@ -84,8 +82,7 @@ the plan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.30pm –</p>
-<p>1.35pm</p>
+<p>1.30pm – 1.35pm</p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Welcome Remarks</strong>
@@ -94,8 +91,7 @@ the plan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.35pm –</p>
-<p>1.45pm</p>
+<p>1.35pm – 1.45pm</p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Keynote Address</strong>
@@ -104,8 +100,7 @@ the plan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.50pm –</p>
-<p>3.00pm</p>
+<p>1.50pm – 3.00pm</p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Presentation #1 – Cyber Threat Landscape</strong>
@@ -114,8 +109,7 @@ the plan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.00pm –</p>
-<p>3.30pm</p>
+<p>3.00pm – 3.30pm</p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Break</strong>
@@ -124,8 +118,7 @@ the plan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.30pm –</p>
-<p>4.40pm</p>
+<p>3.30pm – 4.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Presentation #2</strong>
