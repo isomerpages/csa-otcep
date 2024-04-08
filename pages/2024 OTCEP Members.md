@@ -76,7 +76,7 @@ the ISA/IEC 62443-3-2 standard. As of 2024, she succeeds Joe Weiss as a
 Co-Managing Director for ISA99.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Marco_Ayala.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Marco_Ayala_V2.png">
 </div>
 <p>Marco Ayala has over 27 years of experience where he designed, implemented,
 and maintained process instrumentation, automation systems, safety systems,
