@@ -2,6 +2,6 @@ collections:
   xx-invalid:
     output: true
     order:
-      - 20 August.md
+      - 20 August (invalid).md
       - privacy statement 2022.md
       - PDU Eligibility.md
