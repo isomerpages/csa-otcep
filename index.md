@@ -16,6 +16,9 @@ sections:
         - title: 2024 OTCEP Members
           description: Click to view profile
           url: /2024-otcep-members/
+        - title: PROGRAMME
+          description: Click to view programme
+          url: https://staging-lite.d1l4mvks6nxcsx.amplifyapp.com/programme/20-august/
   - textcards:
       title: OTCEP Forum Highlights
       id: textcards
