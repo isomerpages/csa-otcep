@@ -2,5 +2,7 @@ collections:
   xx-invalid:
     output: true
     order:
+      - Guest of Honour.md
+      - 20 August (invalid).md
       - privacy statement 2022.md
       - PDU Eligibility.md

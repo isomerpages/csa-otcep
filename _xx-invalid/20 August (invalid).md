@@ -1,6 +1,6 @@
 ---
-title: 20 August
-permalink: /20-august/
+title: 20 August (invalid)
+permalink: /xxinvalid/20-august/
 variant: tiptap
 description: ""
 ---
