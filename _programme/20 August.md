@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Programme/240514_CSA_OTCEP_2024_Programme_Table_Day_01.png">
 </div>
