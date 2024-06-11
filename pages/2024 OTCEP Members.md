@@ -187,7 +187,7 @@ of The Year Award in 2017 and the Leader Award at the Inaugural Cyber Security
 Awards in 2018 by the Association of Information Security Professionals.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Ms_Saltanat_Mashirova.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Ms_Saltanat_Mashirova_R2.png">
 </div>
 <p>Saltanat Mashirova is an Advanced Cyber Security Architect at the Honeywell
 Center of Excellence. She has extensive on-site OT Cybersecurity experience,
