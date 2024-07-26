@@ -2,10 +2,8 @@
 title: Day 2 Programme
 permalink: /resources/otcep-2022/day2-programme/
 description: ""
-third_nav_title: OTCEP 2022
+third_nav_title: OTCEP Forum 2022
 ---
-
-
 ## 13 JULY 2022
 
 | Time | Agenda|
@@ -19,4 +17,4 @@ third_nav_title: OTCEP 2022
 
 	
 <br>
-*<i>Programme and timings are subjected to changes<i>
+*<i>Programme and timings are subjected to changes<i></i></i>

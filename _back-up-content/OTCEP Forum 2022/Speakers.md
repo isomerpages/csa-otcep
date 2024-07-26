@@ -2,16 +2,8 @@
 title: Speakers
 permalink: /resources/otcep-2022/speakers/
 description: ""
-third_nav_title: OTCEP 2022
+third_nav_title: OTCEP Forum 2022
 ---
-
-
-
-
-
-
-
-
 ## **Guest of Honour**
 
 ![MrsJosephineTeo](/images/speakers/220511%20csa%20speakers%20josephine%20teo_3.png)
@@ -33,10 +25,10 @@ She is married and has three grown-up children. She enjoys creating memorable ex
 
 ## **Welcome Address**
 ![DavidKoh](/images/speakers/220511%20csa%20speakers%20david%20koh.png)
-<p style="text-align:justify"><font size="4px">Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the founding Chief Executive of the Cyber Security Agency (CSA) of Singapore. He is concurrently Chief (Digital Security & Technology) at the Ministry of Communications and Information.</font></p>
+<p style="text-align:justify"><font size="4px">Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the founding Chief Executive of the Cyber Security Agency (CSA) of Singapore. He is concurrently Chief (Digital Security &amp; Technology) at the Ministry of Communications and Information.</font></p>
 
 <p style="text-align:justify"><font size="4px">
-As Commissioner, he has the legal authority to investigate cyber threats and incidents to ensure that essential services are not disrupted in the event of a cyber-attack. As Chief Executive of CSA, he leads Singapore’s efforts to provide dedicated and centralised oversight of national cyber security functions. These include enforcing the cybersecurity legislation; strategy and policy development; cyber security operations; ecosystem, R&D and capability development, public outreach and international engagement. Concurrently, as Chief (Digital Security & Technology), he oversees digital security policy and technology capability development in the Ministry of Communications and Information.</font></p>
+As Commissioner, he has the legal authority to investigate cyber threats and incidents to ensure that essential services are not disrupted in the event of a cyber-attack. As Chief Executive of CSA, he leads Singapore’s efforts to provide dedicated and centralised oversight of national cyber security functions. These include enforcing the cybersecurity legislation; strategy and policy development; cyber security operations; ecosystem, R&amp;D and capability development, public outreach and international engagement. Concurrently, as Chief (Digital Security &amp; Technology), he oversees digital security policy and technology capability development in the Ministry of Communications and Information.</font></p>
 	
 <p style="text-align:justify"><font size="4px">
 Mr Koh also sits on the Boards of the Government Technology Agency (GovTech), Defence Science and Technology Agency (DSTA) and DSO National Laboratories (DSO), and the Monetary Authority of Singapore (MAS) Cyber Security Advisory Panel.</font></p>
