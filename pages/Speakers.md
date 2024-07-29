@@ -68,8 +68,12 @@ from King’s College, London, UK.</p>
 <hr>
 <h2>SPEAKERS</h2>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Andrew_Ginter.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Ms_Cassie_Crossley.png">
 </div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Dr_Carl_Windsor.png">
@@ -80,11 +84,11 @@ from King’s College, London, UK.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Mr_Tim_Conway.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Mr_Peter_Jackson.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Mr_Peter_Jackson.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Mr_Tim_Conway.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -94,5 +98,6 @@ from King’s College, London, UK.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Stephan_Goldberg.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
