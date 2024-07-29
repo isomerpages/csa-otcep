@@ -74,7 +74,6 @@ from King’s College, London, UK.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Ms_Cassie_Crossley.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Dr_Carl_Windsor.png">
 </div>
