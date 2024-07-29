@@ -2,6 +2,7 @@
 title: Speakers
 permalink: /speakers/
 description: ""
+variant: markdown
 ---
 ## GUEST-OF-HONOUR
 ![](/images/2023%20speakers/230619_csa%20otcep%202023_speaker%20profiles_mrs%20josephine%20teo.png)
@@ -35,3 +36,6 @@ Mr Koh has a Master’s degree in Public Administration from Harvard University,
 He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.
 
 ---
+
+## SPEAKERS
+
