@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>GUEST-OF-HONOUR</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20speakers/230619_csa%20otcep%202023_speaker%20profiles_mrs%20josephine%20teo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mrs_Josephine_Teo.png">
 </div>
 <p>Minister Josephine Teo was appointed Minister for Communications and Information
 and Minister-in-charge of Smart Nation and Cybersecurity on 15 May 2021.
@@ -33,7 +34,7 @@ experiences for family and friends.
 <hr>
 <h2>WELCOME REMARKS</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20speakers/230612_csa%20otcep%202023_speaker%20profiles_mr%20david%20koh.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_David_Koh.png">
 </div>
 <p>Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the
 founding Chief Executive of the Cyber Security Agency (CSA) of Singapore.
