@@ -38,4 +38,11 @@ He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.
 ---
 
 ## SPEAKERS
+![](/images/2024%20OTCEP%20Forum/2024%20Speakers/Dr_Carl_Windsor.png)
+
+![](/images/2024%20OTCEP%20Forum/2024%20Speakers/Mr_Tim_Conway.png)
+
+![](/images/2024%20OTCEP%20Forum/2024%20Speakers/Mr_Peter_Jackson.png)
+
+
 
