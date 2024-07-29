@@ -113,7 +113,7 @@ Prior to working at Fortinet Carl was Chief Technical Architect responsible
 for managed security service strategy with a focus on networking and security
 services at European Datacenter company TeleCity (now Equinix). Carl holds
 a Ph.D. in Computational Chemistry &amp; Quantum Mechanics from the University
-of Manchester and a <a href="http://B.Sc" rel="noopener noreferrer nofollow" target="_blank">B.Sc</a>. in Computational Chemistry from UMIST.</p>
+of Manchester and a B.Sc. in Computational Chemistry from UMIST.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Mike_Hoffman.png">
