@@ -29,7 +29,7 @@ Government Parliamentary Committee for Education and Assistant Secretary
 – General of the National Trades Union Congress (NTUC). Mrs Teo was concurrently
 Chief Executive Officer of the not-for-profit organisation Business China,
 a platform launched by then Minister Mentor Lee Kuan Yew and then China
-Premier Wen Jiabao to strengthen Singapore’s bicultural foundation.</p>
+Premier Wen Jiabaoto strengthen Singapore’s bicultural foundation.</p>
 <p>An alumna of Dunman High School and Raffles Junior College, Mrs Teo graduated
 from the National University of Singapore, winning several honours including
 the Rachel Meyer Book Prize for being the Best Woman Student. She obtained
@@ -46,21 +46,19 @@ experiences with family and friends.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_David_Koh.png">
 </div>
 <p>Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the
-founding Chief Executive of the Cyber Security Agency (CSA) of Singapore.</p>
-<p></p>
-<p>He is concurrently Chief (Digital Security &amp; Technology) at the Ministry
+founding Chief Executive of the Cyber Security Agency (CSA) of Singapore.
+He is concurrently Chief (Digital Security &amp; Technology) at the Ministry
 of Digital Development and Information.</p>
 <p>As Commissioner, he has the legal authority to investigate cyber threats
 and incidents to ensure that essential services are not disrupted in the
 event of a cyber-attack. As Chief Executive of CSA, he leads Singapore’s
 efforts to provide dedicated and centralised oversight of national cyber
-security functions.</p>
-<p>These include enforcing the cybersecurity legislation; strategy and policy
-development; cyber security operations; ecosystem, R&amp;D and capability
-development, public outreach and international engagement. Concurrently,
-as Chief (Digital Security &amp; Technology), he oversees digital security
-policy and technology capability development in the Ministry of Digital
-Development and Information.</p>
+security functions. These include enforcing the cybersecurity legislation;
+strategy and policy development; cyber security operations; ecosystem,
+R&amp;D and capability development, public outreach and international engagement.
+Concurrently, as Chief (Digital Security &amp; Technology), he oversees
+digital security policy and technology capability development in the Ministry
+of Digital Development and Information.</p>
 <p>Mr Koh also sits on the Boards of the Government Technology Agency (GovTech),
 the Monetary Authority of Singapore (MAS) Cyber and Technology Resilience
 Experts (“CTREX”) Panel and the Healthcare Cybersecurity Advisory Panel
@@ -77,7 +75,6 @@ Administration Medal – Bronze (Military), and the Commendation Medal (Military
 <p>Mr Koh has a Master’s degree in Public Administration from Harvard University,
 USA, and a Bachelor’s degree in Electrical and Electronics Engineering
 from King’s College, London, UK.</p>
-<p></p>
 <p>He and his wife, Marlene, have three children, Daniel, Rachel, and Michael.</p>
 <p></p>
 <hr>
@@ -205,5 +202,3 @@ new products and services. He gained his cybersecurity expertise serving
 for nearly a decade in the Intelligence Corps of the Israeli Defence Forces,
 including serving as commander of the tech intelligence research branch
 in one of the Corps’ intelligence gathering units.</p>
-<p></p>
-<p></p>
