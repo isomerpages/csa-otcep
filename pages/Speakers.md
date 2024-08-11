@@ -46,8 +46,9 @@ experiences with family and friends.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_David_Koh.png">
 </div>
 <p>Mr David Koh is Singapore’s first Commissioner of Cybersecurity and the
-founding Chief Executive of the Cyber Security Agency (CSA) of Singapore.
-He is concurrently Chief (Digital Security &amp; Technology) at the Ministry
+founding Chief Executive of the Cyber Security Agency (CSA) of Singapore.</p>
+<p></p>
+<p>He is concurrently Chief (Digital Security &amp; Technology) at the Ministry
 of Digital Development and Information.</p>
 <p>As Commissioner, he has the legal authority to investigate cyber threats
 and incidents to ensure that essential services are not disrupted in the
