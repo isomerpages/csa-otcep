@@ -114,6 +114,19 @@ Bachelor of Science degree in Technical and Professional Communication
 with a specialisation in Computer Science.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Chok_Chiat_Ho.png">
+</div>
+<p>Chok has more than a decade of experience in Cyber, and in his role as
+the Head of Field Engineering at CrowdStrike, he leads a team of field
+engineers across the SENA region - advising and designing threat landscape
+appropriate solutions for organisations so they can better navigate the
+murky cyber waters. In a career spanning multiple roles from engineering
+through consulting, Chok has worked with some of the largest organisations
+to address some of the industry’s most unique challenges. He is a holder
+of the CISSP certification, and has a Bachelor of Computer Science from
+The University of Western Australia.</p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Dr_Carl_Windsor.png">
 </div>
 <p>Carl currently serves as Chief Information Security Officer (CISO) for
@@ -172,21 +185,6 @@ Essentials for NERC Critical Infrastructure Protection course, as well
 as the ICS612: ICS Cybersecurity In-Depth course. Outside of SANS, Tim
 continues to perform contract and consulting work in ICS cyber security,
 focusing on the energy sector.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Sanket_Bhasin.png">
-</div>
-<p>As a Cyber Security Specialist for CrowdStrike, Sanket Bhasin brings more
-than 17 years of experience in IT security. Prior to CrowdStrike, Sanket
-was with McAfee for more than six years and has extensive experience in
-helping large enterprise organisations across Asia implement comprehensive
-security programs. In addition, Sanket has demonstrated and deployed security
-architecture to strengthen protection for numerous customers where controls
-may have been breached and sensitive information compromised. In his recent
-role as a Technology Strategist, he is closely working with the key customers
-&amp; partners across the Asia-Pacific and Japan region to evangelise the
-CrowdStrike platform’s vision and road map to help them solve their complex
-cyber security problems.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Stephan_Goldberg.png">
