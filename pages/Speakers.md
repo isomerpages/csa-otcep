@@ -18,7 +18,7 @@ and cybersecurity.</p>
 of the Future Economy Council. She is also currently the Chairperson of
 the Ong Teng Cheong Labour Leadership Institute (OTCi) Board of Governors,
 as well as the Chairperson of the Council of Advisors of the ST Engineering
-Staff Union</p>
+Staff Union.</p>
 <p>Mrs Teo was the Minister for Manpower from May 2018 till May 2021. She
 previously served in the Prime Minister’s Office (PMO) and the Finance,
 Transport and Foreign Affairs ministries. During the pandemic years, Mrs
