@@ -114,20 +114,6 @@ Bachelor of Science degree in Technical and Professional Communication
 with a specialisation in Computer Science.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Dr_Carl_Windsor.png">
-</div>
-<p>Carl currently serves as Chief Information Security Officer (CISO) for
-Fortinet, Inc. (FTNT), where he has helped to drive product security &amp;
-strategy for over 18 years. With prior roles in System Engineering, Sales
-and Product Management and the CTO Office, leading SDWAN and SASE strategy.
-He is now responsible for driving Product Security across the company.
-Prior to working at Fortinet Carl was Chief Technical Architect responsible
-for managed security service strategy with a focus on networking and security
-services at European Datacenter company TeleCity (now Equinix). Carl holds
-a Ph.D. in Computational Chemistry &amp; Quantum Mechanics from the University
-of Manchester and a B.Sc. in Computational Chemistry from UMIST.</p>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Chok_Chiat_Ho.png">
 </div>
 <p>Chok has more than a decade of experience in Cyber, and in his role as
