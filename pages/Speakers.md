@@ -1,6 +1,6 @@
 ---
 title: Speakers
-permalink: /speakers-draftxczxc/
+permalink: /speakers/
 description: ""
 variant: tiptap
 ---
@@ -18,7 +18,7 @@ and cybersecurity.</p>
 of the Future Economy Council. She is also currently the Chairperson of
 the Ong Teng Cheong Labour Leadership Institute (OTCi) Board of Governors,
 as well as the Chairperson of the Council of Advisors of the ST Engineering
-Staff Union</p>
+Staff Union.</p>
 <p>Mrs Teo was the Minister for Manpower from May 2018 till May 2021. She
 previously served in the Prime Minister’s Office (PMO) and the Finance,
 Transport and Foreign Affairs ministries. During the pandemic years, Mrs
@@ -114,20 +114,6 @@ Bachelor of Science degree in Technical and Professional Communication
 with a specialisation in Computer Science.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Dr_Carl_Windsor.png">
-</div>
-<p>Carl currently serves as Chief Information Security Officer (CISO) for
-Fortinet, Inc. (FTNT), where he has helped to drive product security &amp;
-strategy for over 18 years. With prior roles in System Engineering, Sales
-and Product Management and the CTO Office, leading SDWAN and SASE strategy.
-He is now responsible for driving Product Security across the company.
-Prior to working at Fortinet Carl was Chief Technical Architect responsible
-for managed security service strategy with a focus on networking and security
-services at European Datacenter company TeleCity (now Equinix). Carl holds
-a Ph.D. in Computational Chemistry &amp; Quantum Mechanics from the University
-of Manchester and a B.Sc. in Computational Chemistry from UMIST.</p>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Chok_Chiat_Ho.png">
 </div>
 <p>Chok has more than a decade of experience in Cyber, and in his role as
@@ -141,6 +127,20 @@ of the CISSP certification, and has a Bachelor of Computer Science from
 The University of Western Australia.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Michael_Murphy.png">
+</div>
+<p>Michael is the Operational Technology (OT) leader, APAC for Fortinet,
+responsible for driving cyber resilience and OT security. With a wealth
+of real-world experience in critical incident response and digital forensics
+spanning over a decade, Michael has built OT incident response teams and
+implemented pre-existing frameworks and standards. He understands the significance
+of adaptability and agility in navigating complex scenarios and assists
+organizations in achieving strong outcomes for OT security, fostering cyber
+resilience, and optimizing incident response processes. Michael’s expertise
+spans a variety of regions, including Asia-Pacific (APAC), the US, and
+Europe.</p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Mike_Hoffman.png">
 </div>
 <p>Mike Hoffman worked for Shell for 20 years and has been a Consultant Technical
@@ -151,6 +151,8 @@ has a Master of Science in Information Security Engineering (MSISE) Degree
 from SANS Technology Institute and is a SANS instructor for the ICS curriculum.
 Mike is driven to continual learning and has over 17 GIAC certifications,
 including the GSE.</p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Mr_Peter_Jackson.png">
