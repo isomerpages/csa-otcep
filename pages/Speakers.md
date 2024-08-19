@@ -127,6 +127,20 @@ of the CISSP certification, and has a Bachelor of Computer Science from
 The University of Western Australia.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Michael_Murphy.png">
+</div>
+<p>Michael is the Operational Technology (OT) leader, APAC for Fortinet,
+responsible for driving cyber resilience and OT security. With a wealth
+of real-world experience in critical incident response and digital forensics
+spanning over a decade, Michael has built OT incident response teams and
+implemented pre-existing frameworks and standards. He understands the significance
+of adaptability and agility in navigating complex scenarios and assists
+organizations in achieving strong outcomes for OT security, fostering cyber
+resilience, and optimizing incident response processes. Michael’s expertise
+spans a variety of regions, including Asia-Pacific (APAC), the US, and
+Europe.</p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 OTCEP Forum/2024 Speakers/Mr_Mike_Hoffman.png">
 </div>
 <p>Mike Hoffman worked for Shell for 20 years and has been a Consultant Technical
@@ -137,6 +151,8 @@ has a Master of Science in Information Security Engineering (MSISE) Degree
 from SANS Technology Institute and is a SANS instructor for the ICS curriculum.
 Mike is driven to continual learning and has over 17 GIAC certifications,
 including the GSE.</p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20OTCEP%20Forum/2024%20Speakers/Mr_Peter_Jackson.png">
