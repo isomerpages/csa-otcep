@@ -10,9 +10,6 @@ sections:
       background: /images/banner/240408_CSA_OTCEP_2024_Microsite_Banner_R02.png
       url: /contact-us/
       key_highlights:
-        - title: Register now
-          description: Click here to register
-          url: https://www.gevme.com/operational-technology-cybersecurity-expert-panel-forum-2024-64021342
         - title: 2024 OTCEP Members
           description: Click to view profile
           url: /2024-otcep-members/
