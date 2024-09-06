@@ -2,5 +2,6 @@ collections:
   2024-highlights:
     output: true
     order:
+      - 21 August (Day 2).md
       - 20 August (Day 1)/Masterclasses.md
       - 20 August (Day 1)/.keep
