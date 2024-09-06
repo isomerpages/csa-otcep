@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - OTCEP Forum 2023 Highlight.md
-      - Welcome Remarks.md
       - Day 1 Presentation/.keep
       - Day 1 Presentation/Cyber Threat Landscape.md
       - Day 1 Presentation/Evolving Threats and Emerging Regulations in OT
