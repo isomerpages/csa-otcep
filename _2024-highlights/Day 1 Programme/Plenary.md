@@ -13,10 +13,7 @@ third_nav_title: Day 1 Programme
 <p></p><div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/wDmjDkf02I0?si=lwzz5OLMSXzcluDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p><br>
 
-##### Product Security Regulation&nbsp;- Opportunities to Enhance the Security Dialogue Between the OT Vendors And Asset Owners&nbsp;  
-  
-  
-Q&amp;A (10 - 15 Mins)
+##### Product Security Regulation&nbsp;- Opportunities to Enhance the Security Dialogue Between the OT Vendors And Asset Owner
 <p></p><div class="video-container">
 <iframe width="853" height="315" src="https://www.youtube.com/embed/_GYt6oq34do?si=cNPLO2pqoC_nhbqC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
 
