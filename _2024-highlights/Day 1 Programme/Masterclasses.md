@@ -11,11 +11,12 @@ third_nav_title: Day 1 Programme
 
 #####  Defensible ICS Architecture Essentials 
 <p></p><div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/wZW5oEZeNLo?si=KLE7Af0mJ8pHVjce" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/00MBuajs7Dc?si=XWE-gjOFC9uESibl" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
 
 #####  ABCs of ICS Incident Response
 <p></p><div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/00MBuajs7Dc?si=XWE-gjOFC9uESibl" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/wZW5oEZeNLo?si=KLE7Af0mJ8pHVjce" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+
 
 
 
