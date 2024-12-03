@@ -13,9 +13,9 @@ sections:
         - title: 2024 OTCEP Members
           description: Click to view profile
           url: /2024-otcep-members/
-        - title: 2024 Highlights
-          description: Click to view highlights
-          url: /otcep-forum-2024-day-1/masterclasses/
+        - title: Event Highlight
+          description: Click here to view highlight
+          url: ""
   - textcards:
       title: OTCEP Forum Highlights
       id: textcards
