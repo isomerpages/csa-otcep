@@ -4,8 +4,5 @@ permalink: /event-highlight/
 variant: markdown
 description: ""
 ---
-<p>&lt;p&gt;&lt;/p&gt;&lt;div class="video-container"&gt;</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ngtj0oqBhFI?si=KB1tdQxn5a3DqoWJ"></iframe>
-</div>
-<p>&lt;/div&gt;&lt;p&gt;&lt;/p&gt;</p>
+<p></p><div class="video-container">
+<iframe width="853" height="315" src="https://www.youtube.com/embed/ngtj0oqBhFI?si=KB1tdQxn5a3DqoWJ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
