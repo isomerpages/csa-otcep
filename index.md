@@ -14,7 +14,7 @@ sections:
           description: Click to view highlights
           url: /otcep-forum-2024-day-1/masterclasses/
         - title: Event Highlight
-          description: Click here to view highlight
+          description: View post event highlight
           url: /event-highlight/
   - textcards:
       title: OTCEP Forum Highlights
