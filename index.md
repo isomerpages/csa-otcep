@@ -10,9 +10,9 @@ sections:
       background: /images/banner/240408_CSA_OTCEP_2024_Microsite_Banner_R02.png
       url: /contact-us/
       key_highlights:
-        - title: 2024 OTCEP Members
-          description: Click to view profile
-          url: /2024-otcep-members/
+        - title: 2024 Highlights
+          description: Click to view highlights
+          url: /otcep-forum-2024-day-1/masterclasses/
         - title: Event Highlight
           description: Click here to view highlight
           url: /event-highlight/
