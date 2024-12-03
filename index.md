@@ -15,7 +15,7 @@ sections:
           url: /2024-otcep-members/
         - title: Event Highlight
           description: Click here to view highlight
-          url: ""
+          url: /event-highlight/
   - textcards:
       title: OTCEP Forum Highlights
       id: textcards
