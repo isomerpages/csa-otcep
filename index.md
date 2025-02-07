@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: 2024 Highlights
           description: Click to view highlights
-          url: /otcep-forum-2024-day-1/masterclasses/
+          url: /2024-highlights/otcep-forum-2024-day-1/masterclasses/
         - title: Event Highlight
           description: View post event highlight
           url: /event-highlight/
