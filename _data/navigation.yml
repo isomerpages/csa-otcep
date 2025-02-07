@@ -2,15 +2,7 @@ logo: /images/csa-logo.jpeg
 links:
   - title: Overview
     collection: overview
-  - title: 2024 OTCEP Members
-    url: /2024-otcep-members/
-  - title: Speakers
-    url: /speakers/
-  - title: Programme
-    collection: programme
-  - title: 2024 Highlights
-    collection: 2024-highlights
-  - title: Event Highlight
+  - title: 2024 Event Highlight
     url: /event-highlight/
   - title: Media
     url: /media
