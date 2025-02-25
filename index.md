@@ -21,15 +21,15 @@ sections:
       id: textcards
       description: Click to view event highlights
       cards:
-        - title: 2024 Highlights
+        - title: 2024 Programme
           description: ""
           linktext: Learn more
           url: /2024-highlights/otcep-forum-2024-day-1/masterclasses/
-        - title: 2023 Highlights
+        - title: 2023 Programme
           description: ""
           linktext: Learn more
           url: /2023-highlights/otcep-forum-2023-highlight/
-        - title: 2022 Highlights
+        - title: 2022 Programme
           description: ""
           linktext: Learn more
           url: /2022-highlights/otcep-forum-2022-highlight/
