@@ -20,9 +20,8 @@ sections:
           description: View post event highlight
           url: /event-highlight/
   - textcards:
-      title: OTCEP Forum Highlights
+      title: Past Programme Highlights
       id: textcards
-      description: Click to view event highlights
       cards:
         - title: 2024 Programme
           description: ""
