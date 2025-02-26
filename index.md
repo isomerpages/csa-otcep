@@ -13,12 +13,10 @@ sections:
         - title: Register for otcep forum 2025
           description: Click here to register
           url: https://www.gevme.com/operational-technology-cybersecurity-expert-panel-forum-2025-69285327
-        - title: 2024 programme highlight
-          description: Click to view prograhighlights
-          url: /2024-programme/otcep-forum-2024-day-1/masterclasses/
-        - title: Event Highlight
-          description: View post event highlight
-          url: /event-highlight/
+        - title: 2025 OTCEP MEMBERS
+          description: Cick to view profile
+          url: /
+      variant: center
   - textcards:
       title: Past Programme Highlights
       id: textcards
