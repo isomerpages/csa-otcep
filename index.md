@@ -26,7 +26,7 @@ sections:
         - title: 2024 Programme
           description: ""
           linktext: Learn more
-          url: /2024-highlights/otcep-forum-2024-day-1/masterclasses/
+          url: /2024-programme/otcep-forum-2024-day-1/masterclasses/
         - title: 2023 Programme
           description: ""
           linktext: Learn more
