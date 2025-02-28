@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner/240408_CSA_OTCEP_2024_Microsite_Banner_R02.png
+      background: /images/banner/250224_OTCEP_2025_KV_R07_Opt_1.png
       url: /contact-us/
       key_highlights:
         - title: Register for otcep forum 2025
