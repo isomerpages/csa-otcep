@@ -1,5 +1,5 @@
 collections:
-  programme:
+  2025-programme:
     output: true
     order:
       - 20 August.md
