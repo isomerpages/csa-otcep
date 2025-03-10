@@ -1,5 +1,5 @@
 collections:
-  2024-programme:
+  2024-programme-highlights:
     output: true
     order:
       - Day 1 Programme/.keep
