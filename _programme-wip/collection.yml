@@ -1,4 +1,5 @@
 collections:
   programme-wip:
     output: true
-    order: []
+    order:
+      - Programme.md
