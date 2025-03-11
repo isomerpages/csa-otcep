@@ -4,10 +4,8 @@ permalink: /programmewip/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 250px">
+<table style="minWidth: 200px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -27,7 +25,13 @@ description: ""
 <p><strong>PROGRAMME</strong>
 </p>
 </td>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -48,32 +52,20 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>09.30am – 11.30pm</p>
 </td>
 <td rowspan="1" colspan="4">
-<p>Masterclasses</p>
+<p>Masterclass 1</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Masterclasses 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Masterclasses 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -85,12 +77,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="4">
 <p>Lunch Break</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,12 +106,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -144,12 +124,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,12 +131,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="4">
 <p>Presentations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
