@@ -55,6 +55,8 @@ description: ""
 <p></p>
 <p>Commonalities Across Various Process Environments And The Components That
 Can Be Found Across Various Industries And Sectors.</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Masterclass 2</p>
