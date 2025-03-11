@@ -2,4 +2,5 @@ collections:
   programme-wip:
     output: true
     order:
+      - Programme with info.md
       - Programme.md
