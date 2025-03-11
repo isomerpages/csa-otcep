@@ -89,7 +89,7 @@ The Plan.</p>
 <td rowspan="1" colspan="1">
 <p>01.30pm – 01.35pm</p>
 </td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="6">
 <p>Welcome Remarks</p>
 <p></p>
 <p><strong>Mr David Koh</strong>
@@ -98,12 +98,6 @@ The Plan.</p>
 <p>Chief Executive, Cyber Security Agency Of Singapore</p>
 <p>Chief (Digital Security And Technology), Ministry Of Digital Development
 And Information</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
