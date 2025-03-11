@@ -4,7 +4,7 @@ permalink: /programme-with-info/
 variant: markdown
 description: ""
 ---
-<table style="minwidth: 175px; font-size: 14px;">
+<table style="min-width: 175px; font-size: 12px;">
 <colgroup>
 <col>
 <col>
