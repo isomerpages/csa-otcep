@@ -15,6 +15,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>TIME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p><strong>PROGRAMME</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>8.30am – 9.30am</strong>
 </p>
 </td>
