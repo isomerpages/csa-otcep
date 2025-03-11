@@ -33,7 +33,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>8.30am – 9.30am</strong>
+<p><strong>08.30am – 09.30am</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
@@ -58,7 +58,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9.30am – 11.30pm</strong>
+<p><strong>09.30am – 11.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
@@ -108,7 +108,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1.30pm – 1.35pm</strong>
+<p><strong>01.30pm – 01.35pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
@@ -133,7 +133,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1.35pm – 1.45pm</strong>
+<p><strong>01.35pm – 01.45pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
@@ -158,7 +158,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2.00pm – 5.00pm</strong>
+<p><strong>02.00pm – 05.00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
