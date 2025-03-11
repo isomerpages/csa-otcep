@@ -33,12 +33,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>08.30am – 09.30am</strong>
-</p>
+<p>08.30am – 09.30am</p>
 </td>
 <td rowspan="1" colspan="4">
-<p><strong>Registration</strong>
-</p>
+<p>Registration</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,12 +57,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>09.30am – 11.30pm</strong>
-</p>
+<p>09.30am – 11.30pm</p>
 </td>
 <td rowspan="1" colspan="4">
-<p><strong>Masterclasses</strong>
-</p>
+<p>Masterclasses</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,12 +81,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>12.00pm – 1.30pm</strong>
-</p>
+<p>12.00pm – 1.30pm</p>
 </td>
 <td rowspan="1" colspan="4">
-<p><strong>Lunch Break</strong>
-</p>
+<p>Lunch Break</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,12 +105,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>01.30pm – 01.35pm</strong>
-</p>
+<p>01.30pm – 01.35pm</p>
 </td>
 <td rowspan="1" colspan="4">
-<p><strong>Welcome Remarks</strong>
-</p>
+<p>Welcome Remarks</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,12 +129,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>01.35pm – 01.45pm</strong>
-</p>
+<p>01.35pm – 01.45pm</p>
 </td>
 <td rowspan="1" colspan="4">
-<p><strong>Keynote Address</strong>
-</p>
+<p>Keynote Address</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,12 +153,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>02.00pm – 05.00pm</strong>
-</p>
+<p>02.00pm – 05.00pm</p>
 </td>
 <td rowspan="1" colspan="4">
-<p><strong>Presentations</strong>
-</p>
+<p>Presentations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
