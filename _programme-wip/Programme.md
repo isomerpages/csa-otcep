@@ -65,47 +65,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1.45pm – 1.50pm</strong>
+<p><strong>2.00pm – 5.00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="4">
-<p><strong>Photo Taking </strong>– Minister, CE, DCE and OTCEP Members [FYIP
-- no need update this segment in website]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1.50pm – 3.00pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="4">
-<p><strong>Presentation #1</strong>
-</p>
-<p><strong>Cyber Threat Landscape</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3.00pm – 3.30pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="4">
-<p><em>Break and View Capability Showcase</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>3.30pm – 4.40pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>Presentation #2 [TBC]</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>C-suite Conversation with OT Stakeholders (By Invite)</strong>
+<p><strong>Presentations</strong>
 </p>
 </td>
 </tr>
