@@ -94,9 +94,9 @@ The Plan.</p>
 <p></p>
 <p><strong>Mr David Koh</strong>
 </p>
-<p>Commissioner Of Cybersecurity</p>
-<p>Chief Executive, Cyber Security Agency Of Singapore</p>
-<p>Chief (Digital Security And Technology), Ministry Of Digital Development
+<p>Commissioner Of Cybersecurity
+<br>Chief Executive, Cyber Security Agency Of Singapore
+<br>Chief (Digital Security And Technology), Ministry Of Digital Development
 And Information</p>
 <p></p>
 </td>
