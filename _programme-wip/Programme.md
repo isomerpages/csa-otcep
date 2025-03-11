@@ -39,6 +39,7 @@ description: ""
 <td rowspan="1" colspan="4">
 <p><strong>Registration</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -64,6 +65,7 @@ description: ""
 <td rowspan="1" colspan="4">
 <p><strong>Masterclasses</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -89,6 +91,7 @@ description: ""
 <td rowspan="1" colspan="4">
 <p><strong>Lunch Break</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -114,6 +117,7 @@ description: ""
 <td rowspan="1" colspan="4">
 <p><strong>Welcome Remarks</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -139,6 +143,7 @@ description: ""
 <td rowspan="1" colspan="4">
 <p><strong>Keynote Address</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
