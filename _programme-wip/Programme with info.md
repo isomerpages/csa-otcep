@@ -62,6 +62,7 @@ Can Be Found Across Various Industries And Sectors.</p>
 <p>A Focus On Device Placement, Logging, Authentication, Monitoring, Perimeters,
 And Architecture Design.</p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Masterclass 3</p>
