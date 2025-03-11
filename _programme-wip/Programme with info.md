@@ -92,6 +92,13 @@ The Plan.</p>
 <td rowspan="1" colspan="4">
 <p>Welcome Remarks</p>
 <p></p>
+<p><strong>Mr David Koh</strong>
+</p>
+<p>Commissioner Of Cybersecurity</p>
+<p>Chief Executive, Cyber Security Agency Of Singapore</p>
+<p>Chief (Digital Security And Technology), Ministry Of Digital Development
+And Information</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
