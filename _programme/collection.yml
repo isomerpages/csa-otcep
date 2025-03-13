@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Day 1.md
-      - Day 1 (29 July).md
       - Day 2 (30 July).md
