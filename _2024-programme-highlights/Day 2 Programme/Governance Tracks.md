@@ -1,6 +1,6 @@
 ---
 title: Governance Tracks
-permalink: /otcep-forum-2024-day-2/governance-tracks/
+permalink: /2024-programme/otcep-forum-2024-day-2/governance-tracks/
 variant: markdown
 description: ""
 third_nav_title: Day 2 Programme

@@ -1,6 +1,6 @@
 ---
 title: Masterclasses
-permalink: /otcep-forum-2024-day-1/masterclasses/
+permalink: /2024-programme/otcep-forum-2024-day-1/masterclasses/
 variant: markdown
 description: ""
 third_nav_title: Day 1 Programme

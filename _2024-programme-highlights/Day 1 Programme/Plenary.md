@@ -1,6 +1,6 @@
 ---
 title: Plenary
-permalink: /otcep-forum-2024-day-1/plenary/
+permalink: /2024-programme/otcep-forum-2024-day-1/plenary/
 variant: markdown
 description: ""
 third_nav_title: Day 1 Programme

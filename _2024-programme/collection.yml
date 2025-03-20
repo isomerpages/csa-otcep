@@ -1,0 +1,6 @@
+collections:
+  2024-programme:
+    output: true
+    order:
+      - 20 August.md
+      - 21 August.md

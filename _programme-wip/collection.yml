@@ -1,0 +1,6 @@
+collections:
+  programme-wip:
+    output: true
+    order:
+      - Programme.md
+      - Programme with info.md
