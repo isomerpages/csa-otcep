@@ -4,7 +4,9 @@ title: Operational Technology Cybersecurity Expert Panel (OTCEP) Forum
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: CSA will never ask you to transfer money or disclose banking
+  details. Stay vigilant. If unsure, call the 24/7 ScamShield Helpline at 1799
+  to check. www.scamshield.gov.sg
 sections:
   - hero:
       background: /images/250313_OTCEP_2025_ISOMER_Banner_R02.png
