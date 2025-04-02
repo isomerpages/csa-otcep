@@ -9,7 +9,7 @@ notification: CSA will never ask you to transfer money or disclose banking
   to check. www.scamshield.gov.sg
 sections:
   - hero:
-      background: /images/250313_OTCEP_2025_ISOMER_Banner_R02.png
+      background: /images/250402_OTCEP_2025_ISOMER_Banner_R03.png
       url: /contact-us/
       key_highlights:
         - title: Register for otcep forum 2025
