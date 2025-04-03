@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/250402_OTCEP_2025_ISOMER_Banner_R03.png
+      background: /images/isomer_banner.png
       url: /contact-us/
       key_highlights:
         - title: Register for otcep forum 2025
