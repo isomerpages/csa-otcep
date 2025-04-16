@@ -17,10 +17,11 @@ sections:
   - infopic:
       title: OTCEP FORUM 2024
       id: infopic
-      button: Click to view event highlight
+      button: cick here
       url: /event-highlight/
       image: /images/otcep_2024_thumb.png
       alt: OTCEP FORUM 2024
+      description: Click to view 2024 event highlight
   - textcards:
       title: Past Programme Highlights
       id: textcards
