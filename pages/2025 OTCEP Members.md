@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_04_Mr_Robert_M__Lee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_04_Mr_Robert_M__Lee.png">
 </div>
 <p>Robert is a recognised authority in the industrial cybersecurity community.
 He is CEO and co-founder of Dragos, a global technology leader in cybersecurity
@@ -50,7 +49,7 @@ and on 60 Minutes.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_01_Mr_Marco_Ayala.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_01_Mr_Marco_Ayala.png">
 </div>
 <p>Marco Ayala has over 27 years of experience where he designed, implemented,
 and maintained process instrumentation, automation systems, safety systems,
@@ -99,7 +98,7 @@ graduate courses in information security.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_05_Mrs_Saltanat_Mashirova.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_05_Mrs_Saltanat_Mashirova.png">
 </div>
 <p>Saltanat Mashirova is an Advanced Cyber Security Architect at the Honeywell
 Center of Excellence. She has extensive on-site OT Cybersecurity experience,
@@ -110,7 +109,7 @@ leading global projects.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_06_Dr_Terence_Liu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_06_Dr_Terence_Liu.png">
 </div>
 <p>Dr.&nbsp;Terence&nbsp;Liu leads TXOne Networks, a cybersecurity company
 focusing on protecting OT and ICS with unique OT Zero Trust approach throughout
