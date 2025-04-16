@@ -71,7 +71,7 @@ the Houston Members Alliance.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_08_Mr_Zachary_Tudor.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_08_Mr_Zachary_Tudor.png">
 </div>
 <p>Zachary (Zach) Tudor is the associate laboratory director of Idaho National
 Laboratory’s National and Homeland Security Science and Technology directorate,
