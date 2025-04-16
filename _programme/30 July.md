@@ -1,6 +1,6 @@
 ---
 title: 30 July
-permalink: /draftprogramme/day-2/
+permalink: /programme/day-2/
 variant: tiptap
 description: ""
 ---
