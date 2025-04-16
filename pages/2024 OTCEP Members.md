@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Robert_M__Lee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_04_Mr_Robert_M__Lee.png">
 </div>
 <p>Robert is a recognised authority in the industrial cybersecurity community.
 He is CEO and co-founder of Dragos, a global technology leader in cybersecurity
@@ -47,36 +48,9 @@ Dragos uncovered PIPEDREAM, a highly flexible framework to attack industrial
 infrastructure globally. Robert’s work has been featured in the book Sandworm
 and on 60 Minutes.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Dale_Peterson.png">
-</div>
-<p>For over 20 years, Dale Peterson has been on the leading edge helping
-security conscious asset owners effectively and efficiently manage risk
-to their critical assets.</p>
-<p>He has pioneered numerous ICS security tools and techniques. In 2007,
-he created S4 Events to showcase the best offensive and defensive work
-in ICS security and build a community. S4 is now the largest and most advanced
-ICS event in the world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Ms_Sarah_Fluchs.png">
-</div>
-<p>Sarah Fluchs is the CTO of admeritia, which specialises in security consulting
-for the process industry, manufacturing, and critical infrastructures.
-Prior to her current role, Sarah has developed cybersecurity guidance for
-the water sector at the German Federal Office for Information Security
-(BSI).</p>
-<p>A process and automation engineer herself, Sarah works on creating security
-engineering methods that help engineers make informed, conscious security
-decisions they can truly stand behind – and communicate convincingly.</p>
-<p>Sarah has created the Top 20 Secure PLC Coding practices with Dale Peterson,
-Jake Brodsky and Vivek Ponnada, led a government-funded research project
-on security by design for ICS, and is the ISA Co-Convenor for revising
-the ISA/IEC 62443-3-2 standard. As of 2024, she succeeds Joe Weiss as a
-Co-Managing Director for ISA99.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Marco_Ayala_V4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_01_Mr_Marco_Ayala.png">
 </div>
 <p>Marco Ayala has over 27 years of experience where he designed, implemented,
 and maintained process instrumentation, automation systems, safety systems,
@@ -96,8 +70,9 @@ shelf (OCS).</p>
 <p>InfraGard member since 2014, and currently serving as the President for
 the Houston Members Alliance.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Zachary_Tudor.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_08_Mr_Zachary_Tudor.png">
 </div>
 <p>Zachary (Zach) Tudor is the associate laboratory director of Idaho National
 Laboratory’s National and Homeland Security Science and Technology directorate,
@@ -158,36 +133,9 @@ Bill of Materials. Eric is also the Senior Partner at ICS Secure, advising
 investors and IT companies entering the ICS and “Internet of Things” security
 markets.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Dr_Lim_Woo_Lip.png">
-</div>
-<p>Dr Lim Woo Lip is currently the Chief Technology Officer (Cyber) of ST
-Engineering, overseeing the research and advanced solution development
-in cybersecurity. Woo Lip is also a member of the Board of Governors and
-Chairman of the School of Infocomm Advisory Committee at Republic Polytechnic
-(RP). He is also the Joseph K. TWANMOH Chair Professor at Soochow University,
-Taiwan, and he chairs the Advisory Committee of Soochow University’s Cyber
-Security Centre of Excellence. Woo Lip is also a member of the Coordinating
-Committee for Cybersecurity in Singapore.</p>
-<p>Prior to joining ST Engineering, Woo Lip was the Executive Vice President
-(Technology and Capability) of Ensign Infosecurity and the Vice President
-Data Analytics and Cyber Security of StarHub from 2013 to 2020. During
-this period, he helped StarHub to build up the big data analytics capability
-and establish StarHub’s Cyber Security Centre of Excellence (CS-COE) that
-was subsequently merged with two other entities to form Ensign Infosecurity
-in Oct 2018. Woo Lip also worked in the Ministry of Defence (MINDEF), Centre
-for Strategic Infocomm Technologies (CSIT) and the Singapore Armed Forces
-(SAF) on technologies related to national security for 25 years before
-joining StarHub.</p>
-<p>Woo Lip is also a technical reviewer for various professional journals
-and conferences. He was also a member of Cybersecurity Advisory Group (CAG)
-to Minister-in-Charge of Cybersecurity in Singapore from 2019 to 2022.
-Woo Lip was conferred the Singapore Computer Society IT Leader Professional
-of The Year Award in 2017 and the Leader Award at the Inaugural Cyber Security
-Awards in 2018 by the Association of Information Security Professionals.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Ms_Saltanat_Mashirova_R2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_05_Mrs_Saltanat_Mashirova.png">
 </div>
 <p>Saltanat Mashirova is an Advanced Cyber Security Architect at the Honeywell
 Center of Excellence. She has extensive on-site OT Cybersecurity experience,
@@ -196,8 +144,9 @@ assessment for hazardous operations, ISA 62443 compliance, cybersecurity
 vulnerability assessment, project engineering, governance, training, and
 leading global projects.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Dr_Terence_Liu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Panel Members/250415_OTCEP_2025_Speaker_Profiles_06_Dr_Terence_Liu.png">
 </div>
 <p>Dr.&nbsp;Terence&nbsp;Liu leads TXOne Networks, a cybersecurity company
 focusing on protecting OT and ICS with unique OT Zero Trust approach throughout
@@ -218,25 +167,3 @@ finally acquired by Trend Micro in October 2013.
 <br>Terence&nbsp;earned the PhD and M.S. degree in Computer Science from National
 Tsing-Hua University, and holds several patents and IEEE/ACM publications.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 speakers and panellists/Mr_Justin_Searle.png">
-</div>
-<p>Justin Searle is the Director of ICS Security at InGuardians, specialising
-in ICS security architecture design and penetration testing. He led the
-Smart Grid Security Architecture group in the creation of NIST Interagency
-Report 7628 and has played key roles in the Advanced Security Acceleration
-Project for the Smart Grid (ASAP-SG), National Electric Sector Cybersecurity
-Organization Resources (NESCOR), and Smart Grid Interoperability Panel
-(SGIP).</p>
-<p>Justin has taught courses in hacking techniques, forensics, networking,
-and intrusion detection for multiple universities, corporations, and security
-conferences. He is currently a Senior Instructor for the SANS Institute
-and a faculty member at IANS. In addition to electric power industry conferences,
-Justin frequently presents at top international security conferences such
-as Black Hat, DEFCON, OWASP, Nullcon, and AusCERT.</p>
-<p>Justin leads prominent open source projects including the ControlThings
-Platform, Samurai Web Testing Framework (SamuraiWTF), Samurai Security
-Testing Framework for Utilities (SamuraiSTFU). He has an MBA in International
-Technology and is a CISSP and SANS GIAC certified Incident Handler (GCIH),
-Intrusion Analyst (GCIA), Web Application Penetration Tester (GWAPT), and
-GIAC Industrial Control Security Professional (GICSP).</p>
