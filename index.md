@@ -14,6 +14,13 @@ sections:
           description: Click here to register
           url: https://www.gevme.com/69285327/registration/buy?tickets-390182=1
       variant: center
+  - infopic:
+      title: OTCEP FORUM 2024
+      id: infopic
+      button: Click to view event highlight
+      url: /event-highlight/
+      image: /images/otcep_2024_thumb.png
+      alt: OTCEP FORUM 2024
   - textcards:
       title: Past Programme Highlights
       id: textcards
