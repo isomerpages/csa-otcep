@@ -4,6 +4,8 @@ links:
     collection: overview
   - title: Programme
     collection: programme
+  - title: Panel Members
+    url: /permalink
   - title: 2024 Event Highlight
     url: /event-highlight/
   - title: Media
