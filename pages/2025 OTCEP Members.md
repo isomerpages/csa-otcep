@@ -223,8 +223,7 @@ of the Year 2023 “Barrier Breaker-Category” Award, Ranked # 1 at IFSEC
 Global Top Influencers in Security &amp; Fire “CyberSecurity Category”,
 The CIO50 Middle East Award 2022 Winner, IDC’s Top 50 Women Achievers “Business
 &amp; Digital Transformation Leader”, Global EWF’s Regional Leadership
-Award, MESA’s Women Security Leaders Award, , and The Arab CISO of the
-Year.</p>
+Award, MESA’s Women Security Leaders Award, and The Arab CISO of the Year.</p>
 <p>She’s a very active contributor to Cyber Security Community promoting
 collaboration via sharing of knowledge “#StrongerTogether”, organising
 various CyberSecurity related workshops/events and forums, as well as participating
