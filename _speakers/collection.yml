@@ -1,5 +1,4 @@
 collections:
   speakers:
     output: true
-    order:
-      - 2025 OTCEP Members.md
+    order: []
