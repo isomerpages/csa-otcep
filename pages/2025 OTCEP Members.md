@@ -22,7 +22,7 @@ leaders. He testified to the U.S. House of Representatives Committee on
 Energy and Commerce--Subcommittee on Oversight and Investigations, and
 to the U.S. Senate Energy and Natural Resources Committee, to advise on
 policy issues related to critical infrastructure cyber threats. He is a
-member on the Reserve Forces Policy Board, Office of the Secretary of Defense;
+member on the Reserve Forces Policy Board, Office of the Secretary of Defence;
 and also serves on the board of the National Cryptologic Foundation. He
 has also presented at the World Economic Forum Annual Meeting in Davos,
 and industry leading conferences such as RSA, SANS, BlackHat, and DefCon
@@ -89,9 +89,9 @@ the Houston Members Alliance.</p>
 Laboratory’s National and Homeland Security Science and Technology directorate,
 a major U.S. center for national security technology development and demonstration,
 employing some 800 scientists and engineers across over $550 million in
-programs for the Department of Defense (DOD), Department of Homeland Security
+programs for the Department of Defence (DOD), Department of Homeland Security
 (DHS) and the intelligence community. He is responsible for INL’s Nuclear
-Nonproliferation, Critical Infrastructure Protection and Defense Systems
+Nonproliferation, Critical Infrastructure Protection and Defence Systems
 missions.</p>
 <p>Previously, Tudor served as a program director in the Computer Science
 Laboratory at SRI International, where he supported cybersecurity and critical
@@ -130,7 +130,7 @@ enterprise customers in a variety of verticals such like Automotive, Semiconduct
 Pharmaceutical, Aviation, and Critical Infrastructures.&nbsp;
 <br>
 <br>Before current position,&nbsp;Terence&nbsp;was Trend Micro’s Corporate
-Vice President and led its Network Threat Defense Group. He focused on
+Vice President and led its Network Threat Defence Group. He focused on
 new-generation telecommunication technologies like Software Defined Network
 (SDN) and Network Function Virtualisation (NFV).
 <br>
@@ -152,7 +152,7 @@ as a "Multiplier" who exponentially amplifies initiatives, leaving a profound
 mark on the CyberSecurity and Technology landscape. She is also A Certified
 Innovation Leader (CIL) and a Fellow in the Institute of Innovation and
 Knowledge Exchange (FIKE), A Fellow in the UK-Gulf Women in CyberSecurity,
-A Global Mentor in the UN’s ITU Women in Cyber Mentorship Program. First
+A Global Mentor in the UN’s ITU Women in Cyber Mentorship Programme. First
 United Nation’s Civil Society Stakeholder's Representative from Women in
 CyberSecurity Groups who delivers regularly official Statements at the
 United Nations' Open-Ended Working Group (OEWG) on Security 2021-2025 located
@@ -164,7 +164,7 @@ Digital technology in Energy sector on various levels which is closely
 linked to Kuwait’s National CyberSecurity posture and Digital Oil Fields
 transformation journeys.</p>
 <p>Academically Accomplished with degrees in Engineering, MBA, PhD in Business
-and Harvard’s Business School Executives Program, Dr. Reem blends a technical
+and Harvard’s Business School Executives Programme, Dr. Reem blends a technical
 expertise with Strong management skills that enriches her Leadership impacts.</p>
 <p>She is a Passionate, Empathetic, and Servant leader who is deeply committed
 to fostering diversity across the various hats she wears. She is the Chairperson
@@ -205,10 +205,10 @@ Working Groups Forums, an Advisory Board member and a Keynote Speaker.
 She contributed as Co-Author various publications with leading institutes
 such as SPE, MIT, WEF, CyberSecurity Books and PhD researches. Dr. Reem
 is a community member various global forums such as the World Economic
-Forum’s (WEF) Program “Cyber Resilience in Oil &amp; Gas”, and in the “Women
-in Security &amp; Resilience Alliance (WiSCERA). She’s a TEDx Speaker where
-her TEDx Talk is titled “Let your passion lead the way” to inspire others
-to follow their dreams.</p>
+Forum’s (WEF) Programme “Cyber Resilience in Oil &amp; Gas”, and in the
+“Women in Security &amp; Resilience Alliance (WiSCERA). She’s a TEDx Speaker
+where her TEDx Talk is titled “Let your passion lead the way” to inspire
+others to follow their dreams.</p>
 <p>Concluding with a Quote that describes Dr. Reem and her impact in this
 World:</p>
 <p>“We meet many people in life, they are either a Plus (+), or a Minus (-),</p>
@@ -224,7 +224,7 @@ along with her.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_07_Mr_Tim_Conway.png">
 </div>
-<p>Tim serves as the Technical Director of ICS and SCADA programs at SANS,
+<p>Tim serves as the Technical Director of ICS and SCADA programmes at SANS,
 and he is responsible for developing, reviewing, and implementing technical
 components of the SANS ICS and SCADA product offerings. A recognised leader
 in CIP operations, he formerly served as the Director of CIP Compliance
