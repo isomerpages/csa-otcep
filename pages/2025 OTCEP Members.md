@@ -63,22 +63,23 @@ ICS event in the world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_01_Mr_Marco_Ayala.png">
 </div>
-<p>Marco Ayala has over 27 years of experience where he designed, implemented,
+<p>Marco (Marc) Ayala has 30 years of experience where he designed, implemented,
 and maintained process instrumentation, automation systems, safety systems,
-and process control networks. In his role with large global manufacturing
-company, he is responsible for applications globally that are specific
-to plant site operations and corporate governance.</p>
-<p>With around two decades focused specifically on industrial cybersecurity,
+and process control networks. With expertise in strategic planning, team
+leadership, and stakeholder collaboration, Marco drives innovation and
+develops advanced strategies to secure vital systems, ensuring resilience
+and alignment with national security objectives.</p>
+<p>With over two decades focused specifically on industrial cybersecurity,
 he has led efforts to secure the oil and gas (all streams), maritime port,
 offshore facilities, and chemical sectors, supporting federal, local, and
 state entities for securing the private sector.</p>
 <p>Marco is highly active in International Society of Automation and is a
 longtime member. He is a 22-year Senior Member and a certified cyber instructor
 for ISA (62443) with volunteering commitments and contributor to the AMSC
-Gulf of Mexico (GOM) cybersecurity committee in a sworn in role to the
-USCG as Chair of Threat Intelligence and Cybersecurity for the outer continental
-shelf (OCS).</p>
-<p>InfraGard member since 2014, and currently serving as the President for
+Gulf of Mexico/America (GOM/GOA) cybersecurity committee in a sworn in
+role to the USCG as Chair of Threat Intelligence and Cybersecurity for
+the outer continental shelf (OCS).</p>
+<p>InfraGard member since 2014 and currently serving as the President for
 the Houston Members Alliance.</p>
 <p></p>
 <p></p>
