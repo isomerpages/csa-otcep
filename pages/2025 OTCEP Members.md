@@ -49,6 +49,18 @@ and on 60 Minutes.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_09_Mr_Dale_Peterson.png">
+</div>
+<p>For over 20 years, Dale Peterson has been on the leading edge helping
+security conscious asset owners effectively and efficiently manage risk
+to their critical assets.</p>
+<p>He has pioneered numerous ICS security tools and techniques. In 2007,
+he created S4 Events to showcase the best offensive and defensive work
+in ICS security and build a community. S4 is now the largest and most advanced
+ICS event in the world.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_01_Mr_Marco_Ayala.png">
 </div>
 <p>Marco Ayala has over 27 years of experience where he designed, implemented,
