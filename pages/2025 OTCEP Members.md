@@ -86,39 +86,75 @@ the Houston Members Alliance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_08_Mr_Zachary_Tudor.png">
 </div>
-<p>Zachary (Zach) Tudor is the associate laboratory director of Idaho National
-Laboratory’s National and Homeland Security Science and Technology directorate,
-a major U.S. center for national security technology development and demonstration,
-employing some 800 scientists and engineers across over $550 million in
-programs for the Department of Defence (DOD), Department of Homeland Security
-(DHS) and the intelligence community. He is responsible for INL’s Nuclear
-Nonproliferation, Critical Infrastructure Protection and Defence Systems
-missions.</p>
-<p>Previously, Tudor served as a program director in the Computer Science
-Laboratory at SRI International, where he supported cybersecurity and critical
-infrastructure programs, such as DHS Cyber Security Division’s Linking
-the Oil and Gas Industry to Improve Cybersecurity consortium and the Industrial
-Control System Joint Working Group R&amp;D working group. He is the former
-board of directors chair of the International Information Systems Security
-Certification Consortium (ISC2).</p>
-<p>He is a professor of practice in the computer science departments of the
-University of Idaho and Idaho State University and a member of Virginia’s
-Commonwealth Cyber Initiative advisory board. A retired U.S. Navy submarine
-electronics limited duty officer and chief data systems technician, Tudor
-holds an M.S. in information systems, with a concentration in cybersecurity,
-from George Mason University, where he was also an adjunct professor teaching
-graduate courses in information security.</p>
+<p>Mr. Zachary (Zach) Tudor is the associate laboratory director of Idaho
+National Laboratory’s National and Homeland Security Science and Technology
+directorate.</p>
+<p>Under Tudor’s leadership, INL has developed into a major centre for national
+security technology development and demonstration, employing over 800 scientists
+and engineers across nearly $700 million in programmes. Tudor is responsible
+for leading INL’s Nuclear Nonproliferation, Cyber Research and Development,
+Critical Infrastructure Security and Resilience, and Defence Systems missions.
+These missions include safeguarding and securing vulnerable nuclear material,
+enhancing the overall security and resilience of the nation’s infrastructure,
+and providing protective material science solutions and heavy manufacturing
+of armor for national defence. The laboratory’s national security missions
+support major programmes for the Department of Energy, Department of Defence
+(DOD), Department of Homeland Security (DHS) and the Intelligence Community.</p>
+<p>Previously, Tudor was a programme director in the Computer Science Laboratory
+at SRI International, where he served as a management and technical resource
+for operational and research and development cybersecurity programmes for
+government, intelligence, and commercial projects. He supported DHS’ Cyber
+Security R&amp;D Division on projects, including the Linking the Oil and
+Gas Industry to Improve Cybersecurity consortium and the Industrial Control
+Systems Joint Working Group. He has served on the Nuclear Regulatory Commission’s
+Nuclear Cyber Security Working Group, was vice chair of the Institute for
+Information Infrastructure Protection at George Washington University and
+served as board chair for the International Information System Security
+Certification Consortium, or ISC2, the world’s leading member association
+for cybersecurity professionals.</p>
+<p>Prior to SRI, Tudor led a team of cybersecurity engineers and analysts
+directly supporting the Control Systems Security Programme at DHS, whose
+mission is to reduce the cybersecurity risk to critical infrastructure
+systems. Past assignments include on-site deputy programme manager for
+the National Reconnaissance Office’s worldwide operational network; information
+security manager for the Secretary of Defence Chief Information Officer
+Enterprise Operations Support Team; security management support for the
+Centres for Medicare and Medicaid Services; several senior level consulting
+positions, including vice president of SAIC’s Enabling Technology Division;
+and senior manager for DOD programmes at BearingPoint’s Security Practice.</p>
+<p>A retired U.S. Navy submarine limited duty electronics officer and chief
+data systems technician, Tudor holds an M.S. in information systems, concentrating
+in cybersecurity, from George Mason University, where he also was an adjunct
+professor teaching graduate courses in information security. His professional
+credentials include the Certified Information Systems Security Professional,
+Certified Information Security Manager, and Certified Computer Professional.</p>
+<p>A retired U.S. Navy submarine limited duty electronics officer and chief
+data systems technician, Tudor holds an M.S. in information systems, concentrating
+in cybersecurity, from George Mason University, where he also was an adjunct
+professor teaching graduate courses in information security. His professional
+credentials include the Certified Information Systems Security Professional,
+Certified Information Security Manager, and Certified Computer Professional.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_05_Mrs_Saltanat_Mashirova.png">
 </div>
-<p>Saltanat Mashirova is an Advanced Cyber Security Architect at the Honeywell
-Center of Excellence. She has extensive on-site OT Cybersecurity experience,
-primarily in the energy sector, and now focuses on cyber security risk
-assessment for hazardous operations, ISA 62443 compliance, cybersecurity
-vulnerability assessment, project engineering, governance, training, and
-leading global projects.</p>
+<p>Saltanat Mashirova is a Global Product Management Lead at Honeywell. She
+brings extensive expertise in OT/ICS cybersecurity, including cyber-physical
+risk assessments (csHAZOP), ISA/IEC 62443 compliance, governance, OT/ICS
+cybersecurity product development, OT/ICS cybersecurity training delivery,
+cybersecurity vulnerability assessments, project engineering, network installation
+and configuration, commissioning and start-up supervising, SAT (Site Acceptance
+Testing), FAT (Factory Acceptance Testing), integration of brownfield and
+greenfield assets, and many more. In her leadership role, Saltanat works
+closely with global clients across key sectors such as industrials, gigafactories,
+energy, oil and gas, buildings, manufacturing and many more, aligning technical
+and business goals to deliver tailored cybersecurity solutions. A recognised
+thought leader, she is the author of industry frameworks such as “An Approach
+to Disaster Recover in OT,” and whitepapers published in platforms like
+Hydrocarbon Engineering, etc. Her achievements include multiple global
+awards, such as Top International 40 under 40 in Cybersecurity, Cybersecurity
+Woman of the World, etc.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
