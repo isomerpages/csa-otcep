@@ -10,3 +10,5 @@ links:
     url: /media
   - title: Contact Us
     url: /contact-us/
+  - title: Speakers
+    collection: speakers
