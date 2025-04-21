@@ -128,12 +128,6 @@ in cybersecurity, from George Mason University, where he also was an adjunct
 professor teaching graduate courses in information security. His professional
 credentials include the Certified Information Systems Security Professional,
 Certified Information Security Manager, and Certified Computer Professional.</p>
-<p>A retired U.S. Navy submarine limited duty electronics officer and chief
-data systems technician, Tudor holds an M.S. in information systems, concentrating
-in cybersecurity, from George Mason University, where he also was an adjunct
-professor teaching graduate courses in information security. His professional
-credentials include the Certified Information Systems Security Professional,
-Certified Information Security Manager, and Certified Computer Professional.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -158,26 +152,25 @@ Woman of the World, etc.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_06_Dr_Terence_Liu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_06_Dr_Terence_Liu.png">
 </div>
-<p>Dr.&nbsp;Terence&nbsp;Liu leads TXOne Networks, a cybersecurity company
-focusing on protecting OT and ICS with unique OT Zero Trust approach throughout
-the lifecycle of Cyber-Physical Systems. TXOne has thousands of satisfied
-enterprise customers in a variety of verticals such like Automotive, Semiconductor,
-Pharmaceutical, Aviation, and Critical Infrastructures.&nbsp;
-<br>
-<br>Before current position,&nbsp;Terence&nbsp;was Trend Micro’s Corporate
-Vice President and led its Network Threat Defence Group. He focused on
-new-generation telecommunication technologies like Software Defined Network
-(SDN) and Network Function Virtualisation (NFV).
-<br>
-<br>Prior to Trend Micro,&nbsp;Terence&nbsp;was the CEO of Broadweb. He defined
-and created its DPI licensing business, and had provide the technology
-to many networking and cybersecurity vendors in the world. BroadWeb was
-finally acquired by Trend Micro in October 2013.
-<br>
-<br>Terence&nbsp;earned the PhD and M.S. degree in Computer Science from National
-Tsing-Hua University, and holds several patents and IEEE/ACM publications.</p>
+<p>Dr. Terence Liu is the CEO of TXOne Networks, a cybersecurity company
+dedicated to safeguarding Operational Technology (OT) and Industrial Control
+Systems (ICS) through a unique OT Zero Trust approach that protects Cyber-Physical
+Systems across their entire lifecycle. TXOne serves thousands of enterprise
+customers across key verticals such as automotive, semiconductor, pharmaceutical,
+aviation, and critical infrastructure.</p>
+<p>Prior to his current role, Terence was Corporate Vice President at Trend
+Micro, where he led the Network Threat Defense Group. His work focused
+on next-generation telecommunication technologies, including Software-Defined
+Networking (SDN) and Network Function Virtualisation (NFV).</p>
+<p>Before joining Trend Micro, Terence served as the CEO of BroadWeb, where
+he pioneered its DPI (Deep Packet Inspection) licensing business—providing
+technology to numerous networking and cybersecurity vendors worldwide.
+BroadWeb was acquired by Trend Micro in October 2013.</p>
+<p>Terence holds a Ph.D. and M.S. in Computer Science from National Tsing
+Hua University, and is the holder of several patents and publications in
+IEEE and ACM conferences and journals.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -209,11 +202,10 @@ and Cofounder of Women in CyberSecurity MiddleEast (WiCSME) Group with
 +2500 Women members covering +21 Countries, She is also the Sounding Board
 member at the Diversity, Equity and Inclusion Council of Kuwait’s Oil Sector.
 While promoting Women leadership through excelling in her leadership roles
-in being</p>
-<p>the First Female CISO in Kuwait’s Energy Sector. She has always been a
-key force in advancing the maturity of CyberSecurity and Digital transformation
-Journeys through her various leading roles within the Energy Sector in
-Kuwait.</p>
+in being the First Female CISO in Kuwait’s Energy Sector. She has always
+been a key force in advancing the maturity of CyberSecurity and Digital
+transformation Journeys through her various leading roles within the Energy
+Sector in Kuwait.</p>
 <p>Dr. Reem represents her country in a number of regional and global program
 and forums, and is recognised as an “Innovator” and “Wild Card” who continues
 to ‘push the envelope’ to get to the most optimum outcome on an initiative
@@ -247,9 +239,8 @@ Forum’s (WEF) Programme “Cyber Resilience in Oil &amp; Gas”, and in the
 where her TEDx Talk is titled “Let your passion lead the way” to inspire
 others to follow their dreams.</p>
 <p>Concluding with a Quote that describes Dr. Reem and her impact in this
-World:</p>
-<p>“We meet many people in life, they are either a Plus (+), or a Minus (-),</p>
-<p>Dr. Reem, on the other hand, is a Multiplier (x)… She is able to Multiply
+World: “We meet many people in life, they are either a Plus (+), or a Minus
+(-), Dr. Reem, on the other hand, is a Multiplier (x)… She is able to Multiply
 from One single Step or Initiative to a Multiple of them in Short Time."
 – Kuwait Petroleum Corporation, Managing Director (Planning &amp; Finance),
 Bader Al-Attar.</p>
