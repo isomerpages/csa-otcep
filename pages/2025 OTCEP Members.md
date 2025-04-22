@@ -91,7 +91,7 @@ where her TEDx Talk is titled “Let your passion lead the way” to inspire
 others to follow their dreams.</p>
 <p>Concluding with a Quote that describes Dr. Reem and her impact in this
 World: “We meet many people in life, they are either a Plus (+), or a Minus
-(-), Dr. Reem, on the other hand, is a Multiplier (x)… She is able to Multiply
+(-), Dr. Reem, on the other hand, is a Multiplier (x). She is able to Multiply
 from One single Step or Initiative to a Multiple of them in Short Time."
 – Kuwait Petroleum Corporation, Managing Director (Planning &amp; Finance),
 Bader Al-Attar.</p>
@@ -114,10 +114,10 @@ communities.</p>
 <p>Robert is routinely sought after for advice and input on cybersecurity
 for industrial infrastructure and is regularly asked to brief national
 leaders. He testified to the U.S. House of Representatives Committee on
-Energy and Commerce--Subcommittee on Oversight and Investigations, and
-to the U.S. Senate Energy and Natural Resources Committee, to advise on
-policy issues related to critical infrastructure cyber threats. He is a
-member on the Reserve Forces Policy Board, Office of the Secretary of Defence;
+Energy and Commerce-Subcommittee on Oversight and Investigations, and to
+the U.S. Senate Energy and Natural Resources Committee, to advise on policy
+issues related to critical infrastructure cyber threats. He is a member
+on the Reserve Forces Policy Board, Office of the Secretary of Defence;
 and also serves on the board of the National Cryptologic Foundation. He
 has also presented at the World Economic Forum Annual Meeting in Davos,
 and industry leading conferences such as RSA, SANS, BlackHat, and DefCon
