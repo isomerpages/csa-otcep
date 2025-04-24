@@ -6,6 +6,101 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_07_Mr_Tim_Conway.png">
+</div>
+<p>Tim serves as the Technical Director of ICS and SCADA programmes at SANS,
+and he is responsible for developing, reviewing, and implementing technical
+components of the SANS ICS and SCADA product offerings. A recognised leader
+in CIP operations, he formerly served as the Director of CIP Compliance
+and Operations Technology at Northern Indiana Public Service Company (NIPSCO),
+where he was responsible for Operations Technology, NERC CIP Compliance,
+and the NERC training environments for the operations departments within
+NIPSCO Electric.</p>
+<p>Recognising the need for ICS-focused cybersecurity training throughout
+critical infrastructure environments and increased demand for NERC CIP
+hands-on training, Tim authored and instructs the ICS curriculum’s ICS456:
+Essentials for NERC Critical Infrastructure Protection course, as well
+as the ICS612: ICS Cybersecurity In-Depth course.</p>
+<p>Outside of SANS, Tim continues to perform contract and consulting work
+in ICS cyber security, focusing on the energy sector.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_03_Dr_Reem.png">
+</div>
+<p>Dr. Reem is a Global Thought leader in Cyber Security and Digital Transformation
+who is celebrated for her ability to drive significant impact, described
+as a "Multiplier" who exponentially amplifies initiatives, leaving a profound
+mark on the CyberSecurity and Technology landscape. She is also A Certified
+Innovation Leader (CIL) and a Fellow in the Institute of Innovation and
+Knowledge Exchange (FIKE), A Fellow in the UK-Gulf Women in CyberSecurity,
+A Global Mentor in the UN’s ITU Women in Cyber Mentorship Programme. First
+United Nation’s Civil Society Stakeholder's Representative from Women in
+CyberSecurity Groups who delivers regularly official Statements at the
+United Nations' Open-Ended Working Group (OEWG) on Security 2021-2025 located
+in United Nations Headquarters, New York (Copy of Statement available on
+UN's OEWG website provided above).</p>
+<p>With more than two decades of experience, She had excelled in leading
+significant Strategical advancements to the maturity of CyberSecurity and
+Digital technology in Energy sector on various levels which is closely
+linked to Kuwait’s National CyberSecurity posture and Digital Oil Fields
+transformation journeys.</p>
+<p>Academically Accomplished with degrees in Engineering, MBA, PhD in Business
+and Harvard’s Business School Executives Programme, Dr. Reem blends a technical
+expertise with Strong management skills that enriches her Leadership impacts.</p>
+<p>She is a Passionate, Empathetic, and Servant leader who is deeply committed
+to fostering diversity across the various hats she wears. She is the Chairperson
+and Cofounder of Women in CyberSecurity MiddleEast (WiCSME) Group with
++2500 Women members covering +21 Countries, She is also the Sounding Board
+member at the Diversity, Equity and Inclusion Council of Kuwait’s Oil Sector.
+While promoting Women leadership through excelling in her leadership roles
+in being the First Female CISO in Kuwait’s Energy Sector. She has always
+been a key force in advancing the maturity of CyberSecurity and Digital
+transformation Journeys through her various leading roles within the Energy
+Sector in Kuwait.</p>
+<p>Dr. Reem represents her country in a number of regional and global program
+and forums, and is recognised as an “Innovator” and “Wild Card” who continues
+to ‘push the envelope’ to get to the most optimum outcome on an initiative
+or a project. Dr. Reem contributes heavily in Technology &amp; CyberSecurity
+Global Communities and is quite recognised at national, regional and international
+levels where she’s recognised by World, Country and Industry leaders: H.H
+the Crown Prince of Kuwait, Head of UAE’s Cyber Security Council, CEOs
+and Deputy CEOs at Kuwait’s Oil Sector. She had recently received the CyberSecurity
+Woman of the Arab World 2024 Award in GISEC Cyber Excellence Awards. Recognised
+among World’s “Top20” Cybersecurity Women 2024 “Global Excellence 2024”.
+She had been recently acknowledged by CYSEC Global as The Cybersecurity
+Leader of the Year 2025 &amp; The Woman Innovator of the Year 2025 and
+The "She Leads 2025" Award. Also received the Global CyberSecurity Woman
+of the Year 2023 “Barrier Breaker-Category” Award, Ranked # 1 at IFSEC
+Global Top Influencers in Security &amp; Fire “CyberSecurity Category”,
+The CIO50 Middle East Award 2022 Winner, IDC’s Top 50 Women Achievers “Business
+&amp; Digital Transformation Leader”, Global EWF’s Regional Leadership
+Award, MESA’s Women Security Leaders Award, and The Arab CISO of the Year.</p>
+<p>She’s a very active contributor to Cyber Security Community promoting
+collaboration via sharing of knowledge “#StrongerTogether”, organising
+various CyberSecurity related workshops/events and forums, as well as participating
+in various national, regional, and international forums as Judge in various
+Prestigious Awards, as Civil Society Stakeholder at United Nations' Open-ended
+Working Groups Forums, an Advisory Board member and a Keynote Speaker.
+She contributed as Co-Author various publications with leading institutes
+such as SPE, MIT, WEF, CyberSecurity Books and PhD researches. Dr. Reem
+is a community member various global forums such as the World Economic
+Forum’s (WEF) Programme “Cyber Resilience in Oil &amp; Gas”, and in the
+“Women in Security &amp; Resilience Alliance (WiSCERA). She’s a TEDx Speaker
+where her TEDx Talk is titled “Let your passion lead the way” to inspire
+others to follow their dreams.</p>
+<p>Concluding with a Quote that describes Dr. Reem and her impact in this
+World: “We meet many people in life, they are either a Plus (+), or a Minus
+(-), Dr. Reem, on the other hand, is a Multiplier (x). She is able to Multiply
+from One single Step or Initiative to a Multiple of them in Short Time."
+– Kuwait Petroleum Corporation, Managing Director (Planning &amp; Finance),
+Bader Al-Attar.</p>
+<p>She is a true inspiration to a number of young Women to strive for more.
+As she strongly believe that when any Woman Rise, we ALL as women Rise
+along with her.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_04_Mr_Robert_M__Lee.png">
 </div>
 <p>Robert is a recognised authority in the industrial cybersecurity community.
@@ -19,10 +114,10 @@ communities.</p>
 <p>Robert is routinely sought after for advice and input on cybersecurity
 for industrial infrastructure and is regularly asked to brief national
 leaders. He testified to the U.S. House of Representatives Committee on
-Energy and Commerce--Subcommittee on Oversight and Investigations, and
-to the U.S. Senate Energy and Natural Resources Committee, to advise on
-policy issues related to critical infrastructure cyber threats. He is a
-member on the Reserve Forces Policy Board, Office of the Secretary of Defense;
+Energy and Commerce-Subcommittee on Oversight and Investigations, and to
+the U.S. Senate Energy and Natural Resources Committee, to advise on policy
+issues related to critical infrastructure cyber threats. He is a member
+on the Reserve Forces Policy Board, Office of the Secretary of Defence;
 and also serves on the board of the National Cryptologic Foundation. He
 has also presented at the World Economic Forum Annual Meeting in Davos,
 and industry leading conferences such as RSA, SANS, BlackHat, and DefCon
@@ -49,84 +144,129 @@ and on 60 Minutes.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_09_Mr_Dale_Peterson.png">
+</div>
+<p>For over 20 years, Dale Peterson has been on the leading edge helping
+security conscious asset owners effectively and efficiently manage risk
+to their critical assets.</p>
+<p>He has pioneered numerous ICS security tools and techniques. In 2007,
+he created S4 Events to showcase the best offensive and defensive work
+in ICS security and build a community. S4 is now the largest and most advanced
+ICS event in the world.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_01_Mr_Marco_Ayala.png">
 </div>
-<p>Marco Ayala has over 27 years of experience where he designed, implemented,
+<p>Marco (Marc) Ayala has 30 years of experience where he designed, implemented,
 and maintained process instrumentation, automation systems, safety systems,
-and process control networks. In his role with large global manufacturing
-company, he is responsible for applications globally that are specific
-to plant site operations and corporate governance.</p>
-<p>With around two decades focused specifically on industrial cybersecurity,
+and process control networks. With expertise in strategic planning, team
+leadership, and stakeholder collaboration, Marco drives innovation and
+develops advanced strategies to secure vital systems, ensuring resilience
+and alignment with national security objectives.</p>
+<p>With over two decades focused specifically on industrial cybersecurity,
 he has led efforts to secure the oil and gas (all streams), maritime port,
 offshore facilities, and chemical sectors, supporting federal, local, and
 state entities for securing the private sector.</p>
 <p>Marco is highly active in International Society of Automation and is a
 longtime member. He is a 22-year Senior Member and a certified cyber instructor
 for ISA (62443) with volunteering commitments and contributor to the AMSC
-Gulf of Mexico (GOM) cybersecurity committee in a sworn in role to the
-USCG as Chair of Threat Intelligence and Cybersecurity for the outer continental
-shelf (OCS).</p>
-<p>InfraGard member since 2014, and currently serving as the President for
+Gulf of Mexico/America (GOM/GOA) cybersecurity committee in a sworn in
+role to the USCG as Chair of Threat Intelligence and Cybersecurity for
+the outer continental shelf (OCS).</p>
+<p>InfraGard member since 2014 and currently serving as the President for
 the Houston Members Alliance.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_08_Mr_Zachary_Tudor.png">
 </div>
-<p>Zachary (Zach) Tudor is the associate laboratory director of Idaho National
-Laboratory’s National and Homeland Security Science and Technology directorate,
-a major U.S. center for national security technology development and demonstration,
-employing some 800 scientists and engineers across over $550 million in
-programs for the Department of Defense (DOD), Department of Homeland Security
-(DHS) and the intelligence community. He is responsible for INL’s Nuclear
-Nonproliferation, Critical Infrastructure Protection and Defense Systems
-missions.</p>
-<p>Previously, Tudor served as a program director in the Computer Science
-Laboratory at SRI International, where he supported cybersecurity and critical
-infrastructure programs, such as DHS Cyber Security Division’s Linking
-the Oil and Gas Industry to Improve Cybersecurity consortium and the Industrial
-Control System Joint Working Group R&amp;D working group. He is the former
-board of directors chair of the International Information Systems Security
-Certification Consortium (ISC2).</p>
-<p>He is a professor of practice in the computer science departments of the
-University of Idaho and Idaho State University and a member of Virginia’s
-Commonwealth Cyber Initiative advisory board. A retired U.S. Navy submarine
-electronics limited duty officer and chief data systems technician, Tudor
-holds an M.S. in information systems, with a concentration in cybersecurity,
-from George Mason University, where he was also an adjunct professor teaching
-graduate courses in information security.</p>
+<p>Mr. Zachary (Zach) Tudor is the associate laboratory director of Idaho
+National Laboratory’s National and Homeland Security Science and Technology
+directorate.</p>
+<p>Under Tudor’s leadership, INL has developed into a major centre for national
+security technology development and demonstration, employing over 800 scientists
+and engineers across nearly $700 million in programmes. Tudor is responsible
+for leading INL’s Nuclear Nonproliferation, Cyber Research and Development,
+Critical Infrastructure Security and Resilience, and Defence Systems missions.
+These missions include safeguarding and securing vulnerable nuclear material,
+enhancing the overall security and resilience of the nation’s infrastructure,
+and providing protective material science solutions and heavy manufacturing
+of armor for national defence. The laboratory’s national security missions
+support major programmes for the Department of Energy, Department of Defence
+(DOD), Department of Homeland Security (DHS) and the Intelligence Community.</p>
+<p>Previously, Tudor was a programme director in the Computer Science Laboratory
+at SRI International, where he served as a management and technical resource
+for operational and research and development cybersecurity programmes for
+government, intelligence, and commercial projects. He supported DHS’ Cyber
+Security R&amp;D Division on projects, including the Linking the Oil and
+Gas Industry to Improve Cybersecurity consortium and the Industrial Control
+Systems Joint Working Group. He has served on the Nuclear Regulatory Commission’s
+Nuclear Cyber Security Working Group, was vice chair of the Institute for
+Information Infrastructure Protection at George Washington University and
+served as board chair for the International Information System Security
+Certification Consortium, or ISC2, the world’s leading member association
+for cybersecurity professionals.</p>
+<p>Prior to SRI, Tudor led a team of cybersecurity engineers and analysts
+directly supporting the Control Systems Security Programme at DHS, whose
+mission is to reduce the cybersecurity risk to critical infrastructure
+systems. Past assignments include on-site deputy programme manager for
+the National Reconnaissance Office’s worldwide operational network; information
+security manager for the Secretary of Defence Chief Information Officer
+Enterprise Operations Support Team; security management support for the
+Centres for Medicare and Medicaid Services; several senior level consulting
+positions, including vice president of SAIC’s Enabling Technology Division;
+and senior manager for DOD programmes at BearingPoint’s Security Practice.</p>
+<p>A retired U.S. Navy submarine limited duty electronics officer and chief
+data systems technician, Tudor holds an M.S. in information systems, concentrating
+in cybersecurity, from George Mason University, where he also was an adjunct
+professor teaching graduate courses in information security. His professional
+credentials include the Certified Information Systems Security Professional,
+Certified Information Security Manager, and Certified Computer Professional.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_05_Mrs_Saltanat_Mashirova.png">
 </div>
-<p>Saltanat Mashirova is an Advanced Cyber Security Architect at the Honeywell
-Center of Excellence. She has extensive on-site OT Cybersecurity experience,
-primarily in the energy sector, and now focuses on cyber security risk
-assessment for hazardous operations, ISA 62443 compliance, cybersecurity
-vulnerability assessment, project engineering, governance, training, and
-leading global projects.</p>
+<p>Saltanat Mashirova is a Global Product Management Lead at Honeywell. She
+brings extensive expertise in OT/ICS cybersecurity, including cyber-physical
+risk assessments (csHAZOP), ISA/IEC 62443 compliance, governance, OT/ICS
+cybersecurity product development, OT/ICS cybersecurity training delivery,
+cybersecurity vulnerability assessments, project engineering, network installation
+and configuration, commissioning and start-up supervising, SAT (Site Acceptance
+Testing), FAT (Factory Acceptance Testing), integration of brownfield and
+greenfield assets, and many more. In her leadership role, Saltanat works
+closely with global clients across key sectors such as industrials, gigafactories,
+energy, oil and gas, buildings, manufacturing and many more, aligning technical
+and business goals to deliver tailored cybersecurity solutions. A recognised
+thought leader, she is the author of industry frameworks such as “An Approach
+to Disaster Recover in OT,” and whitepapers published in platforms like
+Hydrocarbon Engineering, etc. Her achievements include multiple global
+awards, such as Top International 40 under 40 in Cybersecurity, Cybersecurity
+Woman of the World, etc.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_06_Dr_Terence_Liu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_06_Dr_Terence_Liu.png">
 </div>
-<p>Dr.&nbsp;Terence&nbsp;Liu leads TXOne Networks, a cybersecurity company
-focusing on protecting OT and ICS with unique OT Zero Trust approach throughout
-the lifecycle of Cyber-Physical Systems. TXOne has thousands of satisfied
-enterprise customers in a variety of verticals such like Automotive, Semiconductor,
-Pharmaceutical, Aviation, and Critical Infrastructures.&nbsp;
-<br>
-<br>Before current position,&nbsp;Terence&nbsp;was Trend Micro’s Corporate
-Vice President and led its Network Threat Defense Group. He focused on
-new-generation telecommunication technologies like Software Defined Network
-(SDN) and Network Function Virtualisation (NFV).
-<br>
-<br>Prior to Trend Micro,&nbsp;Terence&nbsp;was the CEO of Broadweb. He defined
-and created its DPI licensing business, and had provide the technology
-to many networking and cybersecurity vendors in the world. BroadWeb was
-finally acquired by Trend Micro in October 2013.
-<br>
-<br>Terence&nbsp;earned the PhD and M.S. degree in Computer Science from National
-Tsing-Hua University, and holds several patents and IEEE/ACM publications.</p>
+<p>Dr. Terence Liu is the CEO of TXOne Networks, a cybersecurity company
+dedicated to safeguarding Operational Technology (OT) and Industrial Control
+Systems (ICS) through a unique OT Zero Trust approach that protects Cyber-Physical
+Systems across their entire lifecycle. TXOne serves thousands of enterprise
+customers across key verticals such as automotive, semiconductor, pharmaceutical,
+aviation, and critical infrastructure.</p>
+<p>Prior to his current role, Terence was Corporate Vice President at Trend
+Micro, where he led the Network Threat Defense Group. His work focused
+on next-generation telecommunication technologies, including Software-Defined
+Networking (SDN) and Network Function Virtualisation (NFV).</p>
+<p>Before joining Trend Micro, Terence served as the CEO of BroadWeb, where
+he pioneered its DPI (Deep Packet Inspection) licensing business—providing
+technology to numerous networking and cybersecurity vendors worldwide.
+BroadWeb was acquired by Trend Micro in October 2013.</p>
+<p>Terence holds a Ph.D. and M.S. in Computer Science from National Tsing
+Hua University, and is the holder of several patents and publications in
+IEEE and ACM conferences and journals.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
