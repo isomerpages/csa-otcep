@@ -34,70 +34,19 @@ as a "Multiplier" who exponentially amplifies initiatives, leaving a profound
 mark on the CyberSecurity and Technology landscape. She is also A Certified
 Innovation Leader (CIL) and a Fellow in the Institute of Innovation and
 Knowledge Exchange (FIKE), A Fellow in the UK-Gulf Women in CyberSecurity,
-A Global Mentor in the UN’s ITU Women in Cyber Mentorship Programme. First
+A Global Mentor in the UN’s ITU Women in Cyber Mentorship Program. First
 United Nation’s Civil Society Stakeholder's Representative from Women in
 CyberSecurity Groups who delivers regularly official Statements at the
 United Nations' Open-Ended Working Group (OEWG) on Security 2021-2025 located
-in United Nations Headquarters, New York (Copy of Statement available on
-UN's OEWG website provided above).</p>
-<p>With more than two decades of experience, She had excelled in leading
-significant Strategical advancements to the maturity of CyberSecurity and
-Digital technology in Energy sector on various levels which is closely
+in United Nations Headquarters, New York.</p>
+<p>With more than two decades of experience, Dr. Reem had excelled in leading
+significant&nbsp;strategical advancements to the maturity of CyberSecurity
+and Digital technology in Energy sector on various levels which is closely
 linked to Kuwait’s National CyberSecurity posture and Digital Oil Fields
-transformation journeys.</p>
-<p>Academically Accomplished with degrees in Engineering, MBA, PhD in Business
-and Harvard’s Business School Executives Programme, Dr. Reem blends a technical
-expertise with Strong management skills that enriches her Leadership impacts.</p>
-<p>She is a Passionate, Empathetic, and Servant leader who is deeply committed
-to fostering diversity across the various hats she wears. She is the Chairperson
-and Cofounder of Women in CyberSecurity MiddleEast (WiCSME) Group with
-+2500 Women members covering +21 Countries, She is also the Sounding Board
-member at the Diversity, Equity and Inclusion Council of Kuwait’s Oil Sector.
-While promoting Women leadership through excelling in her leadership roles
-in being the First Female CISO in Kuwait’s Energy Sector. She has always
-been a key force in advancing the maturity of CyberSecurity and Digital
-transformation Journeys through her various leading roles within the Energy
-Sector in Kuwait.</p>
-<p>Dr. Reem represents her country in a number of regional and global program
-and forums, and is recognised as an “Innovator” and “Wild Card” who continues
-to ‘push the envelope’ to get to the most optimum outcome on an initiative
-or a project. Dr. Reem contributes heavily in Technology &amp; CyberSecurity
-Global Communities and is quite recognised at national, regional and international
-levels where she’s recognised by World, Country and Industry leaders: H.H
-the Crown Prince of Kuwait, Head of UAE’s Cyber Security Council, CEOs
-and Deputy CEOs at Kuwait’s Oil Sector. She had recently received the CyberSecurity
-Woman of the Arab World 2024 Award in GISEC Cyber Excellence Awards. Recognised
-among World’s “Top20” Cybersecurity Women 2024 “Global Excellence 2024”.
-She had been recently acknowledged by CYSEC Global as The Cybersecurity
-Leader of the Year 2025 &amp; The Woman Innovator of the Year 2025 and
-The "She Leads 2025" Award. Also received the Global CyberSecurity Woman
-of the Year 2023 “Barrier Breaker-Category” Award, Ranked # 1 at IFSEC
-Global Top Influencers in Security &amp; Fire “CyberSecurity Category”,
-The CIO50 Middle East Award 2022 Winner, IDC’s Top 50 Women Achievers “Business
-&amp; Digital Transformation Leader”, Global EWF’s Regional Leadership
-Award, MESA’s Women Security Leaders Award, and The Arab CISO of the Year.</p>
-<p>She’s a very active contributor to Cyber Security Community promoting
-collaboration via sharing of knowledge “#StrongerTogether”, organising
-various CyberSecurity related workshops/events and forums, as well as participating
-in various national, regional, and international forums as Judge in various
-Prestigious Awards, as Civil Society Stakeholder at United Nations' Open-ended
-Working Groups Forums, an Advisory Board member and a Keynote Speaker.
-She contributed as Co-Author various publications with leading institutes
-such as SPE, MIT, WEF, CyberSecurity Books and PhD researches. Dr. Reem
-is a community member various global forums such as the World Economic
-Forum’s (WEF) Programme “Cyber Resilience in Oil &amp; Gas”, and in the
-“Women in Security &amp; Resilience Alliance (WiSCERA). She’s a TEDx Speaker
-where her TEDx Talk is titled “Let your passion lead the way” to inspire
-others to follow their dreams.</p>
-<p>Concluding with a Quote that describes Dr. Reem and her impact in this
-World: “We meet many people in life, they are either a Plus (+), or a Minus
-(-), Dr. Reem, on the other hand, is a Multiplier (x). She is able to Multiply
-from One single Step or Initiative to a Multiple of them in Short Time."
-– Kuwait Petroleum Corporation, Managing Director (Planning &amp; Finance),
-Bader Al-Attar.</p>
-<p>She is a true inspiration to a number of young Women to strive for more.
-As she strongly believe that when any Woman Rise, we ALL as women Rise
-along with her.</p>
+transformation journeys.&nbsp;</p>
+<p>Academically accomplished with degrees in Engineering, MBA, PhD in Business
+and Harvard’s Business School Executives Program, Dr. Reem blends a technical
+expertise with strong management skills that enriches her leadership impacts.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
