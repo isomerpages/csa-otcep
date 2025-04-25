@@ -44,9 +44,9 @@ significant&nbsp;strategical advancements to the maturity of CyberSecurity
 and Digital technology in Energy sector on various levels which is closely
 linked to Kuwait’s National CyberSecurity posture and Digital Oil Fields
 transformation journeys.&nbsp;</p>
-<p>Academically Accomplished with degrees in Engineering, MBA, PhD in Business
+<p>Academically accomplished with degrees in Engineering, MBA, PhD in Business
 and Harvard’s Business School Executives Program, Dr. Reem blends a technical
-expertise with Strong management skills that enriches her Leadership impacts.</p>
+expertise with strong management skills that enriches her leadership impacts.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
