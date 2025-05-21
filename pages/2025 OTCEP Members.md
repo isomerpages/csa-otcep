@@ -64,6 +64,7 @@ agencies and international organisations on technical threat intelligence
 topics, she is also a member of the Black Hat Review Board and serves as
 an evaluator of EU-funded cyber security project proposals.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_04_Mr_Robert_M__Lee.png">
 </div>
