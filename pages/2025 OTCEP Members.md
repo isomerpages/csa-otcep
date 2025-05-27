@@ -50,7 +50,7 @@ expertise with strong management skills that enriches her leadership impacts.</p
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250520_OTCEP_2025_Speaker_Profiles_R02_02_Dr_Marina.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/250526_OTCEP_2025_Speaker_Profiles_R03_02_Dr_Marina.png">
 </div>
 <p>Dr-Eng. Marina Krotofil is a cyber security professional with over 15
 years of hands-on experience in cyber security and strong focus on critical
