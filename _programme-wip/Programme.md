@@ -4,7 +4,8 @@ permalink: /programmewip/
 variant: tiptap
 description: ""
 ---
-<div class="iframe-wrapper">
-<iframe height="461" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSICYTmogO_2L5K8qt8C5fuCrZYhoNtVixi8DwUsnDES3bt5F4SnOljm85ShnF7yNqzjQY7OaqoAtmR/embed?start=false&amp;loop=false&amp;delayms=3000&amp;rm=minimal"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Programme Overview/Slide1.png">
 </div>
 <p></p>
