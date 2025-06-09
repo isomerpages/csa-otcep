@@ -50,22 +50,6 @@ expertise with strong management skills that enriches her leadership impacts.</p
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/250526_OTCEP_2025_Speaker_Profiles_R03_02_Dr_Marina.png">
-</div>
-<p>Dr-Eng. Marina Krotofil is a cyber security professional with over 15
-years of hands-on experience in cyber security and strong focus on critical
-infrastructure protection. She managed and executed numerous large- and
-medium-size technical projects worldwide, across a variety of industrial
-and non-industrial domains. Marina is also an experienced Red/Blue Teamer
-who discovered numerous novel attack vectors and exploitation techniques
-in cyber-physical domain, designed innovative defence methods and assisted
-with complex incident responses. Marina frequently collaborates with security
-agencies and international organisations on technical threat intelligence
-topics, she is also a member of the Black Hat Review Board and serves as
-an evaluator of EU-funded cyber security project proposals.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_04_Mr_Robert_M__Lee.png">
 </div>
 <p>Robert is a recognised authority in the industrial cybersecurity community.
@@ -106,18 +90,6 @@ and the 2021 Colonial Pipeline ransomware attack. In 2022, his team at
 Dragos uncovered PIPEDREAM, a highly flexible framework to attack industrial
 infrastructure globally. Robert’s work has been featured in the book Sandworm
 and on 60 Minutes.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_09_Mr_Dale_Peterson.png">
-</div>
-<p>For over 20 years, Dale Peterson has been on the leading edge helping
-security conscious asset owners effectively and efficiently manage risk
-to their critical assets.</p>
-<p>He has pioneered numerous ICS security tools and techniques. In 2007,
-he created S4 Events to showcase the best offensive and defensive work
-in ICS security and build a community. S4 is now the largest and most advanced
-ICS event in the world.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
