@@ -13,9 +13,9 @@ sections:
         - title: Register for otcep forum 2025
           description: Click here to register
           url: https://www.gevme.com/69285327/registration/buy?tickets-390182=1
-        - title: 2025 OTCEP MEMBERS
+        - title: Speakers
           description: Click to view profile
-          url: /2025-otcep-members/
+          url: /speakers/
       variant: center
   - textcards:
       title: Past Programme Highlights
