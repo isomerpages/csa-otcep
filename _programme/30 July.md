@@ -4,7 +4,8 @@ permalink: /programme/day-2/
 variant: tiptap
 description: ""
 ---
-<div class="iframe-wrapper">
-<iframe style="border: none;" height="3000px" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vRoYr8HehMh8JCXJt7VlIkM0LKpJTOurqlte9UH2zCQ3z9SP20N6CZyv3D-nThJ4J9VE7Ml3kRvIV6G/pub?embedded=true"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Programme Overview/Programme_Day_2.png">
 </div>
 <p></p>
