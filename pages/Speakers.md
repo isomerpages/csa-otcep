@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_07_Mr_Tim_Conway.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250721_OTCEP_2025_Speaker_Profiles_Tim_Conway.png">
 </div>
 <p>Tim serves as the Technical Director of ICS and SCADA programmes at SANS,
 and he is responsible for developing, reviewing, and implementing technical
@@ -26,7 +26,7 @@ in ICS cyber security, focusing on the energy sector.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_03_Dr_Reem.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250721_OTCEP_2025_Speaker_Profiles_Dr_Reem_Faraj_Al_Shammari.png">
 </div>
 <p>Dr. Reem is a Global Thought leader in Cyber Security and Digital Transformation
 who is celebrated for her ability to drive significant impact, described
@@ -184,7 +184,7 @@ Woman of the World, etc.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_06_Dr_Terence_Liu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250721_OTCEP_2025_Speaker_Profiles_Terence_Liu.png">
 </div>
 <p>Dr. Terence Liu is the CEO of TXOne Networks, a cybersecurity company
 dedicated to safeguarding Operational Technology (OT) and Industrial Control
