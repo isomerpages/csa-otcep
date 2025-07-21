@@ -50,7 +50,7 @@ expertise with strong management skills that enriches her leadership impacts.</p
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_04_Mr_Robert_M__Lee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250721_OTCEP_2025_Speaker_Profiles_Robert_M_Lee.png">
 </div>
 <p>Robert is a recognised authority in the industrial cybersecurity community.
 He is CEO and co-founder of Dragos, a global technology leader in cybersecurity
@@ -93,7 +93,7 @@ and on 60 Minutes.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_01_Mr_Marco_Ayala.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250721_OTCEP_2025_Speaker_Profiles_Marco_Ayala.png">
 </div>
 <p>Marco (Marc) Ayala has 30 years of experience where he designed, implemented,
 and maintained process instrumentation, automation systems, safety systems,
@@ -116,7 +116,7 @@ the Houston Members Alliance.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250416_OTCEP_2025_Speaker_Profiles_R01_08_Mr_Zachary_Tudor.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250721_OTCEP_2025_Speaker_Profiles_Zachary_Tudor.png">
 </div>
 <p>Mr. Zachary (Zach) Tudor is the associate laboratory director of Idaho
 National Laboratory’s National and Homeland Security Science and Technology
@@ -163,7 +163,7 @@ Certified Information Security Manager, and Certified Computer Professional.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250415_OTCEP_2025_Speaker_Profiles_05_Mrs_Saltanat_Mashirova.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 OTCEP Forum/Panellists/250721_OTCEP_2025_Speaker_Profiles_Mrs_Saltanat_Mashirova.png">
 </div>
 <p>Saltanat Mashirova is a Global Product Management Lead at Honeywell. She
 brings extensive expertise in OT/ICS cybersecurity, including cyber-physical
