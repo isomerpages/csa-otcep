@@ -4,19 +4,26 @@ permalink: /day-1-programme/
 variant: markdown
 description: ""
 ---
-#####  Fundamentals of ICS Cybersecurity 
+#####  Masterclass: Fundamentals of ICS Cybersecurity 
 <p></p><div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/IKLvdtwvI1A?si=mwIiJA5O0GkDarNd" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/nY4mmqUMwh8?si=H3NFzXxATnpDqOVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+
+<p></p><div class="video-container">
+<iframe width="853" height="315" src="https://www.youtube.com/embed/wiBAZ-zOvrw?si=j__vNSRWnOFs5Uim" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
 
 #####  Defensible ICS Architecture Essentials 
 <p></p><div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/00MBuajs7Dc?si=XWE-gjOFC9uESibl" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/zv8mgtdTTIk?si=IakZvT4MNBki4GOP" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
 
-#####  ABCs of ICS Incident Response
 <p></p><div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/wZW5oEZeNLo?si=KLE7Af0mJ8pHVjce" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/97HT3wPlAOQ?si=M7SMWflAY_EIbDWP" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
 
+#####  Dveloping an OT Incident Response Plan
+<p></p><div class="video-container">
+<iframe width="853" height="315" src="https://www.youtube.com/embed/eisunGZ4XN8?si=M8m2eRHdxijJsW9O" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
 
+<p></p><div class="video-container">
+<iframe width="853" height="315" src="https://www.youtube.com/embed/3nkeL8e1O2o?si=z9p5Pr4SC_ZDXDC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
 
 
 <style type="text/css"> 
