@@ -2,5 +2,6 @@ collections:
   2025-highlights:
     output: true
     order:
+      - Day 2/.keep
       - Day 1/Masterclasses.md
       - Day 1/.keep
