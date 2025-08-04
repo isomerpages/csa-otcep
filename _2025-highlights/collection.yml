@@ -2,8 +2,8 @@ collections:
   2025-highlights:
     output: true
     order:
-      - Day 1/Plenary.md
       - Day 1/.keep
       - Day 1/Masterclasses.md
+      - Day 1/Plenary.md
       - Day 2/.keep
       - Day 2/Plenary.md
