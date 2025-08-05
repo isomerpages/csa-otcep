@@ -10,8 +10,8 @@ sections:
       background: /images/banner/250630_OTCEP_2025_ISOMER_Banner_R04.png
       url: /contact-us/
       key_highlights:
-        - title: Register for otcep forum 2025
-          description: Click here to register
+        - title: Programme highlights for 2025
+          description: Click to view highlights
           url: https://www.gevme.com/69285327/registration/buy?tickets-390182=1
         - title: Speakers
           description: Click to view profile
