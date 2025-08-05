@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Programme highlights for 2025
           description: Click to view highlights
-          url: /day-1-programme/masterclasses/
+          url: /2025-otcepforum/day-1/masterclasses/
         - title: Speakers
           description: Click to view profile
           url: /speakers/
