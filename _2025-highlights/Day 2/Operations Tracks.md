@@ -21,25 +21,27 @@ third_nav_title: Day 2
 <div class="video-container">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hy5yII3V0YU?si=N35TX7L2_B_xx3oy"></iframe>
 </div>
+
 <hr>
 <p></p>
-
 <h5><strong>ICS/OT Log Aggregation Across Complex System Architectures
 </strong></h5>
 <p></p>
 <div class="video-container">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/drxNAq_kKzo?si=4c0juXAr9STpp2sz"></iframe>
 </div>
-<p></p>
 
+<hr>
+<p></p>
 <h5><strong>Preparing For Cyber Conflict: Strategies And Conversations Between Government And The Private Sector
 </strong></h5>
 <p></p>
 <div class="video-container">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_MyB82RTmHI?si=tRBwDYLw3GTcpds1"></iframe>
 </div>
-<p></p>
 
+<hr>
+<p></p>
 <h5><strong>Secure Deployment in Critical OT Control and Safety
 </strong></h5>
 <p></p>
