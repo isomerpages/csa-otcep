@@ -11,30 +11,26 @@ third_nav_title: Day 1
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/X6pR1qk44SQ?si=9ZoGprh2mwTybQ_Y"></iframe>
 </div>
 <p></p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tORBzh82Yig?si=7-vYTJeVshuOBhj6"></iframe>
 </div>
 <p></p>
-<h5>Defensible ICS Architecture Essentials</h5>
-<p></p>
+<h5>A Deep Dive into Consequence-Driven Cyber-Informed Engineering (CCE), Cyber-Informed Engineering (CIE) and Critical Function Assurance (CFA)</h5>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zv8mgtdTTIk?si=IakZvT4MNBki4GOP"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/speU61T5e6k?si=iH6vsBU9umCIJPuR"></iframe>
 </div>
 <p></p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/97HT3wPlAOQ?si=M7SMWflAY_EIbDWP"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/speU61T5e6k?si=iH6vsBU9umCIJPuR"></iframe>
 </div>
 <p></p>
-<h5>Dveloping an OT Incident Response Plan</h5>
+<h5>Integrating Cybersecurity into Process Safety: Cybersecurity Risk Assessment for Process Hazard Analysis (PHA) and Hazard and Operability Study (HAZOP)</h5>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eisunGZ4XN8?si=M8m2eRHdxijJsW9O"></iframe>
+<iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c2sV_EBAw2g?si=A5qJg2nRRhcL6FTE"></iframe>
 </div>
 <p></p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3nkeL8e1O2o?si=z9p5Pr4SC_ZDXDC8"></iframe>
+<iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c2sV_EBAw2g?si=A5qJg2nRRhcL6FTE"></iframe>
 </div>
 <p></p>
