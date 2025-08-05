@@ -9,7 +9,7 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rVRAiX5jpPY?si=OMcrCoC2xsyW2Dbf"></iframe>
+<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-176TNBL5y4?si=-aa62MlxG_cI7GMo"></iframe>
 </div>
 <p></p>
 
@@ -19,17 +19,17 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hy5yII3V0YU?si=N35TX7L2_B_xx3oy"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HROePhGE794?si=aVbzppGqI6Klc4ok"></iframe>
 </div>
 <hr>
 <p></p>
 
 <h5><strong>
-
+13 Ways To Break An OT Firewall - And What To Do About Each Of Them
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/drxNAq_kKzo?si=4c0juXAr9STpp2sz"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SHCO_W8tQvc?si=DrVeXkKQxdFMKZ7p"></iframe>
 </div>
 <p></p>
 
@@ -37,7 +37,7 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_MyB82RTmHI?si=tRBwDYLw3GTcpds1"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8S2-G0CddhM?si=oIgNEJmK3ywoioTe"></iframe>
 </div>
 <p></p>
 
@@ -45,7 +45,7 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bhhCpDSorB0?si=gQ741ZkCWZRBhUFg"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q2kOoHoTzzc?si=CUcTqPlSbrtzyr8v"></iframe>
 </div>
 <p></p>
 
