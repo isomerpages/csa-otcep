@@ -36,3 +36,18 @@ third_nav_title: Day 1
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3nkeL8e1O2o?si=z9p5Pr4SC_ZDXDC8"></iframe>
 </div>
 <p></p>
+
+<style type="text/css"> 
+	    .video-container {
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 */
+      height: 0;
+    }
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+	</style>
