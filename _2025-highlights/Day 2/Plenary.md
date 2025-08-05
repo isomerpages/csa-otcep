@@ -22,6 +22,7 @@ third_nav_title: Day 2
 </div>
 <hr>
 <p></p>
+
 <h5><strong>Nightmare in a Bottle: Practical Incident Response Amid Chaotic OT Cyber Attack
 </strong></h5>
 <p></p>
@@ -29,6 +30,23 @@ third_nav_title: Day 2
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BI4mFhPj_Ok?si=q1oeYHyBntLPf573"></iframe>
 </div>
 <p></p>
+
+<h5><strong>OT Disaster Recovery with Engineering-Centric Scenarios
+</strong></h5>
+<p></p>
+<div class="video-container">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/57MS_7zW68Y?si=xf_8Zb8dsvN9oEON"></iframe>
+</div>
+<p></p>
+
+<h5><strong>Architecting OT Threat Detection: Operationalising MITRE ATT&amp;CK in Manufacturing Environments</strong></h5>
+<p></p>
+<div class="video-container">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0q5aB-ctsl4?si=jAlJInC87VebvGQH"></iframe>
+</div>
+<p></p>
+
+
 
 
 <style type="text/css"> 
