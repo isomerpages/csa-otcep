@@ -1,13 +1,13 @@
 ---
 title: Masterclasses
 permalink: /day-1-programme/masterclasses/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Day 1
 ---
 <h5><strong>Masterclass: Fundamentals of ICS Cybersecurity</strong></h5>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nY4mmqUMwh8?si=H3NFzXxATnpDqOVI"></iframe>
+<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nY4mmqUMwh8?si=H3NFzXxATnpDqOVI"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
