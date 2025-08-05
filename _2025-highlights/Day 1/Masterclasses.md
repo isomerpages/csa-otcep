@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Day 1
 ---
-<h5>Masterclass: Fundamentals of ICS Cybersecurity</h5>
+<h5><strong>Masterclass: Fundamentals of ICS Cybersecurity</strong></h5>
 <div class="iframe-wrapper">
 <iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nY4mmqUMwh8?si=H3NFzXxATnpDqOVI"></iframe>
 </div>
@@ -15,7 +15,7 @@ third_nav_title: Day 1
 </div>
 <hr>
 <p></p>
-<h5>Defensible ICS Architecture Essentials</h5>
+<h5><strong>Defensible ICS Architecture Essentials</strong></h5>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zv8mgtdTTIk?si=IakZvT4MNBki4GOP"></iframe>
@@ -26,7 +26,7 @@ third_nav_title: Day 1
 </div>
 <hr>
 <p></p>
-<h5>Dveloping an OT Incident Response Plan</h5>
+<h5><strong>Dveloping an OT Incident Response Plan</strong></h5>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eisunGZ4XN8?si=M8m2eRHdxijJsW9O"></iframe>
