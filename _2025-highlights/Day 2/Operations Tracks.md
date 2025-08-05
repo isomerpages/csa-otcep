@@ -9,7 +9,7 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/i750SMTwkJs?si=wclmA47J7wlAbR-l"></iframe>
+<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rVRAiX5jpPY?si=OMcrCoC2xsyW2Dbf"></iframe>
 </div>
 <p></p>
 
@@ -19,17 +19,16 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/13kKAWcnHsU?si=AblywO9AP4sMpEgP"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hy5yII3V0YU?si=N35TX7L2_B_xx3oy"></iframe>
 </div>
 <hr>
 <p></p>
 
 <h5><strong>ICS/OT Log Aggregation Across Complex System Architectures
-
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BI4mFhPj_Ok?si=q1oeYHyBntLPf573"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/drxNAq_kKzo?si=4c0juXAr9STpp2sz"></iframe>
 </div>
 <p></p>
 
@@ -37,7 +36,7 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/57MS_7zW68Y?si=xf_8Zb8dsvN9oEON"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_MyB82RTmHI?si=tRBwDYLw3GTcpds1"></iframe>
 </div>
 <p></p>
 
@@ -45,7 +44,7 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0q5aB-ctsl4?si=jAlJInC87VebvGQH"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bhhCpDSorB0?si=gQ741ZkCWZRBhUFg"></iframe>
 </div>
 <p></p>
 
