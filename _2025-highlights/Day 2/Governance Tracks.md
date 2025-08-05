@@ -29,7 +29,7 @@ The First 100 Days of a CISO: Securing the OT Environment
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/drxNAq_kKzo?si=4c0juXAr9STpp2sz"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7fBWJxfTqLg?si=3iMUiLnQHbKKaPIl"></iframe>
 </div>
 <p></p>
 
