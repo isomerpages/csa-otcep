@@ -9,7 +9,7 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rVRAiX5jpPY?si=OMcrCoC2xsyW2Dbf"></iframe>
+<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0Z9IVVpYnc8?si=DNqmQlwC_GTR9zXw"></iframe>
 </div>
 <p></p>
 
@@ -19,7 +19,7 @@ third_nav_title: Day 2
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hy5yII3V0YU?si=N35TX7L2_B_xx3oy"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wpe531WlSkA?si=2Vk1ITssru-hTksi"></iframe>
 </div>
 <hr>
 <p></p>
