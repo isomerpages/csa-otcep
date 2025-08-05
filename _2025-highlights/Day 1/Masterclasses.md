@@ -18,7 +18,7 @@ third_nav_title: Day 1
 <h5><strong>Defensible ICS Architecture Essentials</strong></h5>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zv8mgtdTTIk?si=IakZvT4MNBki4GOP"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zv8mgtdTTIk?si=IakZvT4MNBki4GOP"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
