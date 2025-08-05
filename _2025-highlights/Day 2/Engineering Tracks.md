@@ -11,8 +11,8 @@ third_nav_title: Day 2
 <div class="video-container">
 <iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-176TNBL5y4?si=-aa62MlxG_cI7GMo"></iframe>
 </div>
-<p></p>
 
+<p></p>
 <hr>
 <p></p>
 <h5><strong>Cybersecurity - Our Mission in Fusion Centre
@@ -22,6 +22,7 @@ third_nav_title: Day 2
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HROePhGE794?si=aVbzppGqI6Klc4ok"></iframe>
 </div>
 
+<p></p>
 <hr>
 <p></p>
 <h5><strong>
@@ -32,6 +33,7 @@ third_nav_title: Day 2
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SHCO_W8tQvc?si=DrVeXkKQxdFMKZ7p"></iframe>
 </div>
 
+<p></p>
 <hr>
 <p></p>
 <h5><strong>Empowering OT Cybersecurity Through AI
@@ -41,6 +43,7 @@ third_nav_title: Day 2
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8S2-G0CddhM?si=oIgNEJmK3ywoioTe"></iframe>
 </div>
 
+<p></p>
 <hr>
 <p></p>
 <h5><strong>AI in OT Cybersecurity – Opportunities and Threats
