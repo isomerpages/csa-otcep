@@ -21,9 +21,9 @@ third_nav_title: Day 2
 <div class="video-container">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HROePhGE794?si=aVbzppGqI6Klc4ok"></iframe>
 </div>
+
 <hr>
 <p></p>
-
 <h5><strong>
 13 Ways To Break An OT Firewall - And What To Do About Each Of Them
 </strong></h5>
@@ -31,16 +31,18 @@ third_nav_title: Day 2
 <div class="video-container">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SHCO_W8tQvc?si=DrVeXkKQxdFMKZ7p"></iframe>
 </div>
-<p></p>
 
+<hr>
+<p></p>
 <h5><strong>Empowering OT Cybersecurity Through AI
 </strong></h5>
 <p></p>
 <div class="video-container">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8S2-G0CddhM?si=oIgNEJmK3ywoioTe"></iframe>
 </div>
-<p></p>
 
+<hr>
+<p></p>
 <h5><strong>AI in OT Cybersecurity – Opportunities and Threats
 </strong></h5>
 <p></p>
