@@ -5,12 +5,14 @@ variant: markdown
 description: ""
 third_nav_title: Day 1
 ---
-#####  Masterclass: Fundamentals of ICS Cybersecurity 
-<p></p><div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/nY4mmqUMwh8?si=H3NFzXxATnpDqOVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+#####  Operational Technology Cyber Threat Update
 
 <p></p><div class="video-container">
-<iframe width="853" height="315" src="https://www.youtube.com/embed/wiBAZ-zOvrw?si=j__vNSRWnOFs5Uim" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<iframe width="853" height="315" src="https://www.youtube.com/embed/X6pR1qk44SQ?si=9ZoGprh2mwTybQ_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+
+<p></p><div class="video-container">
+<iframe width="853" height="315" src="https://www.youtube.com/embed/tORBzh82Yig?si=7-vYTJeVshuOBhj6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+
 
 #####  Defensible ICS Architecture Essentials 
 <p></p><div class="video-container">
