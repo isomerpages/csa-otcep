@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Day 1
 ---
 <h5>Masterclass: Fundamentals of ICS Cybersecurity</h5>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nY4mmqUMwh8?si=H3NFzXxATnpDqOVI"></iframe>
 </div>
