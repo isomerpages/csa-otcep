@@ -13,6 +13,7 @@ third_nav_title: Day 2
 </div>
 <p></p>
 
+<p></p>
 <hr>
 <p></p>
 <h5><strong>Technical Malware Research on OT/IoT Cybersecurity Trends and Insights
@@ -22,6 +23,7 @@ third_nav_title: Day 2
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hy5yII3V0YU?si=N35TX7L2_B_xx3oy"></iframe>
 </div>
 
+<p></p>
 <hr>
 <p></p>
 <h5><strong>ICS/OT Log Aggregation Across Complex System Architectures
@@ -31,6 +33,7 @@ third_nav_title: Day 2
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/drxNAq_kKzo?si=4c0juXAr9STpp2sz"></iframe>
 </div>
 
+<p></p>
 <hr>
 <p></p>
 <h5><strong>Preparing For Cyber Conflict: Strategies And Conversations Between Government And The Private Sector
@@ -40,6 +43,7 @@ third_nav_title: Day 2
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_MyB82RTmHI?si=tRBwDYLw3GTcpds1"></iframe>
 </div>
 
+<p></p>
 <hr>
 <p></p>
 <h5><strong>Secure Deployment in Critical OT Control and Safety
