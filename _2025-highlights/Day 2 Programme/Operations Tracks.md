@@ -5,16 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Day 2 Programme
 ---
-<h5><strong>Shift Left, Secure-By-Design, And Still Get Hacked? You’re Not Thinking Like A Hacker
-</strong></h5>
-<p></p>
-<div class="video-container">
-<iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rVRAiX5jpPY?si=OMcrCoC2xsyW2Dbf"></iframe>
-</div>
-<p></p>
 
-<p></p>
-<hr>
 <p></p>
 <h5><strong>Technical Malware Research on OT/IoT Cybersecurity Trends and Insights
 </strong></h5>
