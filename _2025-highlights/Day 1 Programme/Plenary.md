@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Day 1 Programme
 ---
-<h5>Operational Technology Cyber Threat Update</h5>
+<h5><strong>Operational Technology Cyber Threat Update</strong></h5>
 <p></p>
 <div class="video-container">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/X6pR1qk44SQ?si=9ZoGprh2mwTybQ_Y"></iframe>
@@ -18,7 +18,7 @@ third_nav_title: Day 1 Programme
 <p></p>
 <hr>
 <p></p>
-<h5>A Deep Dive into Consequence-Driven Cyber-Informed Engineering (CCE), Cyber-Informed Engineering (CIE) and Critical Function Assurance (CFA)</h5>
+<h5><strong>A Deep Dive into Consequence-Driven Cyber-Informed Engineering (CCE), Cyber-Informed Engineering (CIE) and Critical Function Assurance (CFA)</strong></h5>
 <p></p>
 <div class="video-container">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/speU61T5e6k?si=iH6vsBU9umCIJPuR"></iframe>
@@ -27,7 +27,7 @@ third_nav_title: Day 1 Programme
 <p></p>
 <hr>
 <p></p>
-<h5>Integrating Cybersecurity into Process Safety: Cybersecurity Risk Assessment for Process Hazard Analysis (PHA) and Hazard and Operability Study (HAZOP)</h5>
+<h5><strong>Integrating Cybersecurity into Process Safety: Cybersecurity Risk Assessment for Process Hazard Analysis (PHA) and Hazard and Operability Study (HAZOP)</strong></h5>
 <p></p>
 <div class="video-container">
 <iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c2sV_EBAw2g?si=A5qJg2nRRhcL6FTE"></iframe>
