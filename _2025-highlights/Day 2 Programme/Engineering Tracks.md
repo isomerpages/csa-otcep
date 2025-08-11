@@ -19,7 +19,7 @@ third_nav_title: Day 2 Programme
 </strong></h5>
 <p></p>
 <div class="video-container">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HROePhGE794?si=aVbzppGqI6Klc4ok"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wUqb-iDHHZw?si=iqU2iPIR0ekfYD-s"></iframe>
 </div>
 
 <p></p>
