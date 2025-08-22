@@ -5,7 +5,15 @@ variant: markdown
 description: ""
 third_nav_title: Day 2 Programme
 ---
-
+<p></p>
+<h5><strong>Shift Left, Secure-by-Design, and still get hacked? You’re not thinking like a Hacker
+</strong></h5>
+<p></p>
+<div class="video-container">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XnamfvuWscU?si=QZE0iH-K4rnrk4ij"></iframe>
+</div>
+<p></p>
+<hr>
 <p></p>
 <h5><strong>Technical Malware Research on OT/IoT Cybersecurity Trends and Insights
 </strong></h5>
