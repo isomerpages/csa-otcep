@@ -25,6 +25,7 @@ Click [here](https://www.dropbox.com/scl/fi/7jp8h86mzuxiau59blw6u/CSA-OTCEP-Foru
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/speU61T5e6k?si=iH6vsBU9umCIJPuR"></iframe>
 </div>
 
+Click [here](https://www.dropbox.com/scl/fi/zbgk18lbned4s75592bzc/A-deep-dive-into-CCE-CIE-and-CFA-Tudor-Conway.pdf?rlkey=4yoc6lzqb9e4o7vq4zb1u98xt&amp;st=oy18q2cs&amp;dl=0) to view presentation slide
 <p></p>
 <hr>
 <p></p>
@@ -37,6 +38,8 @@ Click [here](https://www.dropbox.com/scl/fi/7jp8h86mzuxiau59blw6u/CSA-OTCEP-Foru
 <div class="video-container">
 <iframe height="315" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cP09k5tWB28?si=TvKh_oDS7VemFmKX"></iframe>
 </div>
+
+Click [here](https://www.dropbox.com/scl/fi/pmxdai330q8ogbe1c6r9o/Integrating-Cybersecurity-into-Process-Safety-Cybersecurity-Risk-Assessment-for-Process-Hazard-Analysis-PHA-and-Hazard-and-Operability-Study-HAZOP.pdf?rlkey=evt5prp58x8orqpe9iyja9z2o&amp;st=tt5gvxzo&amp;dl=0) to view presentation slide
 <p></p>
 
 <style type="text/css"> 
