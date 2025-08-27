@@ -10,6 +10,8 @@ third_nav_title: Day 1 Programme
 <div class="video-container">
 <iframe height="480" width="853" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/glIfkr1BKD0?si=RHrLPwqzN8PWHJOz"></iframe>
 </div>
+
+Click [here](https://www.dropbox.com/scl/fi/4ci8stwzz4imo8fd5lkgv/Fundamentals-of-ICS-Cybersecurity.pdf?rlkey=9khgxe1znu1nuo34bmfxk81ng&amp;st=2zou8dhc&amp;dl=0) to view presentation slide
 <p></p>
 <hr>
 <p></p>
