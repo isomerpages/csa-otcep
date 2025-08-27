@@ -20,6 +20,8 @@ Click [here](https://www.dropbox.com/scl/fi/4ci8stwzz4imo8fd5lkgv/Fundamentals-o
 <div class="video-container">
 <iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4v9aATHy4T8?si=cY4NevOhfsu-i1OT"></iframe>
 </div>
+
+Click [here](https://www.dropbox.com/scl/fi/lm8bgxgfe1y8u3clly2k3/Defensible-ICS-Architecture-Essentials.pdf?rlkey=2vp76gvtjr6uui4hbjnnd6lz8&amp;st=34ibqn7i&amp;dl=0) to view presentation slide
 <p></p>
 <hr>
 <p></p>
@@ -28,6 +30,8 @@ Click [here](https://www.dropbox.com/scl/fi/4ci8stwzz4imo8fd5lkgv/Fundamentals-o
 <div class="video-container">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aIkBy7T9RIE?si=PseX7Pg7SP-bjlbs"></iframe>
 </div>
+
+Click [here](https://www.dropbox.com/scl/fi/778yf42ycmll1qenknncx/Dean-Parson-Developing-an-OT-Incident-Response-Plan.pptx?rlkey=n2u9o0uwdb2yycl581hi1c1rc&amp;st=1iqas55x&amp;dl=0) to view presentation slide
 <p></p>
 
 <style type="text/css"> 
