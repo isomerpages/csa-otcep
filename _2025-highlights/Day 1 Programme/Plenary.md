@@ -15,7 +15,7 @@ third_nav_title: Day 1 Programme
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tORBzh82Yig?si=7-vYTJeVshuOBhj6"></iframe>
 </div>
 
-[Here](https://www.dropbox.com/scl/fi/7jp8h86mzuxiau59blw6u/CSA-OTCEP-Forum-2025_Presentation-Carhart-1.pdf?rlkey=o6zttduq70ob9go91e0x4lfqe&amp;st=erbprijg&amp;dl=0)
+Click [here](https://www.dropbox.com/scl/fi/7jp8h86mzuxiau59blw6u/CSA-OTCEP-Forum-2025_Presentation-Carhart-1.pdf?rlkey=o6zttduq70ob9go91e0x4lfqe&amp;st=erbprijg&amp;dl=0) to view presentation slide
 <p></p>
 <hr>
 <p></p>
