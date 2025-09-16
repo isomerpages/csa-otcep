@@ -35,7 +35,7 @@ Click [here](https://www.dropbox.com/scl/fi/mkpv0ft0wv21nka6eos9m/Cybersecurity-
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SHCO_W8tQvc?si=DrVeXkKQxdFMKZ7p"></iframe>
 </div>
 
-Click [here](https://www.dropbox.com/scl/fi/0xvydx6fw5zfuohrpfusy/13-Ways-To-Break-An-OT-Firewall-And-What-To-Do-About-Each-Of-Them.pdf?rlkey=x3c6b0e15xi5bvlin6ay80f26&amp;st=z6vtbotd&amp;dl=0) to view presentation slide
+Click [here](https://www.dropbox.com/scl/fi/wulqpyou3jc3y6756vcdb/13-Ways-To-Break-An-OT-Firewall-And-What-To-Do-About-Each-Of-Them_FINAL.pdf?rlkey=ma8ulmjt3g02b2wf1wc5ntq9t&amp;st=v6eis01u&amp;dl=0) to view presentation slide
 <p></p>
 <hr>
 <p></p>
