@@ -34,7 +34,7 @@ Click [here](https://www.dropbox.com/scl/fi/6ecyqh77vriwjry2il9oo/Technical-Malw
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/drxNAq_kKzo?si=4c0juXAr9STpp2sz"></iframe>
 </div>
 
-Click [here](https://www.dropbox.com/scl/fi/4ci8stwzz4imo8fd5lkgv/Fundamentals-of-ICS-Cybersecurity.pdf?rlkey=9khgxe1znu1nuo34bmfxk81ng&amp;st=2zou8dhc&amp;dl=0) to view presentation slide
+Click [here](https://www.dropbox.com/scl/fi/xbm0nahx5gw20654kjjzi/ICS-OT-Log-Aggregation-Across-Complex-System-Architectures.pdf?rlkey=zpjxr97djzma05vafqpt3n1k8&amp;st=j4gr4za0&amp;dl=0) to view presentation slide
 <p></p>
 <hr>
 <p></p>
