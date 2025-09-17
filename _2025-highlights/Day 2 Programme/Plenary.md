@@ -44,7 +44,7 @@ Click [here](https://www.dropbox.com/scl/fi/ifea48ifq7p34kb62ikgo/Nightmare-in-a
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/57MS_7zW68Y?si=xf_8Zb8dsvN9oEON"></iframe>
 </div>
 
-Click [here](https://www.dropbox.com/scl/fi/4ci8stwzz4imo8fd5lkgv/Fundamentals-of-ICS-Cybersecurity.pdf?rlkey=9khgxe1znu1nuo34bmfxk81ng&amp;st=2zou8dhc&amp;dl=0) to view presentation slide
+Click [here](https://www.dropbox.com/scl/fi/dijixnpl65uo1cum5zbiu/OT-Disaster-Recovery-with-Engineering-Centric-Scenarios.pdf?rlkey=py4f5rp88hceug8be33cewanl&amp;st=ybkqjb20&amp;dl=0) to view presentation slide
 <p></p>
 <hr>
 <p></p>
@@ -54,7 +54,7 @@ Click [here](https://www.dropbox.com/scl/fi/4ci8stwzz4imo8fd5lkgv/Fundamentals-o
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0q5aB-ctsl4?si=jAlJInC87VebvGQH"></iframe>
 </div>
 
-Click [here](https://www.dropbox.com/scl/fi/4ci8stwzz4imo8fd5lkgv/Fundamentals-of-ICS-Cybersecurity.pdf?rlkey=9khgxe1znu1nuo34bmfxk81ng&amp;st=2zou8dhc&amp;dl=0) to view presentation slide
+Click [here](https://www.dropbox.com/scl/fi/1b9e3kngbg4l1wcasdb04/CSA-OTCEP-Forum-2025_Architecting-OT-Threat-Detection-Operationalising-MITRE-ATT-CK-use-cases-in-OT.pdf?rlkey=thzt4a1es99p0ne4pwfem9n2w&amp;st=9gsb7xty&amp;dl=0) to view presentation slide
 <p></p>
 
 
