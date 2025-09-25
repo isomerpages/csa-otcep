@@ -10,7 +10,7 @@ GenAI assisted Purple Teaming
 </strong></h5>
 <p></p>
 
-![](/images/2025%20OTCEP%20Forum/Purple_Team_Workshop___GenAI_assisted_Purple_Teaming_Cover.jpg)
+![https://www.dropbox.com/scl/fi/vgx56yup045q6wd2garpa/Purple-Team-Workshop-GenAI-assisted-Purple-Teaming.pdf?rlkey=3c9w8qb395engu5z9vd97622z&amp;st=270e8pny&amp;dl=0](/images/2025%20OTCEP%20Forum/Purple_Team_Workshop___GenAI_assisted_Purple_Teaming_Cover.jpg)
 
 Click [here](https://www.dropbox.com/scl/fi/vgx56yup045q6wd2garpa/Purple-Team-Workshop-GenAI-assisted-Purple-Teaming.pdf?rlkey=3c9w8qb395engu5z9vd97622z&amp;st=270e8pny&amp;dl=0) to view presentation slide
 <p></p>
