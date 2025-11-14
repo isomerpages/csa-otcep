@@ -16,6 +16,9 @@ sections:
         - title: Speakers
           description: Click to view profile
           url: /speakers/
+        - title: Call-For-Presentation
+          description: Click to submit
+          url: https://go.gov.sg/otcepcfp
       variant: center
   - textcards:
       title: Past Programme Highlights
