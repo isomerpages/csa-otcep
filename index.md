@@ -21,10 +21,6 @@ sections:
       title: Past Programme Highlights
       id: textcards
       cards:
-        - title: 2025 Programme
-          description: ""
-          linktext: Learn more
-          url: /2025-otcepforum/day-1/masterclasses/
         - title: 2024 Programme
           description: ""
           linktext: Learn more
@@ -33,4 +29,8 @@ sections:
           description: ""
           linktext: Learn more
           url: /2023-highlights/otcep-forum-2023-highlight/
+        - title: 2022 Programme
+          description: ""
+          linktext: Learn more
+          url: 2022-highlights/otcep-forum-2022-highlight/
 ---
