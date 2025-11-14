@@ -22,9 +22,9 @@ sections:
       id: textcards
       cards:
         - title: 2025 Programme
-          description: Card description
+          description: ""
           linktext: Learn more
-          url: ""
+          url: /2025-otcepforum/day-1/masterclasses/
         - title: 2024 Programme
           description: ""
           linktext: Learn more
