@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner/250630_OTCEP_2025_ISOMER_Banner_R04.png
+      background: /images/251114_OTCEP_2025_ISOMER_Save_the_Date_Banner_R02_1.png
       url: /contact-us/
       key_highlights:
         - title: Programme highlights for 2025
