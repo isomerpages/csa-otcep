@@ -25,7 +25,7 @@ Click [here](https://www.dropbox.com/scl/fi/lm8bgxgfe1y8u3clly2k3/Defensible-ICS
 <p></p>
 <hr>
 <p></p>
-<h5><strong>Dveloping an OT Incident Response Plan</strong></h5>
+<h5><strong>Developing an OT Incident Response Plan</strong></h5>
 <p></p>
 <div class="video-container">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aIkBy7T9RIE?si=PseX7Pg7SP-bjlbs"></iframe>

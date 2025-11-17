@@ -7,30 +7,37 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner/250630_OTCEP_2025_ISOMER_Banner_R04.png
+      background: /images/251114_OTCEP_2025_ISOMER_Save_the_Date_Banner_R03.png
       url: /contact-us/
       key_highlights:
-        - title: Programme highlights for 2025
+        - title: Event Highlights for 2025
           description: Click to view highlights
-          url: /2025-otcepforum/day-1/masterclasses/
+          url: /event-highlight/
         - title: Speakers
           description: Click to view profile
           url: /speakers/
+        - title: Call-For-Presentation
+          description: Click to submit
+          url: https://go.gov.sg/otcepcfp
       variant: center
   - textcards:
       title: Past Programme Highlights
       id: textcards
       cards:
+        - title: 2025 Programme
+          description: ""
+          linktext: Learn more
+          url: /event-highlight/
         - title: 2024 Programme
           description: ""
           linktext: Learn more
-          url: /2024-otcepforum/day-1/masterclasses/
+          url: 2025-otcepforum/day-1/masterclasses/
         - title: 2023 Programme
           description: ""
           linktext: Learn more
-          url: /2023-highlights/otcep-forum-2023-highlight/
+          url: 2023-highlights/day-1-presentation/cyber-threat-landscape/
         - title: 2022 Programme
           description: ""
           linktext: Learn more
-          url: /2022-highlights/otcep-forum-2022-highlight/
+          url: 2022-highlights/presentation-and-panel/the-latest-industrial-control-system-malware/
 ---
