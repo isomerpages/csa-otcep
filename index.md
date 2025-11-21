@@ -13,9 +13,6 @@ sections:
         - title: Event Highlights for 2025
           description: Click to view highlights
           url: /event-highlight/
-        - title: Speakers
-          description: Click to view profile
-          url: /speakers/
         - title: Call-For-Presentation
           description: Click to submit
           url: https://go.gov.sg/otcepcfp
