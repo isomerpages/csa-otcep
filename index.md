@@ -7,18 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/251114_OTCEP_2025_ISOMER_Save_the_Date_Banner_R03.png
+      background: /images/banner/260318_OTCEP_2025_ISOMER_Save_the_Date_Banner_R09_1.png
       url: /contact-us/
       key_highlights:
         - title: Event Highlights for 2025
           description: Click to view highlights
           url: /event-highlight/
-        - title: Speakers
-          description: Click to view profile
-          url: /speakers/
-        - title: Call-For-Presentation
-          description: Click to submit
-          url: https://go.gov.sg/otcepcfp
+        - title: Register now
+          description: Click here to register
+          url: https://www.gevme.com/65254584/registration/buy?tickets-506229=1
       variant: center
   - textcards:
       title: Past Programme Highlights
