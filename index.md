@@ -15,7 +15,7 @@ sections:
           url: /event-highlight/
         - title: Register now
           description: Click here to register
-          url: https://www.gevme.com/operational-technology-cybersecurity-expert-panel-forum-2026-65254584
+          url: https://www.gevme.com/65254584/registration/buy?tickets-506229=1
       variant: center
   - textcards:
       title: Past Programme Highlights
