@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/251114_OTCEP_2025_ISOMER_Save_the_Date_Banner_R03.png
+      background: /images/banner/260318_OTCEP_2025_ISOMER_Save_the_Date_Banner_R09_OPTION_01.png
       url: /contact-us/
       key_highlights:
         - title: Event Highlights for 2025
