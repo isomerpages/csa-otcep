@@ -15,7 +15,7 @@ sections:
           url: /event-highlight/
         - title: Register now
           description: Click here to register
-          url: https://go.gov.sg/otcepcfp
+          url: https://www.gevme.com/operational-technology-cybersecurity-expert-panel-forum-2026-65254584
       variant: center
   - textcards:
       title: Past Programme Highlights
