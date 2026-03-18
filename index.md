@@ -13,8 +13,8 @@ sections:
         - title: Event Highlights for 2025
           description: Click to view highlights
           url: /event-highlight/
-        - title: Call-For-Presentation
-          description: Click to submit
+        - title: Register now
+          description: Click here to register
           url: https://go.gov.sg/otcepcfp
       variant: center
   - textcards:
