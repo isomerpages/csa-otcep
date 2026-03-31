@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/260331_OTCEP_2026_Email_Masthead_R08.png
+      background: /images/260331_OTCEP_2026_Email_Masthead_R09.png
       url: /contact-us/
       key_highlights:
         - title: Event Highlights for 2025
